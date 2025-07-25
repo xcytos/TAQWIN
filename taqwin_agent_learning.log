@@ -1,1 +1,7 @@
-2025-07-25 02:52:58,887 - TAQWIN AgentLearning - WARNING - Unknown agent: TAQWIN_AI_BRAIN
+2025-07-25 11:21:45,429 - TAQWIN AgentLearning - ERROR - [ERROR] Failed to create learning directories: 'TaqwinAgentLearningSystem' object has no attribute 'legendary_agents'
+2025-07-25 11:21:45,450 - TAQWIN AgentLearning - INFO - [CHECK] Agent learning database initialized
+2025-07-25 11:21:45,450 - TAQWIN AgentLearning - INFO - [BRAIN] TAQWIN Agent Learning System Initialized
+2025-07-25 11:21:45,450 - TAQWIN AgentLearning - INFO - [STATS] Monitoring 20 Legendary Agents
+2025-07-25 11:21:45,450 - TAQWIN AgentLearning - INFO - [BOLT] Individual agent learning protocols: ACTIVE
+2025-07-25 11:21:45,460 - TAQWIN AgentLearning - INFO - [FILE] Conversation file created: D:\Ethereal Glow\agent-learning\chanakya\conversations\6CAF56E5769B_strategic_analysis.md
+2025-07-25 11:21:45,464 - TAQWIN AgentLearning - INFO - [BOOK] Conversation stored for CHANAKYA: 6CAF56E5769B

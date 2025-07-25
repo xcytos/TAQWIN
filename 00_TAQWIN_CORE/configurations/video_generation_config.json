@@ -1,0 +1,178 @@
+{
+  "ethereal_glow_video_generation": {
+    "system_info": {
+      "target_hardware": "RTX 3050 Ti 4GB VRAM",
+      "optimization_level": "maximum_compatibility",
+      "memory_management": "ultra_conservative",
+      "shared_gpu_memory": true
+    },
+    "pipeline_config": {
+      "model": "emilianJR/epiCRealism",
+      "motion_adapter": "guoyww/animatediff-motion-adapter-v1-5-2",
+      "torch_dtype": "float16",
+      "enable_optimizations": [
+        "attention_slicing",
+        "sequential_cpu_offload",
+        "vae_slicing",
+        "vae_tiling",
+        "flash_sdp"
+      ],
+      "memory_fraction": 0.6,
+      "cuda_alloc_conf": "expandable_segments:True"
+    },
+    "video_settings": {
+      "conservative": {
+        "resolution": "512x512",
+        "frames": 32,
+        "duration_seconds": 10,
+        "fps": 8,
+        "guidance_scale": 7.0,
+        "inference_steps": 20
+      },
+      "balanced": {
+        "resolution": "640x640",
+        "frames": 48,
+        "duration_seconds": 10,
+        "fps": 8,
+        "guidance_scale": 8.0,
+        "inference_steps": 25
+      },
+      "aggressive": {
+        "resolution": "768x768",
+        "frames": 64,
+        "duration_seconds": 10,
+        "fps": 8,
+        "guidance_scale": 9.0,
+        "inference_steps": 30
+      }
+    },
+    "video_templates": {
+      "brand_story": {
+        "name": "Ethereal Glow Brand Story",
+        "duration": 10,
+        "prompt": "Cinematic beauty commercial of Ethereal Glow organic skincare, elegant woman applying natural multani mitti clay mask, golden hour lighting, serene spa environment, premium glass jar with golden cap, traditional Indian beauty ritual, soft focus cinematography, warm earthy tones, luxury skincare brand presentation, professional studio quality",
+        "negative_prompt": "low quality, blurry, pixelated, harsh lighting, cheap packaging, plastic materials, artificial colors, amateur photography, noise, artifacts, distorted, poor composition",
+        "seed": 42,
+        "category": "brand_narrative"
+      },
+      "product_showcase": {
+        "name": "Premium Product Display",
+        "duration": 8,
+        "prompt": "Luxury product showcase of Ethereal Glow skincare line, three premium glass jars on natural stone surface, soft directional lighting, elegant shadows, golden caps gleaming, natural ingredients artistically arranged, premium packaging visible, commercial beauty photography, warm tones, professional studio setup",
+        "negative_prompt": "cheap appearance, plastic packaging, harsh shadows, poor lighting, blurry details, amateur photography, cluttered composition, artificial materials",
+        "seed": 100,
+        "category": "product_focus"
+      },
+      "ingredients_story": {
+        "name": "Natural Ingredients Journey",
+        "duration": 12,
+        "prompt": "Premium beauty transformation showing organic skincare ingredients, turmeric powder and multani mitti clay in elegant wooden bowls, beautiful woman with radiant glowing skin, before and after skincare results, macro photography of natural textures, professional beauty commercial lighting, golden natural tones, high-end spa atmosphere",
+        "negative_prompt": "artificial transitions, poor lighting, low resolution, fake results, heavy makeup, unnatural skin, cheap ingredients, poor composition, plastic containers",
+        "seed": 200,
+        "category": "transformation"
+      },
+      "application_demo": {
+        "name": "Skincare Application Ritual",
+        "duration": 8,
+        "prompt": "Beautiful woman applying natural face mask, gentle movements, serene expression, spa environment, soft golden lighting, healthy skin, premium skincare ritual, professional beauty photography, elegant hands, peaceful atmosphere",
+        "negative_prompt": "harsh movements, poor lighting, artificial, heavy makeup, amateur quality, blurry, distorted, aggressive application",
+        "seed": 300,
+        "category": "tutorial"
+      },
+      "results_reveal": {
+        "name": "Glowing Skin Results",
+        "duration": 6,
+        "prompt": "Radiant woman with glowing healthy skin, confident smile, natural makeup, soft natural lighting, beautiful complexion, peaceful expression, beauty portrait, professional photography, warm tones",
+        "negative_prompt": "heavy makeup, artificial skin, plastic appearance, harsh lighting, fake smile, over-processed, unnatural results",
+        "seed": 400,
+        "category": "results"
+      }
+    },
+    "segment_library": {
+      "opening_hooks": [
+        {
+          "name": "ancient_wisdom_hook",
+          "prompt": "Ancient Indian woman applying traditional clay mask, golden lighting, wisdom in eyes, serene expression",
+          "duration": 3
+        },
+        {
+          "name": "modern_problem_hook", 
+          "prompt": "Frustrated young woman with skin concerns, looking in mirror, seeking natural solutions",
+          "duration": 3
+        }
+      ],
+      "brand_introductions": [
+        {
+          "name": "ethereal_glow_reveal",
+          "prompt": "Ethereal Glow logo animation, elegant typography, premium brand presentation, golden accents",
+          "duration": 2
+        }
+      ],
+      "closing_segments": [
+        {
+          "name": "call_to_action",
+          "prompt": "Confident woman holding Ethereal Glow product, inspiring smile, natural background",
+          "duration": 3
+        }
+      ]
+    },
+    "output_structure": {
+      "base_directory": "ethereal_glow_ai_videos",
+      "subdirectories": {
+        "raw_segments": "segments/raw",
+        "processed_segments": "segments/processed", 
+        "final_reels": "final_videos",
+        "templates": "templates",
+        "exports": "exports"
+      },
+      "naming_convention": "{category}_{name}_{timestamp}_{quality_level}.mp4"
+    },
+    "quality_levels": {
+      "draft": {
+        "description": "Quick generation for testing",
+        "settings": "conservative"
+      },
+      "standard": {
+        "description": "Good quality for most use cases",
+        "settings": "balanced"
+      },
+      "premium": {
+        "description": "Maximum quality (if hardware supports)",
+        "settings": "aggressive"
+      }
+    },
+    "workflow_templates": {
+      "single_video": {
+        "name": "Single Video Generation",
+        "steps": [
+          "select_template",
+          "configure_settings", 
+          "generate_video",
+          "save_output",
+          "cleanup_memory"
+        ]
+      },
+      "reel_creation": {
+        "name": "Complete Reel Assembly",
+        "steps": [
+          "select_segments",
+          "generate_all_segments",
+          "post_process_segments",
+          "combine_segments",
+          "add_transitions",
+          "export_final_reel"
+        ]
+      },
+      "batch_generation": {
+        "name": "Multiple Video Batch",
+        "steps": [
+          "select_multiple_templates",
+          "queue_generation",
+          "process_sequentially",
+          "organize_outputs",
+          "generate_summary"
+        ]
+      }
+    }
+  }
+}

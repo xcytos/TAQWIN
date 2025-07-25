@@ -1,0 +1,23 @@
+{
+  "research_summary": {
+    "research_id": "eeb845705e39",
+    "timestamp": "2025-07-25T12:02:50.083040",
+    "total_data_points": 6313,
+    "key_findings": [
+      "Instagram Reels require 15-90 second vertical videos",
+      "First 0.5-1 seconds critical for engagement",
+      "AI generation can reduce costs to ₹0 per video",
+      "Manual editing creates 2-4 hour bottleneck",
+      "Automated pipeline can produce 5-10 reels in 80 minutes",
+      "Competitive advantage: 10-15x faster than traditional methods"
+    ],
+    "strategic_impact": "REVOLUTIONARY - Enables content domination",
+    "implementation_urgency": "IMMEDIATE",
+    "revenue_potential": "₹2-5L monthly from AI-powered content"
+  },
+  "file_locations": {
+    "master_report": "D:\\Ethereal Glow\\web-intelligence-data/structured_reports/master_research_report_eeb845705e39.json",
+    "competitive_intelligence": "D:\\Ethereal Glow\\web-intelligence-data/structured_reports/competitive_intelligence_eeb845705e39.json",
+    "technical_specifications": "D:\\Ethereal Glow\\web-intelligence-data/structured_reports/technical_specifications_eeb845705e39.json"
+  }
+}

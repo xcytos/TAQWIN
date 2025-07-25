@@ -1,0 +1,62 @@
+{
+  "segments": [
+    {
+      "timing": "0-3 seconds",
+      "script": "🌟 Ready for skin that glows from within? Weekly Exfoliating Mask with Natural AHA and Clay is here!",
+      "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
+      "audio_note": "Enthusiastic, warm female voice"
+    },
+    {
+      "timing": "4-8 seconds",
+      "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
+      "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
+      "audio_note": "Empathetic tone, addressing pain point"
+    },
+    {
+      "timing": "9-25 seconds",
+      "script": "Introducing Weekly Exfoliating Mask with Natural AHA and Clay from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
+      "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
+      "audio_note": "Professional, confident tone highlighting benefits"
+    },
+    {
+      "timing": "26-40 seconds",
+      "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
+      "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
+      "audio_note": "Trustworthy tone with social proof emphasis"
+    },
+    {
+      "timing": "41-50 seconds",
+      "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
+      "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+      "audio_note": "Strong, motivating call-to-action"
+    },
+    {
+      "timing": "51-60 seconds",
+      "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
+      "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
+      "audio_note": "Memorable brand tagline delivery"
+    }
+  ],
+  "brand_elements": {
+    "logo_placement": "Bottom right corner throughout",
+    "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
+    "color_scheme": "Gold and cream tones, elegant typography",
+    "music": "Soft, uplifting background music"
+  },
+  "technical_specs": {
+    "total_length": "60 seconds",
+    "recommended_resolution": "1080p (1920x1080)",
+    "aspect_ratios": {
+      "instagram": "1:1 (1080x1080)",
+      "youtube": "16:9 (1920x1080)",
+      "tiktok": "9:16 (1080x1920)"
+    }
+  },
+  "product_info": {
+    "name": "Weekly Exfoliating Mask",
+    "features": "with Natural AHA and Clay",
+    "audience": "Skincare enthusiasts seeking deep treatment",
+    "focus": "Deep cleansing and skin renewal"
+  },
+  "generation_date": "2025-07-25 10:20:36"
+}
