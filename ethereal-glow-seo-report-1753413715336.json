@@ -1,0 +1,796 @@
+{
+  "timestamp": "2025-07-25T03:21:55.331Z",
+  "keywords": {
+    "ethereal glow": {
+      "keyword": "ethereal glow",
+      "difficulty": 5,
+      "level": "Easy",
+      "searchVolume": 1058,
+      "competition": "Low"
+    },
+    "the real glow": {
+      "keyword": "the real glow",
+      "difficulty": 41,
+      "level": "Medium",
+      "searchVolume": 1682,
+      "competition": "Medium"
+    },
+    "multani mitti": {
+      "keyword": "multani mitti",
+      "difficulty": 65,
+      "level": "Medium",
+      "searchVolume": 9698,
+      "competition": "High"
+    },
+    "organic skincare india": {
+      "keyword": "organic skincare india",
+      "difficulty": 36,
+      "level": "Easy",
+      "searchVolume": 7171,
+      "competition": "Medium"
+    },
+    "natural beauty products": {
+      "keyword": "natural beauty products",
+      "difficulty": 24,
+      "level": "Easy",
+      "searchVolume": 8334,
+      "competition": "Low"
+    },
+    "neem ubtan": {
+      "keyword": "neem ubtan",
+      "difficulty": 35,
+      "level": "Easy",
+      "searchVolume": 4616,
+      "competition": "Medium"
+    },
+    "orange peel face mask": {
+      "keyword": "orange peel face mask",
+      "difficulty": 16,
+      "level": "Easy",
+      "searchVolume": 4370,
+      "competition": "Low"
+    },
+    "chemical free skincare": {
+      "keyword": "chemical free skincare",
+      "difficulty": 2,
+      "level": "Easy",
+      "searchVolume": 8949,
+      "competition": "Low"
+    },
+    "handcrafted beauty products": {
+      "keyword": "handcrafted beauty products",
+      "difficulty": 81,
+      "level": "Hard",
+      "searchVolume": 7161,
+      "competition": "High"
+    },
+    "ayurvedic skincare": {
+      "keyword": "ayurvedic skincare",
+      "difficulty": 15,
+      "level": "Easy",
+      "searchVolume": 10482,
+      "competition": "Low"
+    }
+  },
+  "competitors": {
+    "mamaearth.in": {
+      "domain": "mamaearth.in",
+      "estimated_keywords": 2182,
+      "estimated_traffic": 39252,
+      "domain_authority": 29,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 13
+        },
+        {
+          "keyword": "the real glow",
+          "position": 4
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 14
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 13
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 16
+        }
+      ]
+    },
+    "thebodyshop.in": {
+      "domain": "thebodyshop.in",
+      "estimated_keywords": 3817,
+      "estimated_traffic": 10302,
+      "domain_authority": 20,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 16
+        },
+        {
+          "keyword": "the real glow",
+          "position": 7
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 7
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 8
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 14
+        }
+      ]
+    },
+    "khadinatural.com": {
+      "domain": "khadinatural.com",
+      "estimated_keywords": 1223,
+      "estimated_traffic": 12041,
+      "domain_authority": 47,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 11
+        },
+        {
+          "keyword": "the real glow",
+          "position": 16
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 18
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 11
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 2
+        }
+      ]
+    },
+    "biotique.com": {
+      "domain": "biotique.com",
+      "estimated_keywords": 5717,
+      "estimated_traffic": 53713,
+      "domain_authority": 41,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 4
+        },
+        {
+          "keyword": "the real glow",
+          "position": 5
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 19
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 14
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 17
+        }
+      ]
+    },
+    "plumgoodness.com": {
+      "domain": "plumgoodness.com",
+      "estimated_keywords": 1245,
+      "estimated_traffic": 102109,
+      "domain_authority": 75,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 13
+        },
+        {
+          "keyword": "the real glow",
+          "position": 15
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 5
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 10
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 15
+        }
+      ]
+    },
+    "mcaffeine.com": {
+      "domain": "mcaffeine.com",
+      "estimated_keywords": 2583,
+      "estimated_traffic": 69562,
+      "domain_authority": 37,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 1
+        },
+        {
+          "keyword": "the real glow",
+          "position": 12
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 4
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 6
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 18
+        }
+      ]
+    },
+    "mangoproduct.com": {
+      "domain": "mangoproduct.com",
+      "estimated_keywords": 1593,
+      "estimated_traffic": 82453,
+      "domain_authority": 72,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 10
+        },
+        {
+          "keyword": "the real glow",
+          "position": 6
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 18
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 8
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 13
+        }
+      ]
+    },
+    "forestessentialsindia.com": {
+      "domain": "forestessentialsindia.com",
+      "estimated_keywords": 1018,
+      "estimated_traffic": 32869,
+      "domain_authority": 53,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 4
+        },
+        {
+          "keyword": "the real glow",
+          "position": 20
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 7
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 18
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 8
+        }
+      ]
+    },
+    "justherbs.in": {
+      "domain": "justherbs.in",
+      "estimated_keywords": 3363,
+      "estimated_traffic": 10078,
+      "domain_authority": 48,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 17
+        },
+        {
+          "keyword": "the real glow",
+          "position": 19
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 7
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 20
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 16
+        }
+      ]
+    },
+    "khadi.org": {
+      "domain": "khadi.org",
+      "estimated_keywords": 4625,
+      "estimated_traffic": 85307,
+      "domain_authority": 32,
+      "content_gaps": [
+        {
+          "topic": "Complete Guide to Multani Mitti",
+          "keywords": [
+            "multani mitti benefits",
+            "how to use multani mitti",
+            "multani mitti for different skin types"
+          ],
+          "contentType": "Pillar Page",
+          "priority": "High"
+        },
+        {
+          "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+          "keywords": [
+            "homemade face masks",
+            "natural skincare recipes",
+            "ayurvedic beauty tips"
+          ],
+          "contentType": "Blog Series",
+          "priority": "High"
+        },
+        {
+          "topic": "Skin Type Guide: Finding Your Perfect Routine",
+          "keywords": [
+            "skin type quiz",
+            "skincare routine for oily skin",
+            "dry skin care tips"
+          ],
+          "contentType": "Interactive Guide",
+          "priority": "Medium"
+        }
+      ],
+      "top_keywords": [
+        {
+          "keyword": "ethereal glow",
+          "position": 5
+        },
+        {
+          "keyword": "the real glow",
+          "position": 14
+        },
+        {
+          "keyword": "multani mitti",
+          "position": 2
+        },
+        {
+          "keyword": "organic skincare india",
+          "position": 4
+        },
+        {
+          "keyword": "natural beauty products",
+          "position": 8
+        }
+      ]
+    }
+  },
+  "opportunities": [],
+  "recommendations": [],
+  "contentStrategy": [
+    {
+      "topic": "Complete Guide to Multani Mitti",
+      "keywords": [
+        "multani mitti benefits",
+        "how to use multani mitti",
+        "multani mitti for different skin types"
+      ],
+      "contentType": "Pillar Page",
+      "priority": "High"
+    },
+    {
+      "topic": "DIY Natural Face Masks with Kitchen Ingredients",
+      "keywords": [
+        "homemade face masks",
+        "natural skincare recipes",
+        "ayurvedic beauty tips"
+      ],
+      "contentType": "Blog Series",
+      "priority": "High"
+    },
+    {
+      "topic": "Skin Type Guide: Finding Your Perfect Routine",
+      "keywords": [
+        "skin type quiz",
+        "skincare routine for oily skin",
+        "dry skin care tips"
+      ],
+      "contentType": "Interactive Guide",
+      "priority": "Medium"
+    },
+    {
+      "topic": "Seasonal Skincare: Adapting Your Routine",
+      "keywords": [
+        "winter skincare routine",
+        "summer skincare tips",
+        "monsoon skin problems"
+      ],
+      "contentType": "Seasonal Content",
+      "priority": "Medium"
+    },
+    {
+      "topic": "Chemical vs Natural Skincare: The Truth",
+      "keywords": [
+        "chemical free skincare benefits",
+        "natural vs synthetic ingredients"
+      ],
+      "contentType": "Educational Article",
+      "priority": "High"
+    }
+  ],
+  "localSEO": {
+    "targetCities": [
+      "Bangalore",
+      "Mumbai",
+      "Delhi",
+      "Chennai",
+      "Hyderabad",
+      "Pune",
+      "Kolkata",
+      "Ahmedabad",
+      "Jaipur",
+      "Lucknow"
+    ],
+    "localKeywords": [
+      "organic skincare bangalore",
+      "natural beauty products mumbai",
+      "ayurvedic cosmetics delhi",
+      "chemical free skincare chennai"
+    ],
+    "gmyBusinessOptimization": [
+      "Complete business profile with products",
+      "Regular posts about skincare tips",
+      "Customer reviews and responses",
+      "Local citations and directories"
+    ]
+  },
+  "technicalSEO": {
+    "coreWebVitals": [
+      "Optimize images with WebP format",
+      "Implement lazy loading",
+      "Minimize CSS and JavaScript",
+      "Use CDN for static assets"
+    ],
+    "structured_data": [
+      "Product schema for each skincare item",
+      "Review schema for testimonials",
+      "FAQ schema for common questions",
+      "LocalBusiness schema if applicable"
+    ],
+    "mobile_optimization": [
+      "Mobile-first indexing ready",
+      "Touch-friendly navigation",
+      "Fast mobile loading speed",
+      "Responsive design implementation"
+    ]
+  },
+  "actionPlan": {
+    "immediate_actions": [
+      "Create comprehensive Multani Mitti guide (target: multani mitti benefits)",
+      "Optimize product pages with more detailed descriptions",
+      "Add FAQ schema to common questions",
+      "Create location-based landing pages for major cities"
+    ],
+    "short_term": [
+      "Launch weekly blog content focusing on skincare education",
+      "Build backlinks from beauty and wellness blogs",
+      "Optimize for voice search queries",
+      "Create video content for YouTube SEO"
+    ],
+    "long_term": [
+      "Develop comprehensive skincare course/guide",
+      "Create mobile app for personalized skincare routines",
+      "Expand to international markets with localized content",
+      "Build authority through industry partnerships"
+    ]
+  }
+}

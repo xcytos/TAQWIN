@@ -1,0 +1,2484 @@
+{
+  "timestamp": "2025-07-25T03:03:19.451Z",
+  "psychologicalKeywords": {
+    "skinConcerns": [
+      {
+        "keyword": "acne scars removal",
+        "difficulty": 34,
+        "searchVolume": 8784,
+        "competition": "Low",
+        "cpc": "1.22",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "dark spots treatment",
+        "difficulty": 11,
+        "searchVolume": 9314,
+        "competition": "Low",
+        "cpc": "0.82",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "oily skin control",
+        "difficulty": 32,
+        "searchVolume": 14055,
+        "competition": "Low",
+        "cpc": "0.29",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "dry skin remedy",
+        "difficulty": 93,
+        "searchVolume": 7660,
+        "competition": "High",
+        "cpc": "0.60",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "sensitive skin care",
+        "difficulty": 54,
+        "searchVolume": 10172,
+        "competition": "Medium",
+        "cpc": "1.97",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "anti aging natural",
+        "difficulty": 33,
+        "searchVolume": 3289,
+        "competition": "Low",
+        "cpc": "2.05",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "wrinkle reduction",
+        "difficulty": 71,
+        "searchVolume": 11591,
+        "competition": "High",
+        "cpc": "1.86",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "pigmentation removal",
+        "difficulty": 89,
+        "searchVolume": 3750,
+        "competition": "High",
+        "cpc": "0.88",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "blackhead removal",
+        "difficulty": 80,
+        "searchVolume": 1795,
+        "competition": "High",
+        "cpc": "0.80",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "whiteheads treatment",
+        "difficulty": 62,
+        "searchVolume": 6553,
+        "competition": "Medium",
+        "cpc": "1.55",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "pimple marks",
+        "difficulty": 78,
+        "searchVolume": 7862,
+        "competition": "High",
+        "cpc": "1.46",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "uneven skin tone",
+        "difficulty": 45,
+        "searchVolume": 3068,
+        "competition": "Medium",
+        "cpc": "1.19",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "dull skin brightening",
+        "difficulty": 14,
+        "searchVolume": 5534,
+        "competition": "Low",
+        "cpc": "1.20",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "tired looking skin",
+        "difficulty": 9,
+        "searchVolume": 9194,
+        "competition": "Low",
+        "cpc": "2.08",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "stressed skin care",
+        "difficulty": 84,
+        "searchVolume": 8012,
+        "competition": "High",
+        "cpc": "2.02",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "emotionalTriggers": [
+      {
+        "keyword": "confident skin",
+        "difficulty": 59,
+        "searchVolume": 12187,
+        "competition": "Medium",
+        "cpc": "1.54",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "glowing complexion",
+        "difficulty": 71,
+        "searchVolume": 9230,
+        "competition": "High",
+        "cpc": "1.85",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "flawless skin naturally",
+        "difficulty": 52,
+        "searchVolume": 10276,
+        "competition": "Medium",
+        "cpc": "1.46",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "beautiful skin secrets",
+        "difficulty": 55,
+        "searchVolume": 13713,
+        "competition": "Medium",
+        "cpc": "0.84",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "radiant skin tips",
+        "difficulty": 73,
+        "searchVolume": 8135,
+        "competition": "High",
+        "cpc": "1.92",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skin transformation",
+        "difficulty": 39,
+        "searchVolume": 5333,
+        "competition": "Low",
+        "cpc": "0.83",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "perfect skin routine",
+        "difficulty": 46,
+        "searchVolume": 14761,
+        "competition": "Medium",
+        "cpc": "1.25",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "goddess skin",
+        "difficulty": 17,
+        "searchVolume": 6073,
+        "competition": "Low",
+        "cpc": "0.81",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ethereal beauty",
+        "difficulty": 54,
+        "searchVolume": 13175,
+        "competition": "Medium",
+        "cpc": "0.10",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural glow up",
+        "difficulty": 87,
+        "searchVolume": 14561,
+        "competition": "High",
+        "cpc": "1.86",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skin confidence boost",
+        "difficulty": 17,
+        "searchVolume": 12121,
+        "competition": "Low",
+        "cpc": "1.93",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "inner beauty outer glow",
+        "difficulty": 85,
+        "searchVolume": 13733,
+        "competition": "High",
+        "cpc": "0.95",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "urgencyKeywords": [
+      {
+        "keyword": "instant glow",
+        "difficulty": 74,
+        "searchVolume": 3427,
+        "competition": "High",
+        "cpc": "1.95",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "overnight skin repair",
+        "difficulty": 68,
+        "searchVolume": 1190,
+        "competition": "Medium",
+        "cpc": "0.57",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "quick skin fix",
+        "difficulty": 8,
+        "searchVolume": 12588,
+        "competition": "Low",
+        "cpc": "1.13",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "7 day skin challenge",
+        "difficulty": 17,
+        "searchVolume": 7965,
+        "competition": "Low",
+        "cpc": "1.03",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "fast acne treatment",
+        "difficulty": 17,
+        "searchVolume": 8295,
+        "competition": "Low",
+        "cpc": "0.38",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "immediate results",
+        "difficulty": 35,
+        "searchVolume": 4502,
+        "competition": "Low",
+        "cpc": "1.84",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "emergency skincare",
+        "difficulty": 63,
+        "searchVolume": 10600,
+        "competition": "Medium",
+        "cpc": "1.25",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "last minute glow",
+        "difficulty": 88,
+        "searchVolume": 4674,
+        "competition": "High",
+        "cpc": "0.51",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "instant face pack",
+        "difficulty": 94,
+        "searchVolume": 10406,
+        "competition": "High",
+        "cpc": "1.97",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "quick skin brightening",
+        "difficulty": 64,
+        "searchVolume": 16590,
+        "competition": "Medium",
+        "cpc": "0.44",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "rapid skin improvement",
+        "difficulty": 57,
+        "searchVolume": 902,
+        "competition": "Medium",
+        "cpc": "1.63",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "trustBuilders": [
+      {
+        "keyword": "dermatologist recommended",
+        "difficulty": 10,
+        "searchVolume": 1721,
+        "competition": "Low",
+        "cpc": "0.28",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "clinically tested natural",
+        "difficulty": 32,
+        "searchVolume": 5617,
+        "competition": "Low",
+        "cpc": "0.12",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "grandmas secret recipe",
+        "difficulty": 5,
+        "searchVolume": 5213,
+        "competition": "Low",
+        "cpc": "1.15",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ancient ayurvedic remedy",
+        "difficulty": 9,
+        "searchVolume": 3249,
+        "competition": "Low",
+        "cpc": "0.31",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "traditional indian skincare",
+        "difficulty": 84,
+        "searchVolume": 3320,
+        "competition": "High",
+        "cpc": "0.23",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "time tested ingredients",
+        "difficulty": 22,
+        "searchVolume": 9588,
+        "competition": "Low",
+        "cpc": "0.19",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free guarantee",
+        "difficulty": 91,
+        "searchVolume": 13204,
+        "competition": "High",
+        "cpc": "1.79",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "organic certified products",
+        "difficulty": 43,
+        "searchVolume": 2686,
+        "competition": "Medium",
+        "cpc": "1.80",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade with love",
+        "difficulty": 47,
+        "searchVolume": 2567,
+        "competition": "Medium",
+        "cpc": "0.61",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "pure natural ingredients",
+        "difficulty": 85,
+        "searchVolume": 6736,
+        "competition": "High",
+        "cpc": "1.83",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ]
+  },
+  "trafficGeneration": {
+    "howTo": [
+      {
+        "keyword": "how to use multani mitti for glowing skin",
+        "difficulty": 5,
+        "searchVolume": 13687,
+        "competition": "Low",
+        "cpc": "0.47",
+        "intent": "Informational",
+        "priority": "High",
+        "contentType": "Tutorial/Guide"
+      },
+      {
+        "keyword": "how to make neem face pack at home",
+        "difficulty": 35,
+        "searchVolume": 16402,
+        "competition": "Low",
+        "cpc": "0.75",
+        "intent": "Informational",
+        "priority": "Medium",
+        "contentType": "Tutorial/Guide"
+      },
+      {
+        "keyword": "how to get clear skin naturally in 7 days",
+        "difficulty": 53,
+        "searchVolume": 4426,
+        "competition": "Medium",
+        "cpc": "0.79",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Tutorial/Guide"
+      },
+      {
+        "keyword": "how to remove acne scars with natural ingredients",
+        "difficulty": 84,
+        "searchVolume": 15559,
+        "competition": "High",
+        "cpc": "1.53",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Tutorial/Guide"
+      },
+      {
+        "keyword": "how to brighten skin with orange peel",
+        "difficulty": 43,
+        "searchVolume": 8057,
+        "competition": "Medium",
+        "cpc": "0.30",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Tutorial/Guide"
+      },
+      {
+        "keyword": "how to create ayurvedic skincare routine",
+        "difficulty": 72,
+        "searchVolume": 11460,
+        "competition": "High",
+        "cpc": "1.26",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Tutorial/Guide"
+      },
+      {
+        "keyword": "how to choose right face pack for skin type",
+        "difficulty": 60,
+        "searchVolume": 16077,
+        "competition": "Medium",
+        "cpc": "0.20",
+        "intent": "Informational",
+        "priority": "Medium",
+        "contentType": "Tutorial/Guide"
+      }
+    ],
+    "bestOf": [
+      {
+        "keyword": "best organic face pack for oily skin",
+        "difficulty": 45,
+        "searchVolume": 15495,
+        "competition": "Medium",
+        "cpc": "1.13",
+        "intent": "Commercial",
+        "priority": "Medium",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "best natural skincare brands in india",
+        "difficulty": 5,
+        "searchVolume": 14180,
+        "competition": "Low",
+        "cpc": "1.48",
+        "intent": "Commercial",
+        "priority": "High",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "best multani mitti brand for acne",
+        "difficulty": 40,
+        "searchVolume": 3156,
+        "competition": "Low",
+        "cpc": "1.77",
+        "intent": "Commercial",
+        "priority": "Low",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "best homemade face masks for glowing skin",
+        "difficulty": 5,
+        "searchVolume": 7846,
+        "competition": "Low",
+        "cpc": "1.69",
+        "intent": "Commercial",
+        "priority": "High",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "best ayurvedic ingredients for skincare",
+        "difficulty": 71,
+        "searchVolume": 9233,
+        "competition": "High",
+        "cpc": "1.67",
+        "intent": "Commercial",
+        "priority": "Low",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "best chemical free beauty products",
+        "difficulty": 39,
+        "searchVolume": 13587,
+        "competition": "Low",
+        "cpc": "1.55",
+        "intent": "Commercial",
+        "priority": "Medium",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "best neem products for acne treatment",
+        "difficulty": 79,
+        "searchVolume": 9988,
+        "competition": "High",
+        "cpc": "1.47",
+        "intent": "Commercial",
+        "priority": "Low",
+        "contentType": "Review/Comparison"
+      }
+    ],
+    "vsComparisons": [
+      {
+        "keyword": "multani mitti vs bentonite clay",
+        "difficulty": 5,
+        "searchVolume": 4210,
+        "competition": "Low",
+        "cpc": "0.50",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem vs tea tree for acne",
+        "difficulty": 9,
+        "searchVolume": 11100,
+        "competition": "Low",
+        "cpc": "1.13",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "organic vs chemical skincare products",
+        "difficulty": 49,
+        "searchVolume": 17084,
+        "competition": "Medium",
+        "cpc": "0.70",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "homemade vs store bought face packs",
+        "difficulty": 5,
+        "searchVolume": 5923,
+        "competition": "Low",
+        "cpc": "0.28",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic vs modern skincare",
+        "difficulty": 47,
+        "searchVolume": 785,
+        "competition": "Medium",
+        "cpc": "0.42",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural vs synthetic beauty products",
+        "difficulty": 25,
+        "searchVolume": 16485,
+        "competition": "Low",
+        "cpc": "1.64",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      }
+    ],
+    "reviews": [
+      {
+        "keyword": "ethereal glow products review",
+        "difficulty": 47,
+        "searchVolume": 8952,
+        "competition": "Medium",
+        "cpc": "1.23",
+        "intent": "Commercial",
+        "priority": "Low",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "multani mitti face pack review",
+        "difficulty": 5,
+        "searchVolume": 3269,
+        "competition": "Low",
+        "cpc": "0.76",
+        "intent": "Commercial",
+        "priority": "High",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "neem ubtan honest review",
+        "difficulty": 73,
+        "searchVolume": 10899,
+        "competition": "High",
+        "cpc": "0.85",
+        "intent": "Commercial",
+        "priority": "Low",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "organic skincare products reviews india",
+        "difficulty": 58,
+        "searchVolume": 9430,
+        "competition": "Medium",
+        "cpc": "1.54",
+        "intent": "Commercial",
+        "priority": "Low",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "chemical free beauty brands review",
+        "difficulty": 40,
+        "searchVolume": 15922,
+        "competition": "Low",
+        "cpc": "0.76",
+        "intent": "Commercial",
+        "priority": "Medium",
+        "contentType": "Review/Comparison"
+      },
+      {
+        "keyword": "ayurvedic skincare products testimonials",
+        "difficulty": 18,
+        "searchVolume": 5991,
+        "competition": "Low",
+        "cpc": "1.19",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      }
+    ]
+  },
+  "longTailOpportunities": {},
+  "semanticClusters": {
+    "multaniMittiCluster": {
+      "primaryKeyword": "multani mitti",
+      "semanticKeywords": [
+        "fullers earth",
+        "bentonite clay alternative",
+        "natural clay mask",
+        "indian clay skincare",
+        "oily skin clay treatment",
+        "acne clay mask",
+        "pore cleansing clay",
+        "detox face mask",
+        "oil absorbing mask"
+      ],
+      "contentTopics": [
+        "Complete guide to multani mitti benefits",
+        "How to use multani mitti for different skin types",
+        "DIY multani mitti face pack recipes",
+        "Multani mitti vs other clays comparison"
+      ]
+    },
+    "neemCluster": {
+      "primaryKeyword": "neem for skincare",
+      "semanticKeywords": [
+        "neem antibacterial properties",
+        "neem acne treatment",
+        "neem ubtan recipe",
+        "neem oil benefits skin",
+        "natural antiseptic skincare",
+        "ayurvedic acne treatment",
+        "herbal acne remedy",
+        "indian neem skincare",
+        "anti inflammatory herbs"
+      ],
+      "contentTopics": [
+        "Neem in skincare: Science-backed benefits",
+        "Traditional neem ubtan recipes",
+        "Neem for sensitive vs oily skin",
+        "Modern research on neem skincare"
+      ]
+    },
+    "organicSkincareCluster": {
+      "primaryKeyword": "organic skincare india",
+      "semanticKeywords": [
+        "natural beauty products",
+        "chemical free cosmetics",
+        "ayurvedic skincare",
+        "herbal beauty products",
+        "eco friendly skincare",
+        "sustainable beauty",
+        "handmade cosmetics",
+        "pure skincare ingredients",
+        "non toxic beauty"
+      ],
+      "contentTopics": [
+        "Why choose organic skincare in India",
+        "Complete organic skincare routine guide",
+        "Ingredients to avoid in skincare",
+        "Building sustainable beauty habits"
+      ]
+    }
+  },
+  "contentCalendar": {
+    "january": {
+      "theme": "New Year New Skin",
+      "primaryKeywords": [
+        "new year skincare routine",
+        "winter skincare tips",
+        "detox skin naturally"
+      ],
+      "contentIdeas": [
+        "New Year Skin Detox Challenge",
+        "Winter Skincare Routine for Glowing Skin",
+        "January Skin Reset with Natural Ingredients"
+      ]
+    },
+    "february": {
+      "theme": "Love Your Skin Month",
+      "primaryKeywords": [
+        "self care skincare",
+        "valentine glow up",
+        "skin confidence"
+      ],
+      "contentIdeas": [
+        "Self-Love Skincare Rituals",
+        "Valentine's Day Glow Up Guide",
+        "Building Skin Confidence Naturally"
+      ]
+    },
+    "march": {
+      "theme": "Spring Skin Prep",
+      "primaryKeywords": [
+        "spring skincare routine",
+        "holi skin protection",
+        "seasonal skin changes"
+      ],
+      "contentIdeas": [
+        "Spring Skincare Transition Tips",
+        "Pre and Post Holi Skin Care",
+        "Dealing with Seasonal Skin Changes"
+      ]
+    },
+    "april": {
+      "theme": "Summer Prep Month",
+      "primaryKeywords": [
+        "summer skincare routine",
+        "sun protection natural",
+        "oily skin summer"
+      ],
+      "contentIdeas": [
+        "Summer-Ready Skin in 30 Days",
+        "Natural Sun Protection Strategies",
+        "Managing Oily Skin in Heat"
+      ]
+    }
+  },
+  "localSEO": {
+    "mumbai": [
+      {
+        "keyword": "organic skincare mumbai",
+        "difficulty": 29,
+        "searchVolume": 3927,
+        "competition": "Low",
+        "cpc": "1.37",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products mumbai",
+        "difficulty": 5,
+        "searchVolume": 13378,
+        "competition": "Low",
+        "cpc": "0.80",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics mumbai",
+        "difficulty": 56,
+        "searchVolume": 8987,
+        "competition": "Medium",
+        "cpc": "1.18",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare mumbai",
+        "difficulty": 66,
+        "searchVolume": 13708,
+        "competition": "Medium",
+        "cpc": "1.73",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps mumbai",
+        "difficulty": 79,
+        "searchVolume": 15178,
+        "competition": "High",
+        "cpc": "0.83",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs mumbai",
+        "difficulty": 62,
+        "searchVolume": 10254,
+        "competition": "Medium",
+        "cpc": "1.60",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier mumbai",
+        "difficulty": 83,
+        "searchVolume": 9196,
+        "competition": "High",
+        "cpc": "1.90",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products mumbai",
+        "difficulty": 65,
+        "searchVolume": 6645,
+        "competition": "Medium",
+        "cpc": "0.49",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation mumbai",
+        "difficulty": 70,
+        "searchVolume": 5444,
+        "competition": "Medium",
+        "cpc": "1.51",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon mumbai",
+        "difficulty": 66,
+        "searchVolume": 8110,
+        "competition": "Medium",
+        "cpc": "1.17",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "delhi": [
+      {
+        "keyword": "organic skincare delhi",
+        "difficulty": 75,
+        "searchVolume": 10340,
+        "competition": "High",
+        "cpc": "1.13",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products delhi",
+        "difficulty": 5,
+        "searchVolume": 9106,
+        "competition": "Low",
+        "cpc": "0.25",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics delhi",
+        "difficulty": 75,
+        "searchVolume": 12291,
+        "competition": "High",
+        "cpc": "0.36",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare delhi",
+        "difficulty": 17,
+        "searchVolume": 12490,
+        "competition": "Low",
+        "cpc": "1.39",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps delhi",
+        "difficulty": 10,
+        "searchVolume": 8209,
+        "competition": "Low",
+        "cpc": "0.92",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs delhi",
+        "difficulty": 89,
+        "searchVolume": 9942,
+        "competition": "High",
+        "cpc": "1.81",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier delhi",
+        "difficulty": 5,
+        "searchVolume": 13152,
+        "competition": "Low",
+        "cpc": "1.21",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products delhi",
+        "difficulty": 5,
+        "searchVolume": 10498,
+        "competition": "Low",
+        "cpc": "0.39",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation delhi",
+        "difficulty": 72,
+        "searchVolume": 9245,
+        "competition": "High",
+        "cpc": "2.00",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon delhi",
+        "difficulty": 82,
+        "searchVolume": 15352,
+        "competition": "High",
+        "cpc": "0.76",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "bangalore": [
+      {
+        "keyword": "organic skincare bangalore",
+        "difficulty": 85,
+        "searchVolume": 6187,
+        "competition": "High",
+        "cpc": "0.40",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products bangalore",
+        "difficulty": 84,
+        "searchVolume": 6020,
+        "competition": "High",
+        "cpc": "1.75",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics bangalore",
+        "difficulty": 55,
+        "searchVolume": 2247,
+        "competition": "Medium",
+        "cpc": "1.46",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare bangalore",
+        "difficulty": 36,
+        "searchVolume": 11371,
+        "competition": "Low",
+        "cpc": "1.16",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps bangalore",
+        "difficulty": 5,
+        "searchVolume": 12122,
+        "competition": "Low",
+        "cpc": "1.52",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs bangalore",
+        "difficulty": 15,
+        "searchVolume": 3284,
+        "competition": "Low",
+        "cpc": "1.40",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier bangalore",
+        "difficulty": 22,
+        "searchVolume": 5717,
+        "competition": "Low",
+        "cpc": "1.99",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products bangalore",
+        "difficulty": 61,
+        "searchVolume": 14741,
+        "competition": "Medium",
+        "cpc": "1.46",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation bangalore",
+        "difficulty": 6,
+        "searchVolume": 3590,
+        "competition": "Low",
+        "cpc": "1.15",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon bangalore",
+        "difficulty": 88,
+        "searchVolume": 9696,
+        "competition": "High",
+        "cpc": "0.66",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "chennai": [
+      {
+        "keyword": "organic skincare chennai",
+        "difficulty": 23,
+        "searchVolume": 5540,
+        "competition": "Low",
+        "cpc": "1.38",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products chennai",
+        "difficulty": 6,
+        "searchVolume": 16670,
+        "competition": "Low",
+        "cpc": "1.28",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics chennai",
+        "difficulty": 67,
+        "searchVolume": 13715,
+        "competition": "Medium",
+        "cpc": "0.17",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare chennai",
+        "difficulty": 88,
+        "searchVolume": 2543,
+        "competition": "High",
+        "cpc": "1.68",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps chennai",
+        "difficulty": 44,
+        "searchVolume": 7592,
+        "competition": "Medium",
+        "cpc": "1.99",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs chennai",
+        "difficulty": 50,
+        "searchVolume": 13656,
+        "competition": "Medium",
+        "cpc": "1.08",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier chennai",
+        "difficulty": 9,
+        "searchVolume": 4879,
+        "competition": "Low",
+        "cpc": "0.85",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products chennai",
+        "difficulty": 43,
+        "searchVolume": 6865,
+        "competition": "Medium",
+        "cpc": "0.62",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation chennai",
+        "difficulty": 95,
+        "searchVolume": 9255,
+        "competition": "High",
+        "cpc": "1.06",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon chennai",
+        "difficulty": 76,
+        "searchVolume": 16161,
+        "competition": "High",
+        "cpc": "1.53",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      }
+    ],
+    "hyderabad": [
+      {
+        "keyword": "organic skincare hyderabad",
+        "difficulty": 95,
+        "searchVolume": 14103,
+        "competition": "High",
+        "cpc": "0.94",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products hyderabad",
+        "difficulty": 83,
+        "searchVolume": 15210,
+        "competition": "High",
+        "cpc": "1.63",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics hyderabad",
+        "difficulty": 79,
+        "searchVolume": 14896,
+        "competition": "High",
+        "cpc": "0.45",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare hyderabad",
+        "difficulty": 44,
+        "searchVolume": 9030,
+        "competition": "Medium",
+        "cpc": "0.63",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps hyderabad",
+        "difficulty": 13,
+        "searchVolume": 10202,
+        "competition": "Low",
+        "cpc": "0.60",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs hyderabad",
+        "difficulty": 5,
+        "searchVolume": 6556,
+        "competition": "Low",
+        "cpc": "0.40",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier hyderabad",
+        "difficulty": 86,
+        "searchVolume": 10440,
+        "competition": "High",
+        "cpc": "1.87",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products hyderabad",
+        "difficulty": 29,
+        "searchVolume": 2749,
+        "competition": "Low",
+        "cpc": "0.49",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation hyderabad",
+        "difficulty": 82,
+        "searchVolume": 11189,
+        "competition": "High",
+        "cpc": "0.78",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon hyderabad",
+        "difficulty": 33,
+        "searchVolume": 3722,
+        "competition": "Low",
+        "cpc": "0.11",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "pune": [
+      {
+        "keyword": "organic skincare pune",
+        "difficulty": 9,
+        "searchVolume": 12946,
+        "competition": "Low",
+        "cpc": "1.18",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products pune",
+        "difficulty": 39,
+        "searchVolume": 12328,
+        "competition": "Low",
+        "cpc": "1.60",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics pune",
+        "difficulty": 34,
+        "searchVolume": 5670,
+        "competition": "Low",
+        "cpc": "1.34",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare pune",
+        "difficulty": 17,
+        "searchVolume": 5694,
+        "competition": "Low",
+        "cpc": "0.86",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps pune",
+        "difficulty": 10,
+        "searchVolume": 5479,
+        "competition": "Low",
+        "cpc": "1.40",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs pune",
+        "difficulty": 37,
+        "searchVolume": 8124,
+        "competition": "Low",
+        "cpc": "1.47",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier pune",
+        "difficulty": 32,
+        "searchVolume": 12034,
+        "competition": "Low",
+        "cpc": "0.59",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products pune",
+        "difficulty": 63,
+        "searchVolume": 5919,
+        "competition": "Medium",
+        "cpc": "1.35",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation pune",
+        "difficulty": 81,
+        "searchVolume": 2129,
+        "competition": "High",
+        "cpc": "1.38",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon pune",
+        "difficulty": 82,
+        "searchVolume": 17068,
+        "competition": "High",
+        "cpc": "0.30",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      }
+    ],
+    "kolkata": [
+      {
+        "keyword": "organic skincare kolkata",
+        "difficulty": 40,
+        "searchVolume": 12520,
+        "competition": "Low",
+        "cpc": "0.72",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products kolkata",
+        "difficulty": 13,
+        "searchVolume": 6816,
+        "competition": "Low",
+        "cpc": "1.04",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics kolkata",
+        "difficulty": 5,
+        "searchVolume": 2319,
+        "competition": "Low",
+        "cpc": "0.32",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare kolkata",
+        "difficulty": 42,
+        "searchVolume": 5531,
+        "competition": "Medium",
+        "cpc": "0.25",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps kolkata",
+        "difficulty": 28,
+        "searchVolume": 8277,
+        "competition": "Low",
+        "cpc": "0.22",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs kolkata",
+        "difficulty": 9,
+        "searchVolume": 1058,
+        "competition": "Low",
+        "cpc": "1.29",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier kolkata",
+        "difficulty": 79,
+        "searchVolume": 12317,
+        "competition": "High",
+        "cpc": "2.07",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products kolkata",
+        "difficulty": 38,
+        "searchVolume": 14999,
+        "competition": "Low",
+        "cpc": "0.24",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation kolkata",
+        "difficulty": 14,
+        "searchVolume": 7724,
+        "competition": "Low",
+        "cpc": "0.32",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon kolkata",
+        "difficulty": 95,
+        "searchVolume": 9287,
+        "competition": "High",
+        "cpc": "1.59",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "ahmedabad": [
+      {
+        "keyword": "organic skincare ahmedabad",
+        "difficulty": 45,
+        "searchVolume": 15095,
+        "competition": "Medium",
+        "cpc": "2.05",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products ahmedabad",
+        "difficulty": 95,
+        "searchVolume": 13403,
+        "competition": "High",
+        "cpc": "0.25",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics ahmedabad",
+        "difficulty": 37,
+        "searchVolume": 11502,
+        "competition": "Low",
+        "cpc": "1.76",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare ahmedabad",
+        "difficulty": 94,
+        "searchVolume": 4397,
+        "competition": "High",
+        "cpc": "0.72",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps ahmedabad",
+        "difficulty": 5,
+        "searchVolume": 11707,
+        "competition": "Low",
+        "cpc": "0.54",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs ahmedabad",
+        "difficulty": 70,
+        "searchVolume": 11292,
+        "competition": "Medium",
+        "cpc": "0.78",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier ahmedabad",
+        "difficulty": 58,
+        "searchVolume": 14791,
+        "competition": "Medium",
+        "cpc": "0.88",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products ahmedabad",
+        "difficulty": 65,
+        "searchVolume": 3252,
+        "competition": "Medium",
+        "cpc": "1.25",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation ahmedabad",
+        "difficulty": 63,
+        "searchVolume": 8544,
+        "competition": "Medium",
+        "cpc": "1.68",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon ahmedabad",
+        "difficulty": 51,
+        "searchVolume": 8791,
+        "competition": "Medium",
+        "cpc": "0.14",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "jaipur": [
+      {
+        "keyword": "organic skincare jaipur",
+        "difficulty": 50,
+        "searchVolume": 8771,
+        "competition": "Medium",
+        "cpc": "0.45",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products jaipur",
+        "difficulty": 78,
+        "searchVolume": 8821,
+        "competition": "High",
+        "cpc": "1.61",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics jaipur",
+        "difficulty": 58,
+        "searchVolume": 1515,
+        "competition": "Medium",
+        "cpc": "1.52",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare jaipur",
+        "difficulty": 31,
+        "searchVolume": 13363,
+        "competition": "Low",
+        "cpc": "0.76",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps jaipur",
+        "difficulty": 59,
+        "searchVolume": 4259,
+        "competition": "Medium",
+        "cpc": "1.05",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs jaipur",
+        "difficulty": 38,
+        "searchVolume": 4737,
+        "competition": "Low",
+        "cpc": "0.71",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier jaipur",
+        "difficulty": 93,
+        "searchVolume": 10721,
+        "competition": "High",
+        "cpc": "1.88",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products jaipur",
+        "difficulty": 18,
+        "searchVolume": 5830,
+        "competition": "Low",
+        "cpc": "0.73",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation jaipur",
+        "difficulty": 70,
+        "searchVolume": 3025,
+        "competition": "Medium",
+        "cpc": "0.61",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon jaipur",
+        "difficulty": 42,
+        "searchVolume": 4488,
+        "competition": "Medium",
+        "cpc": "0.66",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "lucknow": [
+      {
+        "keyword": "organic skincare lucknow",
+        "difficulty": 53,
+        "searchVolume": 14251,
+        "competition": "Medium",
+        "cpc": "0.27",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty products lucknow",
+        "difficulty": 35,
+        "searchVolume": 4547,
+        "competition": "Low",
+        "cpc": "1.42",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "ayurvedic cosmetics lucknow",
+        "difficulty": 13,
+        "searchVolume": 4075,
+        "competition": "Low",
+        "cpc": "0.93",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chemical free skincare lucknow",
+        "difficulty": 29,
+        "searchVolume": 14145,
+        "competition": "Low",
+        "cpc": "1.08",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "handmade soaps lucknow",
+        "difficulty": 62,
+        "searchVolume": 14082,
+        "competition": "Medium",
+        "cpc": "0.79",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "herbal face packs lucknow",
+        "difficulty": 5,
+        "searchVolume": 13520,
+        "competition": "Low",
+        "cpc": "0.68",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "multani mitti supplier lucknow",
+        "difficulty": 56,
+        "searchVolume": 3989,
+        "competition": "Medium",
+        "cpc": "0.62",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "neem products lucknow",
+        "difficulty": 36,
+        "searchVolume": 15216,
+        "competition": "Low",
+        "cpc": "1.77",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "skincare consultation lucknow",
+        "difficulty": 75,
+        "searchVolume": 9469,
+        "competition": "High",
+        "cpc": "1.55",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural beauty salon lucknow",
+        "difficulty": 31,
+        "searchVolume": 5817,
+        "competition": "Low",
+        "cpc": "1.66",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ]
+  },
+  "seasonalKeywords": {
+    "summer": [
+      {
+        "keyword": "summer skincare routine oily skin",
+        "difficulty": 8,
+        "searchVolume": 5410,
+        "competition": "Low",
+        "cpc": "1.60",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "heat rash natural treatment",
+        "difficulty": 19,
+        "searchVolume": 9831,
+        "competition": "Low",
+        "cpc": "0.15",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "sun protection natural ingredients",
+        "difficulty": 50,
+        "searchVolume": 10956,
+        "competition": "Medium",
+        "cpc": "1.23",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "cooling face packs for summer",
+        "difficulty": 44,
+        "searchVolume": 2940,
+        "competition": "Medium",
+        "cpc": "1.24",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "sweat proof natural makeup",
+        "difficulty": 76,
+        "searchVolume": 13530,
+        "competition": "High",
+        "cpc": "1.48",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "summer acne prevention tips",
+        "difficulty": 86,
+        "searchVolume": 6193,
+        "competition": "High",
+        "cpc": "0.97",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "winter": [
+      {
+        "keyword": "winter dry skin remedies",
+        "difficulty": 18,
+        "searchVolume": 1113,
+        "competition": "Low",
+        "cpc": "1.83",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "moisturizing face packs for winter",
+        "difficulty": 38,
+        "searchVolume": 3502,
+        "competition": "Low",
+        "cpc": "0.71",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "chapped lips natural treatment",
+        "difficulty": 53,
+        "searchVolume": 4428,
+        "competition": "Medium",
+        "cpc": "1.93",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "winter skincare routine dry skin",
+        "difficulty": 66,
+        "searchVolume": 14007,
+        "competition": "Medium",
+        "cpc": "0.89",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "indoor heating skin problems",
+        "difficulty": 15,
+        "searchVolume": 4482,
+        "competition": "Low",
+        "cpc": "0.20",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "winter glow skin tips",
+        "difficulty": 56,
+        "searchVolume": 9637,
+        "competition": "Medium",
+        "cpc": "1.01",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ],
+    "monsoon": [
+      {
+        "keyword": "monsoon skincare tips",
+        "difficulty": 5,
+        "searchVolume": 8649,
+        "competition": "Low",
+        "cpc": "1.66",
+        "intent": "Informational",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "humidity acne prevention",
+        "difficulty": 54,
+        "searchVolume": 1478,
+        "competition": "Medium",
+        "cpc": "1.78",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "fungal infection natural treatment",
+        "difficulty": 26,
+        "searchVolume": 16050,
+        "competition": "Low",
+        "cpc": "0.58",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "rainy season skin problems",
+        "difficulty": 37,
+        "searchVolume": 14980,
+        "competition": "Low",
+        "cpc": "0.36",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "anti bacterial face packs",
+        "difficulty": 31,
+        "searchVolume": 13930,
+        "competition": "Low",
+        "cpc": "1.80",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "monsoon hair and skin care",
+        "difficulty": 33,
+        "searchVolume": 13557,
+        "competition": "Low",
+        "cpc": "0.96",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      }
+    ],
+    "festival": [
+      {
+        "keyword": "diwali glow skincare routine",
+        "difficulty": 95,
+        "searchVolume": 14801,
+        "competition": "High",
+        "cpc": "0.32",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "festival ready skin in 3 days",
+        "difficulty": 45,
+        "searchVolume": 4775,
+        "competition": "Medium",
+        "cpc": "0.91",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "karva chauth beauty tips",
+        "difficulty": 20,
+        "searchVolume": 6144,
+        "competition": "Low",
+        "cpc": "0.67",
+        "intent": "Informational",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "wedding season skincare prep",
+        "difficulty": 95,
+        "searchVolume": 9595,
+        "competition": "High",
+        "cpc": "1.22",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "navratri glow up routine",
+        "difficulty": 45,
+        "searchVolume": 4225,
+        "competition": "Medium",
+        "cpc": "0.99",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "holi skin protection tips",
+        "difficulty": 83,
+        "searchVolume": 12107,
+        "competition": "High",
+        "cpc": "0.25",
+        "intent": "Informational",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      }
+    ]
+  },
+  "demographicKeywords": {
+    "teens": [
+      {
+        "keyword": "teenage acne natural treatment",
+        "difficulty": 48,
+        "searchVolume": 5969,
+        "competition": "Medium",
+        "cpc": "1.62",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "school skincare routine",
+        "difficulty": 5,
+        "searchVolume": 11505,
+        "competition": "Low",
+        "cpc": "0.92",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "budget friendly skincare teens",
+        "difficulty": 85,
+        "searchVolume": 4053,
+        "competition": "High",
+        "cpc": "1.47",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "puberty skin problems solutions",
+        "difficulty": 7,
+        "searchVolume": 12459,
+        "competition": "Low",
+        "cpc": "1.24",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "natural makeup for teenagers",
+        "difficulty": 38,
+        "searchVolume": 12429,
+        "competition": "Low",
+        "cpc": "0.55",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      }
+    ],
+    "twenties": [
+      {
+        "keyword": "skincare routine for working women",
+        "difficulty": 71,
+        "searchVolume": 11153,
+        "competition": "High",
+        "cpc": "0.35",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "college student skincare budget",
+        "difficulty": 6,
+        "searchVolume": 15395,
+        "competition": "Low",
+        "cpc": "1.95",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "prevention aging in 20s",
+        "difficulty": 95,
+        "searchVolume": 6058,
+        "competition": "High",
+        "cpc": "1.20",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "stress acne working women",
+        "difficulty": 86,
+        "searchVolume": 5362,
+        "competition": "High",
+        "cpc": "0.91",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "quick skincare busy lifestyle",
+        "difficulty": 8,
+        "searchVolume": 7585,
+        "competition": "Low",
+        "cpc": "1.57",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      }
+    ],
+    "thirties": [
+      {
+        "keyword": "anti aging skincare 30s",
+        "difficulty": 8,
+        "searchVolume": 12046,
+        "competition": "Low",
+        "cpc": "0.60",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "working mom skincare routine",
+        "difficulty": 37,
+        "searchVolume": 9905,
+        "competition": "Low",
+        "cpc": "0.93",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "hormonal acne natural treatment",
+        "difficulty": 83,
+        "searchVolume": 16078,
+        "competition": "High",
+        "cpc": "1.70",
+        "intent": "Mixed",
+        "priority": "Low",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "fine lines prevention natural",
+        "difficulty": 5,
+        "searchVolume": 9967,
+        "competition": "Low",
+        "cpc": "1.02",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "busy mom quick beauty tips",
+        "difficulty": 14,
+        "searchVolume": 11110,
+        "competition": "Low",
+        "cpc": "0.66",
+        "intent": "Informational",
+        "priority": "High",
+        "contentType": "Blog Post"
+      }
+    ],
+    "forties": [
+      {
+        "keyword": "mature skin natural skincare",
+        "difficulty": 73,
+        "searchVolume": 16901,
+        "competition": "High",
+        "cpc": "0.46",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "menopause skin changes natural remedies",
+        "difficulty": 5,
+        "searchVolume": 6202,
+        "competition": "Low",
+        "cpc": "0.31",
+        "intent": "Mixed",
+        "priority": "High",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "age spots natural treatment",
+        "difficulty": 70,
+        "searchVolume": 16038,
+        "competition": "Medium",
+        "cpc": "1.07",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "sagging skin natural tightening",
+        "difficulty": 36,
+        "searchVolume": 13287,
+        "competition": "Low",
+        "cpc": "1.32",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      },
+      {
+        "keyword": "gray hair natural coloring",
+        "difficulty": 47,
+        "searchVolume": 12662,
+        "competition": "Medium",
+        "cpc": "0.73",
+        "intent": "Mixed",
+        "priority": "Medium",
+        "contentType": "Blog Post"
+      }
+    ]
+  },
+  "voiceSearch": [
+    {
+      "keyword": "what is the best natural face pack for acne",
+      "difficulty": 8,
+      "searchVolume": 13604,
+      "competition": "Low",
+      "cpc": "0.30",
+      "intent": "Commercial",
+      "priority": "High",
+      "contentType": "Review/Comparison",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "how do I use multani mitti for glowing skin",
+      "difficulty": 84,
+      "searchVolume": 8251,
+      "competition": "High",
+      "cpc": "0.71",
+      "intent": "Mixed",
+      "priority": "Low",
+      "contentType": "Blog Post",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "where can I buy organic skincare products in India",
+      "difficulty": 15,
+      "searchVolume": 13731,
+      "competition": "Low",
+      "cpc": "1.96",
+      "intent": "Commercial",
+      "priority": "High",
+      "contentType": "Product Page",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "what are the benefits of neem for skin",
+      "difficulty": 12,
+      "searchVolume": 14334,
+      "competition": "Low",
+      "cpc": "0.69",
+      "intent": "Informational",
+      "priority": "High",
+      "contentType": "Educational",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "how to make homemade face pack for oily skin",
+      "difficulty": 40,
+      "searchVolume": 6455,
+      "competition": "Low",
+      "cpc": "1.53",
+      "intent": "Informational",
+      "priority": "Low",
+      "contentType": "Tutorial/Guide",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "which natural ingredients are good for dry skin",
+      "difficulty": 35,
+      "searchVolume": 3436,
+      "competition": "Low",
+      "cpc": "1.78",
+      "intent": "Mixed",
+      "priority": "Low",
+      "contentType": "Blog Post",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "what is ayurvedic skincare routine",
+      "difficulty": 6,
+      "searchVolume": 6816,
+      "competition": "Low",
+      "cpc": "0.12",
+      "intent": "Informational",
+      "priority": "High",
+      "contentType": "Educational",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "how to get clear skin naturally at home",
+      "difficulty": 5,
+      "searchVolume": 8358,
+      "competition": "Low",
+      "cpc": "0.93",
+      "intent": "Informational",
+      "priority": "High",
+      "contentType": "Tutorial/Guide",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "what skincare routine is best for my skin type",
+      "difficulty": 26,
+      "searchVolume": 11134,
+      "competition": "Low",
+      "cpc": "0.17",
+      "intent": "Commercial",
+      "priority": "Medium",
+      "contentType": "Review/Comparison",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    },
+    {
+      "keyword": "where to find chemical free beauty products",
+      "difficulty": 19,
+      "searchVolume": 1650,
+      "competition": "Low",
+      "cpc": "1.90",
+      "intent": "Mixed",
+      "priority": "Low",
+      "contentType": "Blog Post",
+      "voiceSearchOptimized": true,
+      "contentFormat": "FAQ/Featured Snippet"
+    }
+  ]
+}

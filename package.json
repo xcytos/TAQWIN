@@ -1,0 +1,52 @@
+{
+  "name": "ethereal-glow-seo-toolkit",
+  "version": "1.0.0",
+  "description": "Comprehensive SEO research and competitor analysis toolkit for Ethereal Glow",
+  "main": "seo-research-toolkit.js",
+  "scripts": {
+    "seo-analysis": "node seo-research-toolkit.js",
+    "web-scraping": "node web-intelligence-scraper.js",
+    "keyword-research": "node keyword-research.js",
+    "install-deps": "npm install",
+    "full-analysis": "npm run seo-analysis && npm run web-scraping"
+  },
+  "keywords": [
+    "seo",
+    "competitor-analysis",
+    "keyword-research",
+    "web-scraping",
+    "ethereal-glow",
+    "organic-skincare",
+    "digital-marketing"
+  ],
+  "author": "Ethereal Glow Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.0.0",
+    "csvtojson": "^2.0.10",
+    "json2csv": "^6.1.0",
+    "commander": "^11.0.0",
+    "chalk": "^4.1.2",
+    "ora": "^5.4.1",
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0",
+    "jest": "^29.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etherealglow/seo-toolkit"
+  },
+  "bugs": {
+    "url": "https://github.com/etherealglow/seo-toolkit/issues"
+  },
+  "homepage": "https://etherealglow.in"
+}

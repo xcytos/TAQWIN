@@ -1,0 +1,193 @@
+2025-07-25 04:32:47,317 - TAQWIN WebConnector - INFO - TAQWIN Search Engine Initialized
+2025-07-25 04:32:47,317 - TAQWIN WebConnector - INFO - Multi-source search protocols activated
+2025-07-25 04:32:47,634 - TAQWIN WebConnector - INFO - DuckDuckGo search: 6 results
+2025-07-25 04:32:49,843 - TAQWIN WebConnector - INFO - arXiv search: 2 results
+2025-07-25 04:32:49,844 - TAQWIN WebConnector - INFO - Search completed: 8 results for 'artificial intelligence'
+2025-07-25 04:32:49,913 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 04:32:51,567 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:32:51,568 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'skincare market trends business intelligence'
+2025-07-25 04:39:38,211 - TAQWIN WebConnector - INFO - TAQWIN Search Engine Initialized
+2025-07-25 04:39:38,211 - TAQWIN WebConnector - INFO - Multi-source search protocols activated
+2025-07-25 04:39:38,216 - TAQWIN WebConnector - INFO - TAQWIN Learning System integration: SUCCESS
+2025-07-25 04:39:39,189 - TAQWIN WebConnector - INFO - Internet connectivity: ACTIVE
+2025-07-25 04:39:39,435 - TAQWIN WebConnector - INFO - DuckDuckGo search: 2 results
+2025-07-25 04:39:40,418 - TAQWIN WebConnector - INFO - arXiv search: 0 results
+2025-07-25 04:39:40,419 - TAQWIN WebConnector - INFO - Search completed: 2 results for 'test'
+2025-07-25 04:39:40,419 - TAQWIN WebConnector - INFO - Web search capabilities: OPERATIONAL
+2025-07-25 04:39:40,419 - TAQWIN WebConnector - INFO - TAQWIN Web Intelligence System Initialized
+2025-07-25 04:39:40,419 - TAQWIN WebConnector - INFO - Integration Status: FULL
+2025-07-25 04:39:40,419 - TAQWIN WebConnector - INFO - Intelligent search initiated by CHANAKYA: 'business intelligence'
+2025-07-25 04:39:40,492 - TAQWIN WebConnector - INFO - DuckDuckGo search: 11 results
+2025-07-25 04:39:42,140 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:39:42,141 - TAQWIN WebConnector - INFO - Search completed: 16 results for 'business intelligence'
+2025-07-25 04:39:42,153 - TAQWIN WebConnector - INFO - Web intelligence stored for agent CHANAKYA
+2025-07-25 04:39:42,153 - TAQWIN WebConnector - INFO - Intelligence search completed: 10 sources analyzed
+2025-07-25 04:39:42,153 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company business strategy'
+2025-07-25 04:39:42,227 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 04:39:43,616 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:39:43,617 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company business strategy competitive intelligence'
+2025-07-25 04:39:43,627 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 04:39:43,627 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 04:39:44,627 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company market position'
+2025-07-25 04:39:44,701 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 04:39:46,816 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:39:46,816 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company market position competitive intelligence'
+2025-07-25 04:39:46,832 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 04:39:46,832 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 04:39:47,832 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company products services'
+2025-07-25 04:39:47,901 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 04:39:49,765 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:39:49,766 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company products services competitive intelligence'
+2025-07-25 04:39:49,777 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 04:39:49,777 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 04:39:50,778 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company news updates'
+2025-07-25 04:39:50,849 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 04:39:52,485 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:39:52,485 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company news updates competitive intelligence'
+2025-07-25 04:39:52,500 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 04:39:52,500 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 04:39:53,501 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company competitors'
+2025-07-25 04:39:53,566 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 04:39:55,425 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 04:39:55,425 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company competitors competitive intelligence'
+2025-07-25 04:39:55,435 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 04:39:55,435 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 04:39:56,436 - TAQWIN WebConnector - INFO - Competitive intelligence scan completed for test company
+2025-07-25 05:13:29,929 - TAQWIN WebConnector - INFO - TAQWIN Search Engine Initialized
+2025-07-25 05:13:29,929 - TAQWIN WebConnector - INFO - Multi-source search protocols activated
+2025-07-25 05:13:29,934 - TAQWIN WebConnector - INFO - TAQWIN Learning System integration: SUCCESS
+2025-07-25 05:13:30,906 - TAQWIN WebConnector - INFO - Internet connectivity: ACTIVE
+2025-07-25 05:13:31,151 - TAQWIN WebConnector - INFO - DuckDuckGo search: 2 results
+2025-07-25 05:13:31,709 - TAQWIN WebConnector - INFO - arXiv search: 0 results
+2025-07-25 05:13:31,709 - TAQWIN WebConnector - INFO - Search completed: 2 results for 'test'
+2025-07-25 05:13:31,710 - TAQWIN WebConnector - INFO - Web search capabilities: OPERATIONAL
+2025-07-25 05:13:31,710 - TAQWIN WebConnector - INFO - TAQWIN Web Intelligence System Initialized
+2025-07-25 05:13:31,710 - TAQWIN WebConnector - INFO - Integration Status: FULL
+2025-07-25 05:13:31,710 - TAQWIN WebConnector - INFO - Intelligent search initiated by CHANAKYA: 'business intelligence'
+2025-07-25 05:13:31,983 - TAQWIN WebConnector - INFO - DuckDuckGo search: 11 results
+2025-07-25 05:13:33,680 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:13:33,680 - TAQWIN WebConnector - INFO - Search completed: 16 results for 'business intelligence'
+2025-07-25 05:13:33,692 - TAQWIN WebConnector - INFO - Web intelligence stored for agent CHANAKYA
+2025-07-25 05:13:33,692 - TAQWIN WebConnector - INFO - Intelligence search completed: 10 sources analyzed
+2025-07-25 05:13:33,692 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company business strategy'
+2025-07-25 05:13:33,858 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:13:35,178 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:13:35,178 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company business strategy competitive intelligence'
+2025-07-25 05:13:35,188 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:13:35,188 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:13:36,188 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company market position'
+2025-07-25 05:13:36,378 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:13:37,378 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:13:37,378 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company market position competitive intelligence'
+2025-07-25 05:13:37,394 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:13:37,394 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:13:38,394 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company products services'
+2025-07-25 05:13:38,592 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:13:40,330 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:13:40,330 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company products services competitive intelligence'
+2025-07-25 05:13:40,341 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:13:40,341 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:13:41,341 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company news updates'
+2025-07-25 05:13:41,484 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:15:23,778 - TAQWIN WebConnector - INFO - TAQWIN Search Engine Initialized
+2025-07-25 05:15:23,778 - TAQWIN WebConnector - INFO - Multi-source search protocols activated
+2025-07-25 05:15:23,783 - TAQWIN WebConnector - INFO - TAQWIN Learning System integration: SUCCESS
+2025-07-25 05:15:24,804 - TAQWIN WebConnector - INFO - Internet connectivity: ACTIVE
+2025-07-25 05:15:25,049 - TAQWIN WebConnector - INFO - DuckDuckGo search: 2 results
+2025-07-25 05:15:25,555 - TAQWIN WebConnector - INFO - arXiv search: 0 results
+2025-07-25 05:15:25,555 - TAQWIN WebConnector - INFO - Search completed: 2 results for 'test'
+2025-07-25 05:15:25,555 - TAQWIN WebConnector - INFO - Web search capabilities: OPERATIONAL
+2025-07-25 05:15:25,555 - TAQWIN WebConnector - INFO - TAQWIN Web Intelligence System Initialized
+2025-07-25 05:15:25,556 - TAQWIN WebConnector - INFO - Integration Status: FULL
+2025-07-25 05:15:25,556 - TAQWIN WebConnector - INFO - Intelligent search initiated by CHANAKYA: 'business intelligence'
+2025-07-25 05:15:26,034 - TAQWIN WebConnector - INFO - DuckDuckGo search: 11 results
+2025-07-25 05:15:26,541 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:15:26,541 - TAQWIN WebConnector - INFO - Search completed: 16 results for 'business intelligence'
+2025-07-25 05:15:26,553 - TAQWIN WebConnector - INFO - Web intelligence stored for agent CHANAKYA
+2025-07-25 05:15:26,553 - TAQWIN WebConnector - INFO - Intelligence search completed: 10 sources analyzed
+2025-07-25 05:15:26,553 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company business strategy'
+2025-07-25 05:15:26,629 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:15:27,292 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:15:27,292 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company business strategy competitive intelligence'
+2025-07-25 05:15:27,303 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:15:27,304 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:15:28,304 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company market position'
+2025-07-25 05:15:28,492 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:15:28,740 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:15:28,740 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company market position competitive intelligence'
+2025-07-25 05:15:28,756 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:15:28,756 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:15:29,756 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company products services'
+2025-07-25 05:15:29,970 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:15:30,215 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:15:30,215 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company products services competitive intelligence'
+2025-07-25 05:15:30,226 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:15:30,226 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:15:31,226 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company news updates'
+2025-07-25 05:15:31,296 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:15:31,520 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:15:31,520 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company news updates competitive intelligence'
+2025-07-25 05:15:31,535 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:15:31,535 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:15:32,535 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company competitors'
+2025-07-25 05:15:32,676 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:15:33,979 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:15:33,979 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company competitors competitive intelligence'
+2025-07-25 05:15:33,990 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:15:33,990 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:15:34,990 - TAQWIN WebConnector - INFO - Competitive intelligence scan completed for test company
+2025-07-25 05:28:43,425 - TAQWIN WebConnector - INFO - TAQWIN Search Engine Initialized
+2025-07-25 05:28:43,425 - TAQWIN WebConnector - INFO - Multi-source search protocols activated
+2025-07-25 05:28:43,425 - TAQWIN WebConnector - ERROR - [ERROR] Failed to create learning directories: 'TaqwinAgentLearningSystem' object has no attribute 'legendary_agents'
+2025-07-25 05:28:43,426 - TAQWIN WebConnector - INFO - [CHECK] Agent learning database initialized
+2025-07-25 05:28:43,426 - TAQWIN WebConnector - INFO - [BRAIN] TAQWIN Agent Learning System Initialized
+2025-07-25 05:28:43,426 - TAQWIN WebConnector - INFO - [STATS] Monitoring 20 Legendary Agents
+2025-07-25 05:28:43,426 - TAQWIN WebConnector - INFO - [BOLT] Individual agent learning protocols: ACTIVE
+2025-07-25 05:28:43,427 - TAQWIN WebConnector - INFO - TAQWIN Learning System integration: SUCCESS
+2025-07-25 05:28:44,454 - TAQWIN WebConnector - INFO - Internet connectivity: ACTIVE
+2025-07-25 05:28:44,699 - TAQWIN WebConnector - INFO - DuckDuckGo search: 2 results
+2025-07-25 05:28:45,204 - TAQWIN WebConnector - INFO - arXiv search: 0 results
+2025-07-25 05:28:45,205 - TAQWIN WebConnector - INFO - Search completed: 2 results for 'test'
+2025-07-25 05:28:45,205 - TAQWIN WebConnector - INFO - Web search capabilities: OPERATIONAL
+2025-07-25 05:28:45,205 - TAQWIN WebConnector - INFO - TAQWIN Web Intelligence System Initialized
+2025-07-25 05:28:45,205 - TAQWIN WebConnector - INFO - Integration Status: FULL
+2025-07-25 05:28:45,205 - TAQWIN WebConnector - INFO - Intelligent search initiated by CHANAKYA: 'business intelligence'
+2025-07-25 05:28:45,528 - TAQWIN WebConnector - INFO - DuckDuckGo search: 11 results
+2025-07-25 05:28:46,013 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:28:46,013 - TAQWIN WebConnector - INFO - Search completed: 16 results for 'business intelligence'
+2025-07-25 05:28:46,019 - TAQWIN WebConnector - INFO - [FILE] Conversation file created: D:\Ethereal Glow\agent-learning\chanakya\conversations\7709FB4F385E_web_intelligence_gathering.md
+2025-07-25 05:28:46,023 - TAQWIN WebConnector - INFO - [BOOK] Conversation stored for CHANAKYA: 7709FB4F385E
+2025-07-25 05:28:46,023 - TAQWIN WebConnector - INFO - Web intelligence stored for agent CHANAKYA
+2025-07-25 05:28:46,023 - TAQWIN WebConnector - INFO - Intelligence search completed: 10 sources analyzed
+2025-07-25 05:28:46,023 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company business strategy'
+2025-07-25 05:28:46,277 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:28:46,945 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:28:46,945 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company business strategy competitive intelligence'
+2025-07-25 05:28:46,951 - TAQWIN WebConnector - INFO - [FILE] Conversation file created: D:\Ethereal Glow\agent-learning\sun_tzu\conversations\3D7776CC3827_web_intelligence_gathering.md
+2025-07-25 05:28:46,954 - TAQWIN WebConnector - INFO - [BOOK] Conversation stored for SUN_TZU: 3D7776CC3827
+2025-07-25 05:28:46,955 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:28:46,955 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:28:47,955 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company market position'
+2025-07-25 05:28:48,143 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:28:48,405 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:28:48,405 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company market position competitive intelligence'
+2025-07-25 05:28:48,414 - TAQWIN WebConnector - INFO - [FILE] Conversation file created: D:\Ethereal Glow\agent-learning\sun_tzu\conversations\011A6AB9BECE_web_intelligence_gathering.md
+2025-07-25 05:28:48,417 - TAQWIN WebConnector - INFO - [BOOK] Conversation stored for SUN_TZU: 011A6AB9BECE
+2025-07-25 05:28:48,418 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:28:48,418 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:28:49,418 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company products services'
+2025-07-25 05:28:49,619 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:28:49,865 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:28:49,865 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company products services competitive intelligence'
+2025-07-25 05:28:49,870 - TAQWIN WebConnector - INFO - [FILE] Conversation file created: D:\Ethereal Glow\agent-learning\sun_tzu\conversations\8DC16A195BE6_web_intelligence_gathering.md
+2025-07-25 05:28:49,873 - TAQWIN WebConnector - INFO - [BOOK] Conversation stored for SUN_TZU: 8DC16A195BE6
+2025-07-25 05:28:49,874 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:28:49,874 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
+2025-07-25 05:28:50,874 - TAQWIN WebConnector - INFO - Intelligent search initiated by SUN_TZU: 'test company news updates'
+2025-07-25 05:28:50,955 - TAQWIN WebConnector - INFO - DuckDuckGo search: 0 results
+2025-07-25 05:28:51,168 - TAQWIN WebConnector - INFO - arXiv search: 5 results
+2025-07-25 05:28:51,169 - TAQWIN WebConnector - INFO - Search completed: 5 results for 'test company news updates competitive intelligence'
+2025-07-25 05:28:51,178 - TAQWIN WebConnector - INFO - [FILE] Conversation file created: D:\Ethereal Glow\agent-learning\sun_tzu\conversations\36B5DE0B0541_web_intelligence_gathering.md
+2025-07-25 05:28:51,181 - TAQWIN WebConnector - INFO - [BOOK] Conversation stored for SUN_TZU: 36B5DE0B0541
+2025-07-25 05:28:51,181 - TAQWIN WebConnector - INFO - Web intelligence stored for agent SUN_TZU
+2025-07-25 05:28:51,181 - TAQWIN WebConnector - INFO - Intelligence search completed: 5 sources analyzed
