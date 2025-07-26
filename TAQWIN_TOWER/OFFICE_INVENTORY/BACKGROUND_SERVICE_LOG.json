@@ -1,68 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26T06:12:38.844024",
-    "action": "OFFICE_STARTED",
-    "details": "Process ID: 14200",
-    "restart_count": 1,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:12:38.845332",
-    "action": "OFFICE_RESTARTED",
-    "details": "Restart #1",
-    "restart_count": 1,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:12:59.525623",
-    "action": "OFFICE_RESTART_NEEDED",
-    "details": "Office process not running",
-    "restart_count": 38,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:12:59.537952",
-    "action": "OFFICE_STARTED",
-    "details": "Process ID: 16932",
-    "restart_count": 39,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:12:59.539131",
-    "action": "OFFICE_RESTARTED",
-    "details": "Restart #39",
-    "restart_count": 39,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:13:07.401697",
-    "action": "SERVICE_STOPPED",
-    "details": "Background service shutdown complete",
-    "restart_count": 1,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:13:59.542462",
-    "action": "OFFICE_RESTART_NEEDED",
-    "details": "Office process not running",
-    "restart_count": 39,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:13:59.553345",
-    "action": "OFFICE_STARTED",
-    "details": "Process ID: 4068",
-    "restart_count": 40,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:13:59.554447",
-    "action": "OFFICE_RESTARTED",
-    "details": "Restart #40",
-    "restart_count": 40,
-    "status": "ACTIVE"
-  },
-  {
     "timestamp": "2025-07-26T06:14:59.556085",
     "action": "OFFICE_RESTART_NEEDED",
     "details": "Office process not running",
@@ -697,6 +634,69 @@
     "action": "OFFICE_RESTARTED",
     "details": "Restart #1",
     "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:33:34.467182",
+    "action": "SERVICE_STARTED",
+    "details": "Background service initialized",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:33:34.468512",
+    "action": "STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_background.bat",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:33:34.478607",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 26580",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:34:34.481489",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:34:34.490709",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28148",
+    "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:34:34.491791",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #1",
+    "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:35:34.493885",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:35:34.502793",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 25736",
+    "restart_count": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T09:35:34.503948",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #2",
+    "restart_count": 2,
     "status": "ACTIVE"
   }
 ]
