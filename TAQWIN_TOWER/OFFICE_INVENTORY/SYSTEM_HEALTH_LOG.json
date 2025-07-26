@@ -89,5 +89,54 @@
     "restart_count": 64,
     "process_id": 5220,
     "uptime_hours": 1.083558015
+  },
+  {
+    "timestamp": "2025-07-26T12:11:54.537458",
+    "office_running": false,
+    "restart_count": 4,
+    "process_id": 20672,
+    "uptime_hours": 0.08335350583333334
+  },
+  {
+    "timestamp": "2025-07-26T23:00:15.455771",
+    "office_running": false,
+    "restart_count": 4,
+    "process_id": 8396,
+    "uptime_hours": 0.08336281194444445
+  },
+  {
+    "timestamp": "2025-07-26T23:05:15.578389",
+    "office_running": false,
+    "restart_count": 9,
+    "process_id": 17832,
+    "uptime_hours": 0.16673021083333334
+  },
+  {
+    "timestamp": "2025-07-26T23:10:15.678805",
+    "office_running": false,
+    "restart_count": 14,
+    "process_id": 24380,
+    "uptime_hours": 0.25009143222222224
+  },
+  {
+    "timestamp": "2025-07-26T23:15:15.779928",
+    "office_running": false,
+    "restart_count": 19,
+    "process_id": 9612,
+    "uptime_hours": 0.33345286444444444
+  },
+  {
+    "timestamp": "2025-07-26T23:20:15.924697",
+    "office_running": false,
+    "restart_count": 24,
+    "process_id": 3096,
+    "uptime_hours": 0.4168264088888889
+  },
+  {
+    "timestamp": "2025-07-26T23:25:16.057012",
+    "office_running": false,
+    "restart_count": 29,
+    "process_id": 10872,
+    "uptime_hours": 0.5001964897222222
   }
 ]

@@ -19,8 +19,8 @@ RAZORPAY_KEY_SECRET=your_razorpay_secret
 RAZORPAY_WEBHOOK_SECRET=whsec_xxxxxxxxxx
 
 # Application URLs
-NEXT_PUBLIC_APP_URL=https://ethereal-glow.vercel.app
-RAZORPAY_CALLBACK_URL=https://ethereal-glow.vercel.app/api/payment/callback
+NEXT_PUBLIC_APP_URL=https://therealglow.in
+RAZORPAY_CALLBACK_URL=https://therealglow.in/api/payment/callback
 ```
 
 ## Phase 2: Backend API Implementation

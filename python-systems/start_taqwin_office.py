@@ -17,6 +17,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from agent_automation.taqwin_agent_master import TaqwinAgentMaster
 from task_management.task_processor import TaqwinTaskProcessor, create_sample_tasks
+from web-intelligence.taqwin_web_intelligence import TAQWINWebIntelligence
+from web-intelligence.taqwin_web_connector import TAQWINWebConnector
 
 def display_taqwin_banner():
     """Display TAQWIN startup banner"""

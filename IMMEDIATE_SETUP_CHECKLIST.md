@@ -8,15 +8,15 @@
 ```
 1. Go to: https://search.google.com/search-console
 2. Click "Add Property" 
-3. Enter: etherealglow.in
+3. Enter: therealglow.in
 4. Verify using Google Analytics (if connected) or HTML tag
 ```
 
 ### Step 2: Submit Sitemap
 ```
 1. In Search Console, go to "Sitemaps"
-2. Submit: etherealglow.in/sitemap.xml
-3. Submit: etherealglow.in/sitemap-0.xml (if exists)
+2. Submit: therealglow.in/sitemap.xml
+3. Submit: therealglow.in/sitemap-0.xml (if exists)
 ```
 
 ### Step 3: Request Indexing
