@@ -205,3 +205,35 @@
 2025-07-26 09:35:36,331 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
 2025-07-26 09:35:37,350 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 1 seconds before restart (failures: 1)
 2025-07-26 09:35:39,370 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:35:41,259 - TAQWIN_ENHANCED - INFO - ZOMBIE_CLEANUP: Terminated orphaned process 12784
+2025-07-26 09:35:45,419 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #1, Consecutive failures: 2
+2025-07-26 09:37:46,450 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:37:47,475 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 2 seconds before restart (failures: 2)
+2025-07-26 09:37:50,496 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:37:55,875 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #2, Consecutive failures: 3
+2025-07-26 09:38:42,913 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 70, Trend: stable
+2025-07-26 09:39:58,937 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:39:59,958 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 4 seconds before restart (failures: 3)
+2025-07-26 09:40:04,979 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:40:10,147 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #3, Consecutive failures: 4
+2025-07-26 09:42:11,176 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:42:12,195 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 8 seconds before restart (failures: 4)
+2025-07-26 09:42:21,216 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:42:26,381 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #4, Consecutive failures: 5
+2025-07-26 09:43:58,417 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 50, Trend: stable
+2025-07-26 09:44:29,438 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:44:30,458 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 16 seconds before restart (failures: 5)
+2025-07-26 09:44:47,480 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:44:52,499 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #5, Consecutive failures: 6
+2025-07-26 09:46:53,532 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:46:54,551 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 32 seconds before restart (failures: 6)
+2025-07-26 09:47:27,571 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:47:32,596 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #6, Consecutive failures: 7
+2025-07-26 09:48:33,837 - TAQWIN_ENHANCED - INFO - GIT_OPERATIONS_COMPLETE: Processed 27 operations
+2025-07-26 09:49:05,871 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 30, Trend: degrading
+2025-07-26 09:49:36,893 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:49:37,912 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 7)
+2025-07-26 09:50:38,934 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:50:43,997 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #7, Consecutive failures: 8
+2025-07-26 09:52:45,026 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:52:46,048 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 8)

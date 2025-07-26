@@ -334,5 +334,26 @@
       "stability_trend": "stable",
       "recommended_action": "Moderate issues - consider process restart"
     }
+  },
+  {
+    "timestamp": "2025-07-26T09:49:04.851095",
+    "service_uptime_hours": 0.2604463725,
+    "restart_count": 6,
+    "stability_score": 30,
+    "consecutive_failures": 7,
+    "system_health": {
+      "cpu_usage": 1.6,
+      "memory_usage": 66.7,
+      "disk_free_gb": 0.5406265258789062,
+      "process_count": 309
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "degrading",
+      "recommended_action": "Critical instability - investigate resource conflicts"
+    }
   }
 ]
