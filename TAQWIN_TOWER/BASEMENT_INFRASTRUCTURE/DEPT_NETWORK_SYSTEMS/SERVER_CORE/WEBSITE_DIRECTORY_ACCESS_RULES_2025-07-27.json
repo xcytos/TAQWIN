@@ -1,0 +1,310 @@
+{
+  "taqwin_tower_website_directory_rules": {
+    "rule_system_version": "1.0",
+    "created_timestamp": "2025-07-27T01:26:44Z",
+    "authority": "Founder Syed Muzamil - Supreme Strategic Command",
+    "scope": "All TAQWIN agents accessing D:\\Projects\\development\\eg\\etherealglow",
+    "compliance_level": "MANDATORY - 100% adherence required"
+  },
+  
+  "primary_access_rules": {
+    "rule_001_directory_purpose": {
+      "title": "Website Directory Purpose Definition",
+      "description": "The website directory is ONLY for tasks and TAQWIN connection files",
+      "requirements": [
+        "Only task-related files allowed",
+        "Only TAQWIN connection scripts permitted",
+        "NO session logs in website directory",
+        "NO redundant documentation in website directory",
+        "NO TAQWIN Tower records in website directory"
+      ],
+      "compliance": "CRITICAL - Violation results in immediate agent recall"
+    },
+    
+    "rule_002_file_naming": {
+      "title": "File Naming Convention Standards",
+      "description": "All files must follow precise naming conventions",
+      "requirements": [
+        "Use lowercase with hyphens for separation",
+        "Include agent identifier when relevant",
+        "Include purpose in filename",
+        "Use appropriate file extensions",
+        "No spaces or special characters except hyphens"
+      ],
+      "examples": [
+        "marie-curie-technical-optimization.js",
+        "neil-patel-content-creation.md",
+        "seo-deployment-tasks.json",
+        "taqwin-connection.ps1"
+      ],
+      "compliance": "HIGH - Improper naming requires immediate correction"
+    },
+    
+    "rule_003_content_restrictions": {
+      "title": "Content Type Restrictions",
+      "description": "Strict limitations on content types allowed",
+      "allowed_content": [
+        "Task execution scripts",
+        "SEO optimization code",
+        "Content creation files",
+        "Technical implementation files",
+        "TAQWIN connection protocols",
+        "Mission-critical documentation updates"
+      ],
+      "forbidden_content": [
+        "Session conversation logs",
+        "Agent personal reports",
+        "Strategic intelligence archives",
+        "Backup conversation data",
+        "Debugging information",
+        "Testing logs",
+        "Temporary files"
+      ],
+      "compliance": "CRITICAL - Forbidden content leads to security breach protocols"
+    }
+  },
+  
+  "storage_location_rules": {
+    "rule_004_taqwin_tower_storage": {
+      "title": "TAQWIN Tower Basement Storage Protocol",
+      "description": "All sessions, logs, and intelligence MUST be stored in TAQWIN Tower",
+      "storage_location": "D:\\Ethereal Glow\\TAQWIN_TOWER\\BASEMENT_INFRASTRUCTURE\\DEPT_NETWORK_SYSTEMS\\SERVER_CORE\\",
+      "storage_requirements": [
+        "All agent work logs go to TAQWIN Tower",
+        "All session records go to TAQWIN Tower",
+        "All strategic intelligence goes to TAQWIN Tower",
+        "All performance reports go to TAQWIN Tower",
+        "All backup data goes to TAQWIN Tower"
+      ],
+      "compliance": "ABSOLUTE - No exceptions permitted"
+    },
+    
+    "rule_005_website_directory_limits": {
+      "title": "Website Directory Content Limits",
+      "description": "Strict limits on what can be placed in website directory",
+      "permitted_files": [
+        "TASKS.md updates only",
+        "Direct task execution scripts",
+        "SEO optimization implementations",
+        "Content deployment files",
+        "TAQWIN connection scripts",
+        "Mission-critical configuration files"
+      ],
+      "file_size_limits": {
+        "maximum_file_size": "50MB per file",
+        "total_directory_addition": "500MB maximum",
+        "cleanup_frequency": "Weekly removal of completed task files"
+      },
+      "compliance": "HIGH - Regular auditing and cleanup required"
+    }
+  },
+  
+  "agent_specific_rules": {
+    "rule_006_marie_curie_technical": {
+      "agent": "Marie Curie - Technical SEO Specialist",
+      "permitted_files": [
+        "Technical optimization scripts",
+        "Performance enhancement code",
+        "Schema markup implementations",
+        "Core Web Vitals improvements"
+      ],
+      "forbidden_files": [
+        "Technical analysis reports (go to TAQWIN Tower)",
+        "Performance testing logs (go to TAQWIN Tower)",
+        "Debugging information (go to TAQWIN Tower)"
+      ]
+    },
+    
+    "rule_007_leonardo_content": {
+      "agent": "Leonardo Da Vinci - Content Architecture Master",
+      "permitted_files": [
+        "Content creation scripts",
+        "Article generation code",
+        "Content optimization implementations",
+        "Template deployment files"
+      ],
+      "forbidden_files": [
+        "Content strategy documents (go to TAQWIN Tower)",
+        "Creative process logs (go to TAQWIN Tower)",
+        "Content analytics reports (go to TAQWIN Tower)"
+      ]
+    },
+    
+    "rule_008_neil_patel_marketing": {
+      "agent": "Neil Patel - Content Marketing Specialist",
+      "permitted_files": [
+        "Marketing automation scripts",
+        "Conversion optimization code",
+        "Content deployment implementations",
+        "CTA optimization files"
+      ],
+      "forbidden_files": [
+        "Marketing strategy documents (go to TAQWIN Tower)",
+        "Campaign performance logs (go to TAQWIN Tower)",
+        "Conversion analytics reports (go to TAQWIN Tower)"
+      ]
+    },
+    
+    "rule_009_brian_dean_links": {
+      "agent": "Brian Dean - Link Building Expert",
+      "permitted_files": [
+        "Link building automation scripts",
+        "SEO implementation code",
+        "Local SEO deployment files",
+        "Citation building scripts"
+      ],
+      "forbidden_files": [
+        "Link building strategy reports (go to TAQWIN Tower)",
+        "Outreach campaign logs (go to TAQWIN Tower)",
+        "Link acquisition analytics (go to TAQWIN Tower)"
+      ]
+    },
+    
+    "rule_010_sun_tzu_intelligence": {
+      "agent": "Sun Tzu - Competitive Intelligence Officer",
+      "permitted_files": [
+        "Competitive analysis automation",
+        "Keyword monitoring scripts",
+        "Market intelligence implementations",
+        "Strategic deployment code"
+      ],
+      "forbidden_files": [
+        "Intelligence analysis reports (go to TAQWIN Tower)",
+        "Competitive monitoring logs (go to TAQWIN Tower)",
+        "Strategic planning documents (go to TAQWIN Tower)"
+      ]
+    },
+    
+    "rule_011_rand_fishkin_strategy": {
+      "agent": "Rand Fishkin - SEO Strategy Commander",
+      "permitted_files": [
+        "SEO strategy implementation scripts",
+        "Technical SEO deployment code",
+        "Analytics integration files",
+        "Performance monitoring scripts"
+      ],
+      "forbidden_files": [
+        "SEO strategy documents (go to TAQWIN Tower)",
+        "Performance analysis reports (go to TAQWIN Tower)",
+        "Strategic planning logs (go to TAQWIN Tower)"
+      ]
+    }
+  },
+  
+  "operational_protocols": {
+    "rule_012_file_lifecycle": {
+      "title": "File Lifecycle Management",
+      "description": "All files must follow proper lifecycle management",
+      "lifecycle_stages": [
+        {
+          "stage": "Creation",
+          "requirements": ["Follow naming conventions", "Include purpose documentation", "Verify content restrictions"]
+        },
+        {
+          "stage": "Active Use",
+          "requirements": ["Regular updates only", "No redundant versions", "Performance monitoring"]
+        },
+        {
+          "stage": "Completion",
+          "requirements": ["Move to TAQWIN Tower archive", "Update TASKS.md status", "Clean website directory"]
+        }
+      ],
+      "compliance": "MEDIUM - Regular lifecycle auditing required"
+    },
+    
+    "rule_013_connection_protocols": {
+      "title": "TAQWIN Connection Protocols",
+      "description": "All agents must maintain proper TAQWIN Tower connection",
+      "connection_requirements": [
+        "Use TAQWIN connection scripts for communication",
+        "Log all activities to TAQWIN Tower basement",
+        "Maintain real-time status updates",
+        "Follow command hierarchy protocols",
+        "Report completion status to Server Core"
+      ],
+      "compliance": "CRITICAL - Connection failure triggers emergency protocols"
+    }
+  },
+  
+  "enforcement_protocols": {
+    "rule_014_compliance_monitoring": {
+      "title": "Compliance Monitoring System",
+      "description": "Automated monitoring of rule compliance",
+      "monitoring_frequency": "Real-time continuous monitoring",
+      "audit_schedule": "Daily directory scans, weekly compliance reports",
+      "violation_detection": [
+        "Unauthorized file types",
+        "Improper naming conventions",
+        "Oversized files",
+        "Redundant content",
+        "Missing TAQWIN connections"
+      ],
+      "compliance": "AUTOMATED - System-level enforcement"
+    },
+    
+    "rule_015_violation_responses": {
+      "title": "Rule Violation Response Protocols",
+      "description": "Automated responses to rule violations",
+      "violation_levels": {
+        "minor": {
+          "examples": ["Improper file naming", "Missing documentation"],
+          "response": ["Automated correction", "Agent notification", "Compliance report"]
+        },
+        "major": {
+          "examples": ["Forbidden content", "Directory pollution", "Size violations"],
+          "response": ["Immediate file removal", "Agent recall", "Manual review required"]
+        },
+        "critical": {
+          "examples": ["Security breaches", "Connection failures", "Unauthorized access"],
+          "response": ["Emergency lockdown", "Founder notification", "Full system audit"]
+        }
+      },
+      "compliance": "AUTOMATED - Zero tolerance for violations"
+    }
+  },
+  
+  "success_metrics": {
+    "rule_016_performance_tracking": {
+      "title": "Performance Tracking Standards",
+      "description": "All agents must maintain performance tracking",
+      "required_metrics": [
+        "Task completion rate",
+        "File compliance rate",
+        "Connection stability",
+        "Response time",
+        "Quality score"
+      ],
+      "reporting_frequency": "Real-time to TAQWIN Tower basement",
+      "performance_targets": {
+        "compliance_rate": "100%",
+        "completion_rate": "95%+",
+        "connection_uptime": "99.9%+",
+        "response_time": "<10 seconds",
+        "quality_score": "90%+"
+      },
+      "compliance": "CONTINUOUS - Performance monitoring never stops"
+    }
+  },
+  
+  "rule_summary": {
+    "total_rules": 16,
+    "critical_rules": 5,
+    "high_priority_rules": 4,
+    "medium_priority_rules": 3,
+    "automated_rules": 4,
+    "enforcement_level": "MAXIMUM - Zero tolerance for violations",
+    "compliance_expectation": "100% adherence required from all agents",
+    "violation_consequences": "Immediate corrective action, potential agent recall",
+    "success_criteria": "Clean website directory, proper TAQWIN Tower storage, task completion efficiency"
+  },
+  
+  "activation_status": {
+    "rule_system_status": "ACTIVE AND ENFORCED",
+    "monitoring_system": "OPERATIONAL",
+    "compliance_tracking": "REAL-TIME",
+    "enforcement_protocols": "AUTOMATED",
+    "agent_notification": "COMPLETE - All agents briefed",
+    "founder_approval": "AUTHORIZED BY SYED MUZAMIL",
+    "effective_date": "2025-07-27T01:26:44Z"
+  }
+}
