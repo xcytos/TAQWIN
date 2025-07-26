@@ -152,3 +152,34 @@
 2025-07-26 08:55:54,650 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 8 seconds before restart (failures: 4)
 2025-07-26 08:56:03,665 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
 2025-07-26 08:56:08,328 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #4, Consecutive failures: 5
+2025-07-26 08:57:40,358 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 50, Trend: stable
+2025-07-26 08:58:11,375 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 08:58:12,391 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 16 seconds before restart (failures: 5)
+2025-07-26 08:58:29,406 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 08:58:34,077 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #5, Consecutive failures: 6
+2025-07-26 09:00:35,102 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:00:36,116 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 32 seconds before restart (failures: 6)
+2025-07-26 09:01:09,132 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:01:13,808 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #6, Consecutive failures: 7
+2025-07-26 09:02:30,040 - TAQWIN_ENHANCED - INFO - GIT_OPERATIONS_COMPLETE: Processed 19 operations
+2025-07-26 09:02:47,068 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 30, Trend: degrading
+2025-07-26 09:03:18,084 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:03:19,099 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 7)
+2025-07-26 09:04:20,114 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:04:24,791 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #7, Consecutive failures: 8
+2025-07-26 09:06:25,817 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:06:26,832 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 8)
+2025-07-26 09:07:27,849 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:07:32,543 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #8, Consecutive failures: 9
+2025-07-26 09:07:49,577 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 10, Trend: degrading
+2025-07-26 09:09:35,596 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:09:36,612 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 9)
+2025-07-26 09:10:37,628 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:10:42,368 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #9, Consecutive failures: 10
+2025-07-26 09:12:43,404 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:12:44,445 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 10)
+2025-07-26 09:13:45,462 - TAQWIN_ENHANCED - INFO - GRACEFUL_SHUTDOWN: Process terminated gracefully
+2025-07-26 09:13:50,386 - TAQWIN_ENHANCED - ERROR - OFFICE_RESTART_FAILED_ENHANCED: Failed restart #10, Consecutive failures: 11
+2025-07-26 09:14:07,412 - TAQWIN_ENHANCED - INFO - PERFORMANCE_ANALYTICS_GENERATED: Stability: 0, Trend: degrading
+2025-07-26 09:15:53,439 - TAQWIN_ENHANCED - WARNING - RESTART_NEEDED_ENHANCED: Health issues: Process not running or terminated
+2025-07-26 09:15:54,455 - TAQWIN_ENHANCED - INFO - BACKOFF_WAIT: Waiting 60 seconds before restart (failures: 11)
