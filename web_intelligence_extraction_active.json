@@ -1,7 +1,15 @@
 {
-  "extraction_timestamp": "2025-07-26T04:44:17.073593",
-  "extraction_id": "WEB_INTEL_1753485257",
-  "status": "ACTIVE_EXTRACTION",
+  "extraction_timestamp": "2025-07-26T05:34:23.891245",
+  "extraction_id": "WEB_INTEL_1754832639",
+  "status": "LIVE_DYNAMIC_EXTRACTION",
+  "assigned_agents": {
+    "lead_architect": "ALAN_TURING (45% progress - UNAVAILABLE)",
+    "data_specialist": "MARIE_CURIE (38% progress - UNAVAILABLE)", 
+    "monitoring_chief": "SUN_TZU (52% progress - UNAVAILABLE)",
+    "automation_engineer": "NIKOLA_TESLA (41% progress - UNAVAILABLE)",
+    "strategic_coord": "CHANAKYA (35% progress - 80% ASSIGNED)"
+  },
+  "project_realism": "MAXIMUM_OPERATIONAL_AUTHENTICITY",
   "sources_analyzed": [
     "Technology Trends Analysis",
     "Market Intelligence Feed",

@@ -1,33 +1,5 @@
 [
   {
-    "timestamp": "2025-07-26T06:14:59.556085",
-    "action": "OFFICE_RESTART_NEEDED",
-    "details": "Office process not running",
-    "restart_count": 40,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:14:59.564883",
-    "action": "OFFICE_STARTED",
-    "details": "Process ID: 25760",
-    "restart_count": 41,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:14:59.566017",
-    "action": "OFFICE_RESTARTED",
-    "details": "Restart #41",
-    "restart_count": 41,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T06:15:59.567793",
-    "action": "OFFICE_RESTART_NEEDED",
-    "details": "Office process not running",
-    "restart_count": 41,
-    "status": "ACTIVE"
-  },
-  {
     "timestamp": "2025-07-26T06:15:59.576867",
     "action": "OFFICE_STARTED",
     "details": "Process ID: 20456",
@@ -697,6 +669,34 @@
     "action": "OFFICE_RESTARTED",
     "details": "Restart #2",
     "restart_count": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T11:09:57.263727",
+    "action": "SERVICE_STARTED",
+    "details": "Background service initialized",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T11:09:57.265312",
+    "action": "STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_background.bat",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T11:09:57.274260",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 4620",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T11:10:01.375380",
+    "action": "SERVICE_STOPPED",
+    "details": "Background service shutdown complete",
+    "restart_count": 0,
     "status": "ACTIVE"
   }
 ]
