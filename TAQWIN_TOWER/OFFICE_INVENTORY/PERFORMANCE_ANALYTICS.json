@@ -124,5 +124,89 @@
       "stability_trend": "stable",
       "recommended_action": "Moderate issues - consider process restart"
     }
+  },
+  {
+    "timestamp": "2025-07-26T08:19:56.583920",
+    "service_uptime_hours": 0.2596873513888889,
+    "restart_count": 6,
+    "stability_score": 30,
+    "consecutive_failures": 7,
+    "system_health": {
+      "cpu_usage": 0.8,
+      "memory_usage": 39.2,
+      "disk_free_gb": 0.6217880249023438,
+      "process_count": 262
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "degrading",
+      "recommended_action": "Critical instability - investigate resource conflicts"
+    }
+  },
+  {
+    "timestamp": "2025-07-26T08:24:59.181014",
+    "service_uptime_hours": 0.34374209972222225,
+    "restart_count": 8,
+    "stability_score": 10,
+    "consecutive_failures": 9,
+    "system_health": {
+      "cpu_usage": 1.1,
+      "memory_usage": 43.4,
+      "disk_free_gb": 0.6217765808105469,
+      "process_count": 265
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "degrading",
+      "recommended_action": "Critical instability - investigate resource conflicts"
+    }
+  },
+  {
+    "timestamp": "2025-07-26T08:52:23.847109",
+    "service_uptime_hours": 0.08664100972222223,
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_health": {
+      "cpu_usage": 4.1,
+      "memory_usage": 48.8,
+      "disk_free_gb": 0.5374488830566406,
+      "process_count": 263
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 60,
+      "stability_trend": "stable",
+      "recommended_action": "Minor instability detected - increase monitoring frequency"
+    }
+  },
+  {
+    "timestamp": "2025-07-26T08:57:39.340999",
+    "service_uptime_hours": 0.1742782013888889,
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_health": {
+      "cpu_usage": 1.7,
+      "memory_usage": 50.2,
+      "disk_free_gb": 0.537445068359375,
+      "process_count": 259
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "stable",
+      "recommended_action": "Moderate issues - consider process restart"
+    }
   }
 ]
