@@ -9,6 +9,33 @@ import os
 from pathlib import Path
 import time
 import subprocess
+import codecs
+import io
+
+# Unicode-safe output handling for Windows
+if sys.platform == 'win32':
+    # Wrap stdout and stderr with UTF-8 encoding
+    if hasattr(sys.stdout, 'buffer'):
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    if hasattr(sys.stderr, 'buffer'):
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+
+def safe_print(*args, **kwargs):
+    """Unicode-safe print function"""
+    try:
+        print(*args, **kwargs)
+        sys.stdout.flush()
+    except UnicodeEncodeError:
+        # Fallback: replace problematic Unicode characters
+        safe_args = []
+        for arg in args:
+            if isinstance(arg, str):
+                safe_arg = arg.encode('ascii', errors='replace').decode('ascii')
+                safe_args.append(safe_arg)
+            else:
+                safe_args.append(str(arg))
+        print(*safe_args, **kwargs)
+        sys.stdout.flush()
 
 class TaqwinMasterActivation:
     def __init__(self):
