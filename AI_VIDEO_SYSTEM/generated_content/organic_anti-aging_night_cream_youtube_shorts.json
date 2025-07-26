@@ -1,0 +1,73 @@
+{
+  "project_name": "ethereal_glow_organic_anti-aging_night_cream_reel",
+  "product": "Organic Anti-Aging Night Cream",
+  "timestamp": "20250725_150047",
+  "total_duration": "60 seconds",
+  "format": "YouTube Shorts (9:16)",
+  "segments": [
+    {
+      "timing": "0-2 seconds",
+      "type": "HOOK",
+      "script": "🔥 The secret to radiant skin revealed! Organic Anti-Aging Night Cream is here!",
+      "visual_prompt": "Close-up of Organic Anti-Aging Night Cream with luxury packaging, soft golden lighting, elegant product display",
+      "text_overlay": "✨ GAME CHANGER ✨",
+      "audio_note": "Upbeat, enthusiastic female voice"
+    },
+    {
+      "timing": "3-8 seconds",
+      "type": "PROBLEM",
+      "script": "Struggling with uneven skin tone?",
+      "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+      "text_overlay": "You're not alone...",
+      "audio_note": "Empathetic, understanding tone"
+    },
+    {
+      "timing": "9-18 seconds",
+      "type": "SOLUTION",
+      "script": "Meet Organic Anti-Aging Night Cream from Ethereal Glow! Overnight renewal and wrinkle reduction with our signature blend of Retinol alternative, peptides, organic oils.",
+      "visual_prompt": "Product showcase with ingredients floating around, hands applying Organic Anti-Aging Night Cream, satisfying texture shots",
+      "text_overlay": "THE SOLUTION ✨",
+      "audio_note": "Confident, professional tone"
+    },
+    {
+      "timing": "19-25 seconds",
+      "type": "PROOF",
+      "script": "Join 50,000+ satisfied customers worldwide!",
+      "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+      "text_overlay": "REAL RESULTS 💫",
+      "audio_note": "Trustworthy, excited tone"
+    },
+    {
+      "timing": "26-30 seconds",
+      "type": "CTA",
+      "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+      "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+      "text_overlay": "TheRealGlow.in 🔗",
+      "audio_note": "Strong, motivating call-to-action"
+    },
+    {
+      "timing": "31-45 seconds",
+      "type": "EDUCATION",
+      "script": "Why Organic Anti-Aging Night Cream works: Our organic formula is clinically tested and dermatologist approved. Perfect for Aging skin requiring intensive nighttime treatment.",
+      "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+      "text_overlay": "THE SCIENCE ⚗️",
+      "audio_note": "Educational, informative tone"
+    },
+    {
+      "timing": "46-60 seconds",
+      "type": "EXTENDED_CTA",
+      "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+      "visual_prompt": "Subscribe button animation, discount code, product collection display",
+      "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+      "audio_note": "Encouraging, friendly tone"
+    }
+  ],
+  "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+  "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+  "brand_elements": {
+    "logo": "Bottom right corner throughout",
+    "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+    "website": "TheRealGlow.in",
+    "tagline": "Where Science Meets Nature"
+  }
+}

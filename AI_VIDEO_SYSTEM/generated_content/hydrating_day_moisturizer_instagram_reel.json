@@ -1,0 +1,57 @@
+{
+  "project_name": "ethereal_glow_hydrating_day_moisturizer_reel",
+  "product": "Hydrating Day Moisturizer",
+  "timestamp": "20250725_150047",
+  "total_duration": "30 seconds",
+  "format": "Instagram Reel (9:16)",
+  "segments": [
+    {
+      "timing": "0-2 seconds",
+      "type": "HOOK",
+      "script": "💫 Transform your skincare routine today! Hydrating Day Moisturizer is here!",
+      "visual_prompt": "Close-up of Hydrating Day Moisturizer with luxury packaging, soft golden lighting, elegant product display",
+      "text_overlay": "✨ GAME CHANGER ✨",
+      "audio_note": "Upbeat, enthusiastic female voice"
+    },
+    {
+      "timing": "3-8 seconds",
+      "type": "PROBLEM",
+      "script": "Tired of dull, lifeless skin?",
+      "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+      "text_overlay": "You're not alone...",
+      "audio_note": "Empathetic, understanding tone"
+    },
+    {
+      "timing": "9-18 seconds",
+      "type": "SOLUTION",
+      "script": "Meet Hydrating Day Moisturizer from Ethereal Glow! 24-hour hydration with SPF protection with our signature blend of Hyaluronic acid, vitamin E, natural UV filters.",
+      "visual_prompt": "Product showcase with ingredients floating around, hands applying Hydrating Day Moisturizer, satisfying texture shots",
+      "text_overlay": "THE SOLUTION ✨",
+      "audio_note": "Confident, professional tone"
+    },
+    {
+      "timing": "19-25 seconds",
+      "type": "PROOF",
+      "script": "Dermatologist-recommended formula!",
+      "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+      "text_overlay": "REAL RESULTS 💫",
+      "audio_note": "Trustworthy, excited tone"
+    },
+    {
+      "timing": "26-30 seconds",
+      "type": "CTA",
+      "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+      "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+      "text_overlay": "TheRealGlow.in 🔗",
+      "audio_note": "Strong, motivating call-to-action"
+    }
+  ],
+  "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+  "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+  "brand_elements": {
+    "logo": "Bottom right corner throughout",
+    "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+    "website": "TheRealGlow.in",
+    "tagline": "Where Science Meets Nature"
+  }
+}

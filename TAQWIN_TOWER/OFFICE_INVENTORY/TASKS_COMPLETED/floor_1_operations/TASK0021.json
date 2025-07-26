@@ -1,0 +1,19 @@
+{
+  "task_id": "TASK0021",
+  "title": "Instagram Algorithm Optimization",
+  "description": "Implement 6-9 PM posting schedule with trending audio for 300% engagement boost",
+  "department": "FLOOR_1_OPERATIONS",
+  "priority": "MEDIUM",
+  "status": "PENDING",
+  "assigned_by": "FOUNDER",
+  "created_at": "2025-07-25T17:28:17.654875",
+  "assigned_agents": [
+    "General Patton",
+    "Benjamin Franklin",
+    "Oprah Winfrey",
+    "Maya Angelou"
+  ],
+  "estimated_duration": "3 hours",
+  "progress": 0,
+  "work_log": []
+}

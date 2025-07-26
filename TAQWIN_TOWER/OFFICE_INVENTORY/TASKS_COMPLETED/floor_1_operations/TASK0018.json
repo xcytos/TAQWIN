@@ -1,0 +1,19 @@
+{
+  "task_id": "TASK0018",
+  "title": "Brand Storytelling Content Series",
+  "description": "Create grandmother wisdom storytelling content for cultural authenticity positioning",
+  "department": "FLOOR_1_OPERATIONS",
+  "priority": "MEDIUM",
+  "status": "PENDING",
+  "assigned_by": "FOUNDER",
+  "created_at": "2025-07-25T17:28:17.652434",
+  "assigned_agents": [
+    "General Patton",
+    "Benjamin Franklin",
+    "Oprah Winfrey",
+    "Maya Angelou"
+  ],
+  "estimated_duration": "3 hours",
+  "progress": 0,
+  "work_log": []
+}

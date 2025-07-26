@@ -1,0 +1,25 @@
+# WARP EMAIL AUTOMATION SYSTEM (WEAS-2025)
+# Ethereal Glow R&D Project 9 - Dependencies
+
+# Web Automation
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# HTTP Requests
+requests==2.31.0
+
+# Clipboard Integration
+pyperclip==1.8.2
+
+# GUI Framework (Built-in with Python)
+# tkinter - No installation required
+
+# Logging and Utilities (Built-in with Python)
+# datetime, json, time, random, threading, logging - No installation required
+
+# Optional: For advanced features
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Browser Driver
+# Chrome WebDriver will be auto-downloaded by webdriver-manager

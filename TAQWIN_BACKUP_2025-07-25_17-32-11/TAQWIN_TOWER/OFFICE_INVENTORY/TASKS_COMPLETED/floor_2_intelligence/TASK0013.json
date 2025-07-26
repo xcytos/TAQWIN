@@ -1,0 +1,19 @@
+{
+  "task_id": "TASK0013",
+  "title": "Traditional Ingredient Research",
+  "description": "Develop 17 unique Multani Mitti formulations based on grandmother wisdom analysis",
+  "department": "FLOOR_2_INTELLIGENCE",
+  "priority": "HIGH",
+  "status": "PENDING",
+  "assigned_by": "FOUNDER",
+  "created_at": "2025-07-25T17:28:17.648906",
+  "assigned_agents": [
+    "Sun Tzu",
+    "Rand Fishkin",
+    "Neil Patel",
+    "Brian Dean"
+  ],
+  "estimated_duration": "3 hours",
+  "progress": 0,
+  "work_log": []
+}

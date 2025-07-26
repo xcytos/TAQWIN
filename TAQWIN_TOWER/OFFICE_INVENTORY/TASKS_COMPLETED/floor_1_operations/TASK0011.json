@@ -1,0 +1,19 @@
+{
+  "task_id": "TASK0011",
+  "title": "Competitor Backlink Analysis",
+  "description": "Complete vulnerability assessment of Mamaearth, Khadi Natural, Biotique backlink profiles",
+  "department": "FLOOR_1_OPERATIONS",
+  "priority": "HIGH",
+  "status": "PENDING",
+  "assigned_by": "FOUNDER",
+  "created_at": "2025-07-25T17:28:17.646658",
+  "assigned_agents": [
+    "General Patton",
+    "Benjamin Franklin",
+    "Oprah Winfrey",
+    "Maya Angelou"
+  ],
+  "estimated_duration": "3 hours",
+  "progress": 0,
+  "work_log": []
+}

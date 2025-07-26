@@ -1,0 +1,14 @@
+2025-07-25 14:31:02,501 - __main__ - INFO - Generated guerrilla email: cxvrctai@guerrillamailblock.com
+2025-07-25 14:31:03,662 - __main__ - INFO - Enhanced browser setup completed
+2025-07-25 14:31:03,663 - __main__ - INFO - Navigating to app.warp.dev...
+2025-07-25 14:31:09,921 - __main__ - INFO - Current URL: https://app.warp.dev/login
+2025-07-25 14:31:09,922 - __main__ - INFO - Successfully navigated to Warp
+2025-07-25 14:31:09,939 - __main__ - INFO - Looking for email input field to enter: cxvrctai@guerrillamailblock.com
+2025-07-25 14:31:13,020 - __main__ - ERROR - Could not find any email input field
+2025-07-25 14:34:31,036 - __main__ - INFO - Generated guerrilla email: ziurlmwx@guerrillamailblock.com
+2025-07-25 14:34:32,242 - __main__ - INFO - Enhanced browser setup completed
+2025-07-25 14:34:32,243 - __main__ - INFO - Navigating to app.warp.dev...
+2025-07-25 14:34:39,682 - __main__ - INFO - Current URL: https://app.warp.dev/login
+2025-07-25 14:34:39,683 - __main__ - INFO - Successfully navigated to Warp
+2025-07-25 14:34:39,700 - __main__ - INFO - Looking for email input field to enter: ziurlmwx@guerrillamailblock.com
+2025-07-25 14:34:42,775 - __main__ - ERROR - Could not find any email input field

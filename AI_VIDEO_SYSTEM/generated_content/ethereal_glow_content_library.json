@@ -1,402 +1,1145 @@
 {
-  "generation_date": "2025-07-25 10:20:36",
-  "total_products": 6,
-  "content_library": [
-    {
-      "product": "Organic Anti-Aging Night Cream",
-      "script_file": "organic_anti-aging_night_cream_script.json",
-      "script_data": {
+  "generation_timestamp": "2025-07-25T15:00:47.520189",
+  "total_scripts": 18,
+  "platforms": [
+    "Instagram Reels",
+    "TikTok",
+    "YouTube Shorts"
+  ],
+  "content": {
+    "Gentle Cleansing Face Wash": {
+      "instagram_reel": {
+        "project_name": "ethereal_glow_gentle_cleansing_face_wash_reel",
+        "product": "Gentle Cleansing Face Wash",
+        "timestamp": "20250725_150047",
+        "total_duration": "30 seconds",
+        "format": "Instagram Reel (9:16)",
         "segments": [
           {
-            "timing": "0-3 seconds",
-            "script": "🌟 Ready for skin that glows from within? Organic Anti-Aging Night Cream with Retinol and Hyaluronic Acid is here!",
-            "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
-            "audio_note": "Enthusiastic, warm female voice"
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "💫 Transform your skincare routine today! Gentle Cleansing Face Wash is here!",
+            "visual_prompt": "Close-up of Gentle Cleansing Face Wash with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
           },
           {
-            "timing": "4-8 seconds",
-            "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
-            "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
-            "audio_note": "Empathetic tone, addressing pain point"
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Struggling with uneven skin tone?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
           },
           {
-            "timing": "9-25 seconds",
-            "script": "Introducing Organic Anti-Aging Night Cream with Retinol and Hyaluronic Acid from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
-            "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
-            "audio_note": "Professional, confident tone highlighting benefits"
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Gentle Cleansing Face Wash from Ethereal Glow! Deep cleansing without stripping natural oils with our signature blend of Organic chamomile, aloe vera, natural botanicals.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Gentle Cleansing Face Wash, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
           },
           {
-            "timing": "26-40 seconds",
-            "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
-            "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
-            "audio_note": "Trustworthy tone with social proof emphasis"
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "95% report visible results within 7 days!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
           },
           {
-            "timing": "41-50 seconds",
-            "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
-            "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "tiktok": {
+        "project_name": "ethereal_glow_gentle_cleansing_face_wash_reel",
+        "product": "Gentle Cleansing Face Wash",
+        "timestamp": "20250725_150047",
+        "total_duration": "15-30 seconds",
+        "format": "TikTok (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "POV: You found the skincare product that actually works! Gentle Cleansing Face Wash hits different 🔥",
+            "visual_prompt": "Close-up of Gentle Cleansing Face Wash with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "THIS CHANGED EVERYTHING",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Dealing with dry, dehydrated skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Gentle Cleansing Face Wash from Ethereal Glow! Deep cleansing without stripping natural oils with our signature blend of Organic chamomile, aloe vera, natural botanicals.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Gentle Cleansing Face Wash, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Featured in top beauty magazines!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "youtube_shorts": {
+        "project_name": "ethereal_glow_gentle_cleansing_face_wash_reel",
+        "product": "Gentle Cleansing Face Wash",
+        "timestamp": "20250725_150047",
+        "total_duration": "60 seconds",
+        "format": "YouTube Shorts (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "🔥 The secret to radiant skin revealed! Gentle Cleansing Face Wash is here!",
+            "visual_prompt": "Close-up of Gentle Cleansing Face Wash with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Dealing with dry, dehydrated skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Gentle Cleansing Face Wash from Ethereal Glow! Deep cleansing without stripping natural oils with our signature blend of Organic chamomile, aloe vera, natural botanicals.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Gentle Cleansing Face Wash, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Over 10,000 five-star reviews!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
             "audio_note": "Strong, motivating call-to-action"
           },
           {
-            "timing": "51-60 seconds",
-            "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
-            "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
-            "audio_note": "Memorable brand tagline delivery"
+            "timing": "31-45 seconds",
+            "type": "EDUCATION",
+            "script": "Why Gentle Cleansing Face Wash works: Our organic formula is clinically tested and dermatologist approved. Perfect for All skin types seeking gentle daily cleansing.",
+            "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+            "text_overlay": "THE SCIENCE ⚗️",
+            "audio_note": "Educational, informative tone"
+          },
+          {
+            "timing": "46-60 seconds",
+            "type": "EXTENDED_CTA",
+            "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+            "visual_prompt": "Subscribe button animation, discount code, product collection display",
+            "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+            "audio_note": "Encouraging, friendly tone"
           }
         ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
         "brand_elements": {
-          "logo_placement": "Bottom right corner throughout",
-          "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
-          "color_scheme": "Gold and cream tones, elegant typography",
-          "music": "Soft, uplifting background music"
-        },
-        "technical_specs": {
-          "total_length": "60 seconds",
-          "recommended_resolution": "1080p (1920x1080)",
-          "aspect_ratios": {
-            "instagram": "1:1 (1080x1080)",
-            "youtube": "16:9 (1920x1080)",
-            "tiktok": "9:16 (1080x1920)"
-          }
-        },
-        "product_info": {
-          "name": "Organic Anti-Aging Night Cream",
-          "features": "with Retinol and Hyaluronic Acid",
-          "audience": "Women aged 25-45 concerned about aging signs",
-          "focus": "Anti-aging and skin renewal"
-        },
-        "generation_date": "2025-07-25 10:20:36"
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
       }
     },
-    {
-      "product": "Vitamin C Brightening Serum",
-      "script_file": "vitamin_c_brightening_serum_script.json",
-      "script_data": {
+    "Hydrating Day Moisturizer": {
+      "instagram_reel": {
+        "project_name": "ethereal_glow_hydrating_day_moisturizer_reel",
+        "product": "Hydrating Day Moisturizer",
+        "timestamp": "20250725_150047",
+        "total_duration": "30 seconds",
+        "format": "Instagram Reel (9:16)",
         "segments": [
           {
-            "timing": "0-3 seconds",
-            "script": "🌟 Ready for skin that glows from within? Vitamin C Brightening Serum with Natural Antioxidants is here!",
-            "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
-            "audio_note": "Enthusiastic, warm female voice"
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "💫 Transform your skincare routine today! Hydrating Day Moisturizer is here!",
+            "visual_prompt": "Close-up of Hydrating Day Moisturizer with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
           },
           {
-            "timing": "4-8 seconds",
-            "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
-            "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
-            "audio_note": "Empathetic tone, addressing pain point"
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Tired of dull, lifeless skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
           },
           {
-            "timing": "9-25 seconds",
-            "script": "Introducing Vitamin C Brightening Serum with Natural Antioxidants from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
-            "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
-            "audio_note": "Professional, confident tone highlighting benefits"
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Hydrating Day Moisturizer from Ethereal Glow! 24-hour hydration with SPF protection with our signature blend of Hyaluronic acid, vitamin E, natural UV filters.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Hydrating Day Moisturizer, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
           },
           {
-            "timing": "26-40 seconds",
-            "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
-            "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
-            "audio_note": "Trustworthy tone with social proof emphasis"
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Dermatologist-recommended formula!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
           },
           {
-            "timing": "41-50 seconds",
-            "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
-            "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "tiktok": {
+        "project_name": "ethereal_glow_hydrating_day_moisturizer_reel",
+        "product": "Hydrating Day Moisturizer",
+        "timestamp": "20250725_150047",
+        "total_duration": "15-30 seconds",
+        "format": "TikTok (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "POV: You found the skincare product that actually works! Hydrating Day Moisturizer hits different 🔥",
+            "visual_prompt": "Close-up of Hydrating Day Moisturizer with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "THIS CHANGED EVERYTHING",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Frustrated by visible signs of aging?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Hydrating Day Moisturizer from Ethereal Glow! 24-hour hydration with SPF protection with our signature blend of Hyaluronic acid, vitamin E, natural UV filters.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Hydrating Day Moisturizer, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Trusted by skincare experts everywhere!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "youtube_shorts": {
+        "project_name": "ethereal_glow_hydrating_day_moisturizer_reel",
+        "product": "Hydrating Day Moisturizer",
+        "timestamp": "20250725_150047",
+        "total_duration": "60 seconds",
+        "format": "YouTube Shorts (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "🌟 Ready for skin that glows from within? Hydrating Day Moisturizer is here!",
+            "visual_prompt": "Close-up of Hydrating Day Moisturizer with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Want to simplify your skincare routine?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Hydrating Day Moisturizer from Ethereal Glow! 24-hour hydration with SPF protection with our signature blend of Hyaluronic acid, vitamin E, natural UV filters.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Hydrating Day Moisturizer, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Dermatologist-recommended formula!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
             "audio_note": "Strong, motivating call-to-action"
           },
           {
-            "timing": "51-60 seconds",
-            "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
-            "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
-            "audio_note": "Memorable brand tagline delivery"
+            "timing": "31-45 seconds",
+            "type": "EDUCATION",
+            "script": "Why Hydrating Day Moisturizer works: Our organic formula is clinically tested and dermatologist approved. Perfect for Dry to normal skin needing daily protection.",
+            "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+            "text_overlay": "THE SCIENCE ⚗️",
+            "audio_note": "Educational, informative tone"
+          },
+          {
+            "timing": "46-60 seconds",
+            "type": "EXTENDED_CTA",
+            "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+            "visual_prompt": "Subscribe button animation, discount code, product collection display",
+            "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+            "audio_note": "Encouraging, friendly tone"
           }
         ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
         "brand_elements": {
-          "logo_placement": "Bottom right corner throughout",
-          "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
-          "color_scheme": "Gold and cream tones, elegant typography",
-          "music": "Soft, uplifting background music"
-        },
-        "technical_specs": {
-          "total_length": "60 seconds",
-          "recommended_resolution": "1080p (1920x1080)",
-          "aspect_ratios": {
-            "instagram": "1:1 (1080x1080)",
-            "youtube": "16:9 (1920x1080)",
-            "tiktok": "9:16 (1080x1920)"
-          }
-        },
-        "product_info": {
-          "name": "Vitamin C Brightening Serum",
-          "features": "with Natural Antioxidants",
-          "audience": "Young professionals seeking glowing skin",
-          "focus": "Skin brightening and radiance"
-        },
-        "generation_date": "2025-07-25 10:20:36"
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
       }
     },
-    {
-      "product": "Hydrating Day Moisturizer",
-      "script_file": "hydrating_day_moisturizer_script.json",
-      "script_data": {
+    "Vitamin C Brightening Serum": {
+      "instagram_reel": {
+        "project_name": "ethereal_glow_vitamin_c_brightening_serum_reel",
+        "product": "Vitamin C Brightening Serum",
+        "timestamp": "20250725_150047",
+        "total_duration": "30 seconds",
+        "format": "Instagram Reel (9:16)",
         "segments": [
           {
-            "timing": "0-3 seconds",
-            "script": "🌟 Ready for skin that glows from within? Hydrating Day Moisturizer with SPF 30 and Botanical Extracts is here!",
-            "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
-            "audio_note": "Enthusiastic, warm female voice"
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "🌟 Ready for skin that glows from within? Vitamin C Brightening Serum is here!",
+            "visual_prompt": "Close-up of Vitamin C Brightening Serum with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
           },
           {
-            "timing": "4-8 seconds",
-            "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
-            "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
-            "audio_note": "Empathetic tone, addressing pain point"
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Tired of dull, lifeless skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
           },
           {
-            "timing": "9-25 seconds",
-            "script": "Introducing Hydrating Day Moisturizer with SPF 30 and Botanical Extracts from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
-            "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
-            "audio_note": "Professional, confident tone highlighting benefits"
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Vitamin C Brightening Serum from Ethereal Glow! Brightens complexion and reduces dark spots with our signature blend of Stable vitamin C, niacinamide, botanical extracts.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Vitamin C Brightening Serum, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
           },
           {
-            "timing": "26-40 seconds",
-            "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
-            "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
-            "audio_note": "Trustworthy tone with social proof emphasis"
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "95% report visible results within 7 days!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
           },
           {
-            "timing": "41-50 seconds",
-            "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
-            "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "tiktok": {
+        "project_name": "ethereal_glow_vitamin_c_brightening_serum_reel",
+        "product": "Vitamin C Brightening Serum",
+        "timestamp": "20250725_150047",
+        "total_duration": "15-30 seconds",
+        "format": "TikTok (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "POV: You found the skincare product that actually works! Vitamin C Brightening Serum hits different 🔥",
+            "visual_prompt": "Close-up of Vitamin C Brightening Serum with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "THIS CHANGED EVERYTHING",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Struggling with uneven skin tone?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Vitamin C Brightening Serum from Ethereal Glow! Brightens complexion and reduces dark spots with our signature blend of Stable vitamin C, niacinamide, botanical extracts.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Vitamin C Brightening Serum, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Trusted by skincare experts everywhere!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "youtube_shorts": {
+        "project_name": "ethereal_glow_vitamin_c_brightening_serum_reel",
+        "product": "Vitamin C Brightening Serum",
+        "timestamp": "20250725_150047",
+        "total_duration": "60 seconds",
+        "format": "YouTube Shorts (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "✨ Discover your skin's true potential! Vitamin C Brightening Serum is here!",
+            "visual_prompt": "Close-up of Vitamin C Brightening Serum with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Frustrated by visible signs of aging?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Vitamin C Brightening Serum from Ethereal Glow! Brightens complexion and reduces dark spots with our signature blend of Stable vitamin C, niacinamide, botanical extracts.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Vitamin C Brightening Serum, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "95% report visible results within 7 days!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
             "audio_note": "Strong, motivating call-to-action"
           },
           {
-            "timing": "51-60 seconds",
-            "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
-            "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
-            "audio_note": "Memorable brand tagline delivery"
+            "timing": "31-45 seconds",
+            "type": "EDUCATION",
+            "script": "Why Vitamin C Brightening Serum works: Our organic formula is clinically tested and dermatologist approved. Perfect for Mature skin seeking radiance and anti-aging.",
+            "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+            "text_overlay": "THE SCIENCE ⚗️",
+            "audio_note": "Educational, informative tone"
+          },
+          {
+            "timing": "46-60 seconds",
+            "type": "EXTENDED_CTA",
+            "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+            "visual_prompt": "Subscribe button animation, discount code, product collection display",
+            "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+            "audio_note": "Encouraging, friendly tone"
           }
         ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
         "brand_elements": {
-          "logo_placement": "Bottom right corner throughout",
-          "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
-          "color_scheme": "Gold and cream tones, elegant typography",
-          "music": "Soft, uplifting background music"
-        },
-        "technical_specs": {
-          "total_length": "60 seconds",
-          "recommended_resolution": "1080p (1920x1080)",
-          "aspect_ratios": {
-            "instagram": "1:1 (1080x1080)",
-            "youtube": "16:9 (1920x1080)",
-            "tiktok": "9:16 (1080x1920)"
-          }
-        },
-        "product_info": {
-          "name": "Hydrating Day Moisturizer",
-          "features": "with SPF 30 and Botanical Extracts",
-          "audience": "Busy professionals needing daily protection",
-          "focus": "Daily hydration and sun protection"
-        },
-        "generation_date": "2025-07-25 10:20:36"
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
       }
     },
-    {
-      "product": "Gentle Cleansing Face Wash",
-      "script_file": "gentle_cleansing_face_wash_script.json",
-      "script_data": {
+    "Organic Anti-Aging Night Cream": {
+      "instagram_reel": {
+        "project_name": "ethereal_glow_organic_anti-aging_night_cream_reel",
+        "product": "Organic Anti-Aging Night Cream",
+        "timestamp": "20250725_150047",
+        "total_duration": "30 seconds",
+        "format": "Instagram Reel (9:16)",
         "segments": [
           {
-            "timing": "0-3 seconds",
-            "script": "🌟 Ready for skin that glows from within? Gentle Cleansing Face Wash with Organic Honey and Oats is here!",
-            "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
-            "audio_note": "Enthusiastic, warm female voice"
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "🌺 Experience the power of nature's best! Organic Anti-Aging Night Cream is here!",
+            "visual_prompt": "Close-up of Organic Anti-Aging Night Cream with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
           },
           {
-            "timing": "4-8 seconds",
-            "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
-            "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
-            "audio_note": "Empathetic tone, addressing pain point"
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Looking for natural, effective solutions?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
           },
           {
-            "timing": "9-25 seconds",
-            "script": "Introducing Gentle Cleansing Face Wash with Organic Honey and Oats from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
-            "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
-            "audio_note": "Professional, confident tone highlighting benefits"
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Organic Anti-Aging Night Cream from Ethereal Glow! Overnight renewal and wrinkle reduction with our signature blend of Retinol alternative, peptides, organic oils.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Organic Anti-Aging Night Cream, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
           },
           {
-            "timing": "26-40 seconds",
-            "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
-            "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
-            "audio_note": "Trustworthy tone with social proof emphasis"
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Join 50,000+ satisfied customers worldwide!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
           },
           {
-            "timing": "41-50 seconds",
-            "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
-            "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "tiktok": {
+        "project_name": "ethereal_glow_organic_anti-aging_night_cream_reel",
+        "product": "Organic Anti-Aging Night Cream",
+        "timestamp": "20250725_150047",
+        "total_duration": "15-30 seconds",
+        "format": "TikTok (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "POV: You found the skincare product that actually works! Organic Anti-Aging Night Cream hits different 🔥",
+            "visual_prompt": "Close-up of Organic Anti-Aging Night Cream with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "THIS CHANGED EVERYTHING",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Struggling with uneven skin tone?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Organic Anti-Aging Night Cream from Ethereal Glow! Overnight renewal and wrinkle reduction with our signature blend of Retinol alternative, peptides, organic oils.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Organic Anti-Aging Night Cream, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Dermatologist-recommended formula!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "youtube_shorts": {
+        "project_name": "ethereal_glow_organic_anti-aging_night_cream_reel",
+        "product": "Organic Anti-Aging Night Cream",
+        "timestamp": "20250725_150047",
+        "total_duration": "60 seconds",
+        "format": "YouTube Shorts (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "🔥 The secret to radiant skin revealed! Organic Anti-Aging Night Cream is here!",
+            "visual_prompt": "Close-up of Organic Anti-Aging Night Cream with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Struggling with uneven skin tone?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Organic Anti-Aging Night Cream from Ethereal Glow! Overnight renewal and wrinkle reduction with our signature blend of Retinol alternative, peptides, organic oils.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Organic Anti-Aging Night Cream, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Join 50,000+ satisfied customers worldwide!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
             "audio_note": "Strong, motivating call-to-action"
           },
           {
-            "timing": "51-60 seconds",
-            "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
-            "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
-            "audio_note": "Memorable brand tagline delivery"
+            "timing": "31-45 seconds",
+            "type": "EDUCATION",
+            "script": "Why Organic Anti-Aging Night Cream works: Our organic formula is clinically tested and dermatologist approved. Perfect for Aging skin requiring intensive nighttime treatment.",
+            "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+            "text_overlay": "THE SCIENCE ⚗️",
+            "audio_note": "Educational, informative tone"
+          },
+          {
+            "timing": "46-60 seconds",
+            "type": "EXTENDED_CTA",
+            "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+            "visual_prompt": "Subscribe button animation, discount code, product collection display",
+            "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+            "audio_note": "Encouraging, friendly tone"
           }
         ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
         "brand_elements": {
-          "logo_placement": "Bottom right corner throughout",
-          "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
-          "color_scheme": "Gold and cream tones, elegant typography",
-          "music": "Soft, uplifting background music"
-        },
-        "technical_specs": {
-          "total_length": "60 seconds",
-          "recommended_resolution": "1080p (1920x1080)",
-          "aspect_ratios": {
-            "instagram": "1:1 (1080x1080)",
-            "youtube": "16:9 (1920x1080)",
-            "tiktok": "9:16 (1080x1920)"
-          }
-        },
-        "product_info": {
-          "name": "Gentle Cleansing Face Wash",
-          "features": "with Organic Honey and Oats",
-          "audience": "Sensitive skin individuals",
-          "focus": "Gentle cleansing and nourishment"
-        },
-        "generation_date": "2025-07-25 10:20:36"
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
       }
     },
-    {
-      "product": "Rejuvenating Eye Cream",
-      "script_file": "rejuvenating_eye_cream_script.json",
-      "script_data": {
+    "Rejuvenating Eye Cream": {
+      "instagram_reel": {
+        "project_name": "ethereal_glow_rejuvenating_eye_cream_reel",
+        "product": "Rejuvenating Eye Cream",
+        "timestamp": "20250725_150047",
+        "total_duration": "30 seconds",
+        "format": "Instagram Reel (9:16)",
         "segments": [
           {
-            "timing": "0-3 seconds",
-            "script": "🌟 Ready for skin that glows from within? Rejuvenating Eye Cream with Peptides and Caffeine is here!",
-            "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
-            "audio_note": "Enthusiastic, warm female voice"
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "⚡ Unlock your natural glow instantly! Rejuvenating Eye Cream is here!",
+            "visual_prompt": "Close-up of Rejuvenating Eye Cream with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
           },
           {
-            "timing": "4-8 seconds",
-            "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
-            "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
-            "audio_note": "Empathetic tone, addressing pain point"
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Dealing with dry, dehydrated skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
           },
           {
-            "timing": "9-25 seconds",
-            "script": "Introducing Rejuvenating Eye Cream with Peptides and Caffeine from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
-            "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
-            "audio_note": "Professional, confident tone highlighting benefits"
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Rejuvenating Eye Cream from Ethereal Glow! Reduces puffiness, dark circles, fine lines with our signature blend of Caffeine, hyaluronic acid, collagen boosters.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Rejuvenating Eye Cream, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
           },
           {
-            "timing": "26-40 seconds",
-            "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
-            "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
-            "audio_note": "Trustworthy tone with social proof emphasis"
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Over 10,000 five-star reviews!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
           },
           {
-            "timing": "41-50 seconds",
-            "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
-            "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "tiktok": {
+        "project_name": "ethereal_glow_rejuvenating_eye_cream_reel",
+        "product": "Rejuvenating Eye Cream",
+        "timestamp": "20250725_150047",
+        "total_duration": "15-30 seconds",
+        "format": "TikTok (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "POV: You found the skincare product that actually works! Rejuvenating Eye Cream hits different 🔥",
+            "visual_prompt": "Close-up of Rejuvenating Eye Cream with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "THIS CHANGED EVERYTHING",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Tired of dull, lifeless skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Rejuvenating Eye Cream from Ethereal Glow! Reduces puffiness, dark circles, fine lines with our signature blend of Caffeine, hyaluronic acid, collagen boosters.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Rejuvenating Eye Cream, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Featured in top beauty magazines!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "youtube_shorts": {
+        "project_name": "ethereal_glow_rejuvenating_eye_cream_reel",
+        "product": "Rejuvenating Eye Cream",
+        "timestamp": "20250725_150047",
+        "total_duration": "60 seconds",
+        "format": "YouTube Shorts (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "🌟 Ready for skin that glows from within? Rejuvenating Eye Cream is here!",
+            "visual_prompt": "Close-up of Rejuvenating Eye Cream with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Dealing with dry, dehydrated skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Rejuvenating Eye Cream from Ethereal Glow! Reduces puffiness, dark circles, fine lines with our signature blend of Caffeine, hyaluronic acid, collagen boosters.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Rejuvenating Eye Cream, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "Over 10,000 five-star reviews!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
             "audio_note": "Strong, motivating call-to-action"
           },
           {
-            "timing": "51-60 seconds",
-            "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
-            "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
-            "audio_note": "Memorable brand tagline delivery"
+            "timing": "31-45 seconds",
+            "type": "EDUCATION",
+            "script": "Why Rejuvenating Eye Cream works: Our organic formula is clinically tested and dermatologist approved. Perfect for Delicate eye area needing specialized care.",
+            "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+            "text_overlay": "THE SCIENCE ⚗️",
+            "audio_note": "Educational, informative tone"
+          },
+          {
+            "timing": "46-60 seconds",
+            "type": "EXTENDED_CTA",
+            "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+            "visual_prompt": "Subscribe button animation, discount code, product collection display",
+            "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+            "audio_note": "Encouraging, friendly tone"
           }
         ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
         "brand_elements": {
-          "logo_placement": "Bottom right corner throughout",
-          "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
-          "color_scheme": "Gold and cream tones, elegant typography",
-          "music": "Soft, uplifting background music"
-        },
-        "technical_specs": {
-          "total_length": "60 seconds",
-          "recommended_resolution": "1080p (1920x1080)",
-          "aspect_ratios": {
-            "instagram": "1:1 (1080x1080)",
-            "youtube": "16:9 (1920x1080)",
-            "tiktok": "9:16 (1080x1920)"
-          }
-        },
-        "product_info": {
-          "name": "Rejuvenating Eye Cream",
-          "features": "with Peptides and Caffeine",
-          "audience": "Women experiencing eye area concerns",
-          "focus": "Eye area rejuvenation and repair"
-        },
-        "generation_date": "2025-07-25 10:20:36"
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
       }
     },
-    {
-      "product": "Weekly Exfoliating Mask",
-      "script_file": "weekly_exfoliating_mask_script.json",
-      "script_data": {
+    "Weekly Exfoliating Mask": {
+      "instagram_reel": {
+        "project_name": "ethereal_glow_weekly_exfoliating_mask_reel",
+        "product": "Weekly Exfoliating Mask",
+        "timestamp": "20250725_150047",
+        "total_duration": "30 seconds",
+        "format": "Instagram Reel (9:16)",
         "segments": [
           {
-            "timing": "0-3 seconds",
-            "script": "🌟 Ready for skin that glows from within? Weekly Exfoliating Mask with Natural AHA and Clay is here!",
-            "visual_cue": "Close-up of radiant, healthy skin with soft golden lighting, luxury skincare product visible",
-            "audio_note": "Enthusiastic, warm female voice"
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "💫 Transform your skincare routine today! Weekly Exfoliating Mask is here!",
+            "visual_prompt": "Close-up of Weekly Exfoliating Mask with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
           },
           {
-            "timing": "4-8 seconds",
-            "script": "Tired of dull, tired-looking skin that doesn't reflect your inner vitality?",
-            "visual_cue": "Split screen showing before skin (dull) transitioning to after skin (glowing)",
-            "audio_note": "Empathetic tone, addressing pain point"
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Frustrated by visible signs of aging?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
           },
           {
-            "timing": "9-25 seconds",
-            "script": "Introducing Weekly Exfoliating Mask with Natural AHA and Clay from Ethereal Glow - our breakthrough organic formula that transforms your skin naturally. With premium botanicals and proven active ingredients, it delivers visible results in just days.",
-            "visual_cue": "Product showcase with elegant packaging, natural ingredients montage, hands applying cream",
-            "audio_note": "Professional, confident tone highlighting benefits"
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Weekly Exfoliating Mask from Ethereal Glow! Deep pore cleansing and skin renewal with our signature blend of Natural AHAs, clay minerals, botanical enzymes.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Weekly Exfoliating Mask, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
           },
           {
-            "timing": "26-40 seconds",
-            "script": "Join thousands of satisfied customers who've discovered their skin's true potential. 95% report visibly healthier skin within 7 days.",
-            "visual_cue": "Happy customers testimonials montage, before/after results, 5-star reviews graphics",
-            "audio_note": "Trustworthy tone with social proof emphasis"
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "95% report visible results within 7 days!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
           },
           {
-            "timing": "41-50 seconds",
-            "script": "Ready to reveal your most radiant skin? Visit TheRealGlow.in today!",
-            "visual_cue": "Website URL display, final product glamour shot, glowing skin close-up",
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "tiktok": {
+        "project_name": "ethereal_glow_weekly_exfoliating_mask_reel",
+        "product": "Weekly Exfoliating Mask",
+        "timestamp": "20250725_150047",
+        "total_duration": "15-30 seconds",
+        "format": "TikTok (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "POV: You found the skincare product that actually works! Weekly Exfoliating Mask hits different 🔥",
+            "visual_prompt": "Close-up of Weekly Exfoliating Mask with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "THIS CHANGED EVERYTHING",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Struggling with uneven skin tone?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Weekly Exfoliating Mask from Ethereal Glow! Deep pore cleansing and skin renewal with our signature blend of Natural AHAs, clay minerals, botanical enzymes.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Weekly Exfoliating Mask, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "95% report visible results within 7 days!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
+            "audio_note": "Strong, motivating call-to-action"
+          }
+        ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
+        "brand_elements": {
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
+      },
+      "youtube_shorts": {
+        "project_name": "ethereal_glow_weekly_exfoliating_mask_reel",
+        "product": "Weekly Exfoliating Mask",
+        "timestamp": "20250725_150047",
+        "total_duration": "60 seconds",
+        "format": "YouTube Shorts (9:16)",
+        "segments": [
+          {
+            "timing": "0-2 seconds",
+            "type": "HOOK",
+            "script": "⚡ Unlock your natural glow instantly! Weekly Exfoliating Mask is here!",
+            "visual_prompt": "Close-up of Weekly Exfoliating Mask with luxury packaging, soft golden lighting, elegant product display",
+            "text_overlay": "✨ GAME CHANGER ✨",
+            "audio_note": "Upbeat, enthusiastic female voice"
+          },
+          {
+            "timing": "3-8 seconds",
+            "type": "PROBLEM",
+            "script": "Dealing with dry, dehydrated skin?",
+            "visual_prompt": "Split screen showing skin concerns vs healthy glowing skin",
+            "text_overlay": "You're not alone...",
+            "audio_note": "Empathetic, understanding tone"
+          },
+          {
+            "timing": "9-18 seconds",
+            "type": "SOLUTION",
+            "script": "Meet Weekly Exfoliating Mask from Ethereal Glow! Deep pore cleansing and skin renewal with our signature blend of Natural AHAs, clay minerals, botanical enzymes.",
+            "visual_prompt": "Product showcase with ingredients floating around, hands applying Weekly Exfoliating Mask, satisfying texture shots",
+            "text_overlay": "THE SOLUTION ✨",
+            "audio_note": "Confident, professional tone"
+          },
+          {
+            "timing": "19-25 seconds",
+            "type": "PROOF",
+            "script": "95% report visible results within 7 days!",
+            "visual_prompt": "Happy customers, before/after results, 5-star reviews animation, testimonial graphics",
+            "text_overlay": "REAL RESULTS 💫",
+            "audio_note": "Trustworthy, excited tone"
+          },
+          {
+            "timing": "26-30 seconds",
+            "type": "CTA",
+            "script": "Ready to glow? Visit TheRealGlow.in now! Use code GLOW20 for 20% off!",
+            "visual_prompt": "Website URL display, discount code animation, final product glamour shot",
+            "text_overlay": "TheRealGlow.in 🔗",
             "audio_note": "Strong, motivating call-to-action"
           },
           {
-            "timing": "51-60 seconds",
-            "script": "Ethereal Glow - Where Science Meets Nature for Perfect Skin.",
-            "visual_cue": "Brand logo animation, elegant product lineup, tagline text overlay",
-            "audio_note": "Memorable brand tagline delivery"
+            "timing": "31-45 seconds",
+            "type": "EDUCATION",
+            "script": "Why Weekly Exfoliating Mask works: Our organic formula is clinically tested and dermatologist approved. Perfect for All skin types for weekly deep treatment.",
+            "visual_prompt": "Ingredients breakdown, scientific graphics, dermatologist approval badges",
+            "text_overlay": "THE SCIENCE ⚗️",
+            "audio_note": "Educational, informative tone"
+          },
+          {
+            "timing": "46-60 seconds",
+            "type": "EXTENDED_CTA",
+            "script": "Don't wait! Transform your skin today. Visit TheRealGlow.in, use code GLOW20 for 20% off. Subscribe for more skincare secrets!",
+            "visual_prompt": "Subscribe button animation, discount code, product collection display",
+            "text_overlay": "SUBSCRIBE + SAVE 20% 💝",
+            "audio_note": "Encouraging, friendly tone"
           }
         ],
+        "music_suggestion": "Upbeat, trending audio (15-30 seconds)",
+        "hashtags": "#EtherealGlow #SkincareRoutine #GlowUp #NaturalSkincare #BeautySecrets #SelfCare #HealthySkin #BeautyTips #SkincareReview #GlowingSkin",
         "brand_elements": {
-          "logo_placement": "Bottom right corner throughout",
-          "website_cta": "TheRealGlow.in - Display at 41-60 seconds",
-          "color_scheme": "Gold and cream tones, elegant typography",
-          "music": "Soft, uplifting background music"
-        },
-        "technical_specs": {
-          "total_length": "60 seconds",
-          "recommended_resolution": "1080p (1920x1080)",
-          "aspect_ratios": {
-            "instagram": "1:1 (1080x1080)",
-            "youtube": "16:9 (1920x1080)",
-            "tiktok": "9:16 (1080x1920)"
-          }
-        },
-        "product_info": {
-          "name": "Weekly Exfoliating Mask",
-          "features": "with Natural AHA and Clay",
-          "audience": "Skincare enthusiasts seeking deep treatment",
-          "focus": "Deep cleansing and skin renewal"
-        },
-        "generation_date": "2025-07-25 10:20:36"
+          "logo": "Bottom right corner throughout",
+          "colors": "Gold (#FFD700) and cream (#F5F5DC)",
+          "website": "TheRealGlow.in",
+          "tagline": "Where Science Meets Nature"
+        }
       }
     }
-  ]
+  }
 }

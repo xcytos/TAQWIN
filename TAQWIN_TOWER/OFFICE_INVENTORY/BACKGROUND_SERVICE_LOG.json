@@ -1,0 +1,156 @@
+[
+  {
+    "timestamp": "2025-07-26T05:31:39.231770",
+    "action": "SERVICE_STARTED",
+    "details": "Background service initialized",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:31:39.232288",
+    "action": "STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_background.bat",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:31:39.242655",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 19284",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:31:49.473886",
+    "action": "SERVICE_STOPPED",
+    "details": "Background service shutdown complete",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:33:59.044602",
+    "action": "SERVICE_STARTED",
+    "details": "Background service initialized",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:33:59.045894",
+    "action": "STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_background.bat",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:33:59.055878",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 27552",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:34:59.060119",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 0,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:34:59.068126",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 11564",
+    "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:34:59.068919",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #1",
+    "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:35:59.070848",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 1,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:35:59.079766",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 852",
+    "restart_count": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:35:59.080844",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #2",
+    "restart_count": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:36:59.082519",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 2,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:36:59.090413",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 24848",
+    "restart_count": 3,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:36:59.091153",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #3",
+    "restart_count": 3,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:37:59.093148",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 3,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:37:59.101873",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 3000",
+    "restart_count": 4,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:37:59.102753",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #4",
+    "restart_count": 4,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:38:59.105308",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 4,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:38:59.113888",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 21424",
+    "restart_count": 5,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T05:38:59.114662",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #5",
+    "restart_count": 5,
+    "status": "ACTIVE"
+  }
+]

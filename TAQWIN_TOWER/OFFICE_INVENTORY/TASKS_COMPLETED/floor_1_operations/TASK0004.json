@@ -1,0 +1,19 @@
+{
+  "task_id": "TASK0004",
+  "title": "Content Creation",
+  "description": "Create grandmother wisdom blog series",
+  "department": "FLOOR_1_OPERATIONS",
+  "priority": "MEDIUM",
+  "status": "PENDING",
+  "assigned_by": "FOUNDER",
+  "created_at": "2025-07-25T17:18:38.948106",
+  "assigned_agents": [
+    "General Patton",
+    "Benjamin Franklin",
+    "Oprah Winfrey",
+    "Maya Angelou"
+  ],
+  "estimated_duration": "3 hours",
+  "progress": 0,
+  "work_log": []
+}

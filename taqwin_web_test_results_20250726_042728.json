@@ -1,0 +1,76 @@
+{
+  "Web Search": {
+    "query": "Ethereal Glow organic skincare",
+    "timestamp": "2025-07-26T04:27:19.738805",
+    "abstract": "",
+    "abstract_source": "",
+    "abstract_url": "",
+    "related_topics": [],
+    "status": "SUCCESS"
+  },
+  "News Intelligence": {
+    "topic": "business",
+    "timestamp": "2025-07-26T04:27:22.290010",
+    "news_items": [],
+    "status": "LIMITED"
+  },
+  "Competitor Analysis": {
+    "competitor": "Mamaearth",
+    "timestamp": "2025-07-26T04:27:23.383011",
+    "search_data": {
+      "query": "Mamaearth company business profile",
+      "timestamp": "2025-07-26T04:27:23.382755",
+      "abstract": "",
+      "abstract_source": "",
+      "abstract_url": "",
+      "related_topics": [],
+      "status": "SUCCESS"
+    },
+    "analysis": {
+      "data_found": true,
+      "has_abstract": false,
+      "related_topics_count": 0,
+      "source_available": false
+    },
+    "status": "COMPLETED"
+  },
+  "Market Intelligence": {
+    "market": "organic skincare",
+    "timestamp": "2025-07-26T04:27:27.656691",
+    "search_results": [
+      {
+        "query": "organic skincare market trends 2025",
+        "timestamp": "2025-07-26T04:27:24.477300",
+        "abstract": "",
+        "abstract_source": "",
+        "abstract_url": "",
+        "related_topics": [],
+        "status": "SUCCESS"
+      },
+      {
+        "query": "organic skincare industry analysis",
+        "timestamp": "2025-07-26T04:27:25.566672",
+        "abstract": "",
+        "abstract_source": "",
+        "abstract_url": "",
+        "related_topics": [],
+        "status": "SUCCESS"
+      },
+      {
+        "query": "organic skincare market size growth",
+        "timestamp": "2025-07-26T04:27:26.656149",
+        "abstract": "",
+        "abstract_source": "",
+        "abstract_url": "",
+        "related_topics": [],
+        "status": "SUCCESS"
+      }
+    ],
+    "intelligence_summary": {
+      "queries_processed": 3,
+      "successful_searches": 3,
+      "data_sources_found": 0
+    },
+    "status": "COMPLETED"
+  }
+}

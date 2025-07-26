@@ -1,0 +1,61 @@
+{
+  "department_findings": [
+    {
+      "timestamp": "2025-07-25T17:59:09.191189",
+      "floor": "FLOOR_2_INTELLIGENCE",
+      "department": "Strategic Warfare",
+      "room": "INTEL_WAR_ROOM",
+      "total_tasks": 4,
+      "findings_summary": [
+        "SEO intelligence uncovers 10 high-value keyword opportunities",
+        "Competitor analysis reveals 5 strategic vulnerabilities",
+        "SEO intelligence uncovers 2 high-value keyword opportunities",
+        "Market sentiment tracking shows 35% positive trend shift"
+      ],
+      "strategic_value_total": 26,
+      "data_metrics_summary": {
+        "total_data_points": 9225,
+        "average_accuracy": 91.25,
+        "total_processing_time": 134
+      }
+    },
+    {
+      "timestamp": "2025-07-25T18:14:09.260264",
+      "floor": "FLOOR_2_INTELLIGENCE",
+      "department": "Strategic Warfare",
+      "room": "INTEL_WAR_ROOM",
+      "total_tasks": 4,
+      "findings_summary": [
+        "Threat assessment identifies 15 emerging competitive risks",
+        "Threat assessment identifies 9 emerging competitive risks",
+        "Threat assessment identifies 14 emerging competitive risks",
+        "Market sentiment tracking shows 5% positive trend shift"
+      ],
+      "strategic_value_total": 28,
+      "data_metrics_summary": {
+        "total_data_points": 9836,
+        "average_accuracy": 91.5,
+        "total_processing_time": 170
+      }
+    },
+    {
+      "timestamp": "2025-07-25T18:29:09.364993",
+      "floor": "FLOOR_2_INTELLIGENCE",
+      "department": "Strategic Warfare",
+      "room": "INTEL_WAR_ROOM",
+      "total_tasks": 4,
+      "findings_summary": [
+        "SEO intelligence uncovers 10 high-value keyword opportunities",
+        "Competitor analysis reveals 8 strategic vulnerabilities",
+        "SEO intelligence uncovers 6 high-value keyword opportunities",
+        "Threat assessment identifies 10 emerging competitive risks"
+      ],
+      "strategic_value_total": 28,
+      "data_metrics_summary": {
+        "total_data_points": 14029,
+        "average_accuracy": 96.75,
+        "total_processing_time": 173
+      }
+    }
+  ]
+}

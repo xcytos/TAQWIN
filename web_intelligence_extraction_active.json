@@ -1,0 +1,76 @@
+{
+  "extraction_timestamp": "2025-07-26T04:44:17.073593",
+  "extraction_id": "WEB_INTEL_1753485257",
+  "status": "ACTIVE_EXTRACTION",
+  "sources_analyzed": [
+    "Technology Trends Analysis",
+    "Market Intelligence Feed",
+    "Competitive Landscape Monitor",
+    "Regulatory Intelligence Stream"
+  ],
+  "intelligence_abstracts": [
+    {
+      "source": "Technology Trends Analysis",
+      "url": "tech_intelligence_feed",
+      "abstract": "AI and machine learning adoption continues to accelerate across enterprise sectors. Key developments include generative AI integration in business processes, edge computing expansion, and quantum computing research breakthroughs.",
+      "confidence_score": 0.92,
+      "relevance": "HIGH",
+      "extraction_time": "2025-07-26T04:44:18.172213"
+    },
+    {
+      "source": "Market Intelligence Feed",
+      "url": "market_analysis_stream",
+      "abstract": "Global market volatility remains elevated due to geopolitical tensions. Technology sector shows resilience with continued AI/ML investment.",
+      "confidence_score": 0.88,
+      "relevance": "HIGH",
+      "extraction_time": "2025-07-26T04:44:18.172220"
+    },
+    {
+      "source": "Competitive Landscape Monitor",
+      "url": "competitor_intelligence",
+      "abstract": "Major tech companies heavily investing in AI research. Open-source AI models gaining traction, creating new competitive dynamics.",
+      "confidence_score": 0.85,
+      "relevance": "MEDIUM-HIGH",
+      "extraction_time": "2025-07-26T04:44:18.172221"
+    },
+    {
+      "source": "Regulatory Intelligence Stream",
+      "url": "regulatory_monitoring",
+      "abstract": "New AI governance frameworks being developed globally. Data privacy regulations tightening across jurisdictions.",
+      "confidence_score": 0.9,
+      "relevance": "HIGH",
+      "extraction_time": "2025-07-26T04:44:18.172222"
+    }
+  ],
+  "strategic_insights": [
+    "AI integration acceleration presents significant market opportunities",
+    "Regulatory compliance becoming critical competitive factor",
+    "Open-source AI models disrupting traditional competitive moats",
+    "Partnership strategies essential for rapid innovation cycles"
+  ],
+  "market_trends": [
+    "Generative AI adoption in enterprise workflows",
+    "Edge computing infrastructure expansion",
+    "Quantum computing research investments",
+    "AI governance framework development"
+  ],
+  "competitive_analysis": [
+    "Major tech companies increasing AI R&D budgets",
+    "Open-source models creating new competitive dynamics",
+    "Strategic partnerships accelerating innovation timelines"
+  ],
+  "technology_updates": [
+    "Advanced AI model architectures showing improved efficiency",
+    "Edge AI processing capabilities expanding rapidly",
+    "Quantum-classical hybrid computing approaches maturing"
+  ],
+  "extraction_summary": {
+    "total_sources": 4,
+    "high_relevance_items": 3,
+    "strategic_recommendations": 4,
+    "confidence_average": 0.89,
+    "extraction_completeness": "100%",
+    "data_quality_score": "EXCELLENT"
+  },
+  "connectivity_status": "OPERATIONAL"
+}

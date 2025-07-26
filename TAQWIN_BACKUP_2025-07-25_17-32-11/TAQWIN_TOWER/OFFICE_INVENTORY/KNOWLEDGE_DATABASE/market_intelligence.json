@@ -1,0 +1,37 @@
+{
+  "intelligence_reports": [
+    {
+      "timestamp": "2025-07-25T17:18:57.944045",
+      "intelligence_type": "market_surveillance",
+      "data": [
+        "Competitor movement analysis - 3 new threats identified",
+        "SEO keyword opportunities discovered - 47 high-value targets",
+        "Market sentiment analysis - positive trend +23%",
+        "Backlink vulnerability assessment completed"
+      ],
+      "confidence_level": 94
+    },
+    {
+      "timestamp": "2025-07-25T17:19:57.031836",
+      "intelligence_type": "market_surveillance",
+      "data": [
+        "Competitor movement analysis - 3 new threats identified",
+        "SEO keyword opportunities discovered - 47 high-value targets",
+        "Market sentiment analysis - positive trend +23%",
+        "Backlink vulnerability assessment completed"
+      ],
+      "confidence_level": 94
+    },
+    {
+      "timestamp": "2025-07-25T17:20:13.701937",
+      "intelligence_type": "market_surveillance",
+      "data": [
+        "Competitor movement analysis - 3 new threats identified",
+        "SEO keyword opportunities discovered - 47 high-value targets",
+        "Market sentiment analysis - positive trend +23%",
+        "Backlink vulnerability assessment completed"
+      ],
+      "confidence_level": 94
+    }
+  ]
+}
