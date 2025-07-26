@@ -1,156 +1,702 @@
 [
   {
-    "timestamp": "2025-07-26T05:31:39.231770",
-    "action": "SERVICE_STARTED",
-    "details": "Background service initialized",
-    "restart_count": 0,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T05:31:39.232288",
+    "timestamp": "2025-07-26T06:11:38.823636",
     "action": "STARTUP_SCRIPT_CREATED",
     "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_background.bat",
     "restart_count": 0,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:31:39.242655",
+    "timestamp": "2025-07-26T06:11:38.832113",
     "action": "OFFICE_STARTED",
-    "details": "Process ID: 19284",
+    "details": "Process ID: 15956",
     "restart_count": 0,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:31:49.473886",
-    "action": "SERVICE_STOPPED",
-    "details": "Background service shutdown complete",
-    "restart_count": 0,
+    "timestamp": "2025-07-26T06:11:59.513109",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 37,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:33:59.044602",
-    "action": "SERVICE_STARTED",
-    "details": "Background service initialized",
-    "restart_count": 0,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T05:33:59.045894",
-    "action": "STARTUP_SCRIPT_CREATED",
-    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_background.bat",
-    "restart_count": 0,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T05:33:59.055878",
+    "timestamp": "2025-07-26T06:11:59.522113",
     "action": "OFFICE_STARTED",
-    "details": "Process ID: 27552",
-    "restart_count": 0,
+    "details": "Process ID: 28380",
+    "restart_count": 38,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:34:59.060119",
+    "timestamp": "2025-07-26T06:11:59.523554",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #38",
+    "restart_count": 38,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:12:38.835462",
     "action": "OFFICE_RESTART_NEEDED",
     "details": "Office process not running",
     "restart_count": 0,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:34:59.068126",
+    "timestamp": "2025-07-26T06:12:38.844024",
     "action": "OFFICE_STARTED",
-    "details": "Process ID: 11564",
+    "details": "Process ID: 14200",
     "restart_count": 1,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:34:59.068919",
+    "timestamp": "2025-07-26T06:12:38.845332",
     "action": "OFFICE_RESTARTED",
     "details": "Restart #1",
     "restart_count": 1,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:35:59.070848",
+    "timestamp": "2025-07-26T06:12:59.525623",
     "action": "OFFICE_RESTART_NEEDED",
     "details": "Office process not running",
+    "restart_count": 38,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:12:59.537952",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 16932",
+    "restart_count": 39,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:12:59.539131",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #39",
+    "restart_count": 39,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:13:07.401697",
+    "action": "SERVICE_STOPPED",
+    "details": "Background service shutdown complete",
     "restart_count": 1,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:35:59.079766",
-    "action": "OFFICE_STARTED",
-    "details": "Process ID: 852",
-    "restart_count": 2,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T05:35:59.080844",
-    "action": "OFFICE_RESTARTED",
-    "details": "Restart #2",
-    "restart_count": 2,
-    "status": "ACTIVE"
-  },
-  {
-    "timestamp": "2025-07-26T05:36:59.082519",
+    "timestamp": "2025-07-26T06:13:59.542462",
     "action": "OFFICE_RESTART_NEEDED",
     "details": "Office process not running",
-    "restart_count": 2,
+    "restart_count": 39,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:36:59.090413",
+    "timestamp": "2025-07-26T06:13:59.553345",
     "action": "OFFICE_STARTED",
-    "details": "Process ID: 24848",
-    "restart_count": 3,
+    "details": "Process ID: 4068",
+    "restart_count": 40,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:36:59.091153",
+    "timestamp": "2025-07-26T06:13:59.554447",
     "action": "OFFICE_RESTARTED",
-    "details": "Restart #3",
-    "restart_count": 3,
+    "details": "Restart #40",
+    "restart_count": 40,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:37:59.093148",
+    "timestamp": "2025-07-26T06:14:59.556085",
     "action": "OFFICE_RESTART_NEEDED",
     "details": "Office process not running",
-    "restart_count": 3,
+    "restart_count": 40,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:37:59.101873",
+    "timestamp": "2025-07-26T06:14:59.564883",
     "action": "OFFICE_STARTED",
-    "details": "Process ID: 3000",
-    "restart_count": 4,
+    "details": "Process ID: 25760",
+    "restart_count": 41,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:37:59.102753",
+    "timestamp": "2025-07-26T06:14:59.566017",
     "action": "OFFICE_RESTARTED",
-    "details": "Restart #4",
-    "restart_count": 4,
+    "details": "Restart #41",
+    "restart_count": 41,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:38:59.105308",
+    "timestamp": "2025-07-26T06:15:59.567793",
     "action": "OFFICE_RESTART_NEEDED",
     "details": "Office process not running",
-    "restart_count": 4,
+    "restart_count": 41,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:38:59.113888",
+    "timestamp": "2025-07-26T06:15:59.576867",
     "action": "OFFICE_STARTED",
-    "details": "Process ID: 21424",
-    "restart_count": 5,
+    "details": "Process ID: 20456",
+    "restart_count": 42,
     "status": "ACTIVE"
   },
   {
-    "timestamp": "2025-07-26T05:38:59.114662",
+    "timestamp": "2025-07-26T06:15:59.577830",
     "action": "OFFICE_RESTARTED",
-    "details": "Restart #5",
-    "restart_count": 5,
+    "details": "Restart #42",
+    "restart_count": 42,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:16:59.579542",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 42,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:16:59.588167",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 27912",
+    "restart_count": 43,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:16:59.589136",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #43",
+    "restart_count": 43,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:17:59.590874",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 43,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:17:59.599694",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 27776",
+    "restart_count": 44,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:17:59.601170",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #44",
+    "restart_count": 44,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:18:59.603385",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 44,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:18:59.614143",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 23148",
+    "restart_count": 45,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:18:59.615162",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #45",
+    "restart_count": 45,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:19:59.617698",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 45,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:19:59.630391",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 27952",
+    "restart_count": 46,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:19:59.631412",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #46",
+    "restart_count": 46,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:20:59.633306",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 46,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:20:59.642008",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 3084",
+    "restart_count": 47,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:20:59.643019",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #47",
+    "restart_count": 47,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:21:59.645844",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 47,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:21:59.654722",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 24956",
+    "restart_count": 48,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:21:59.655858",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #48",
+    "restart_count": 48,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:22:59.658542",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 48,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:22:59.666854",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 10472",
+    "restart_count": 49,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:22:59.667835",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #49",
+    "restart_count": 49,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:23:59.670399",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 49,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:23:59.678771",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 26940",
+    "restart_count": 50,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:23:59.679712",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #50",
+    "restart_count": 50,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:24:59.681519",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 50,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:24:59.690886",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28480",
+    "restart_count": 51,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:24:59.692804",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #51",
+    "restart_count": 51,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:25:59.695151",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 51,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:25:59.703635",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28652",
+    "restart_count": 52,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:25:59.704571",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #52",
+    "restart_count": 52,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:26:59.706078",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 52,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:26:59.714355",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 10748",
+    "restart_count": 53,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:26:59.715383",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #53",
+    "restart_count": 53,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:27:59.717033",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 53,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:27:59.725164",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 27860",
+    "restart_count": 54,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:27:59.726299",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #54",
+    "restart_count": 54,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:28:59.730249",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 54,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:28:59.739147",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 25524",
+    "restart_count": 55,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:28:59.740156",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #55",
+    "restart_count": 55,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:29:59.741871",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 55,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:29:59.750783",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28552",
+    "restart_count": 56,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:29:59.751851",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #56",
+    "restart_count": 56,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:30:59.753933",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 56,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:30:59.762094",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 25716",
+    "restart_count": 57,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:30:59.763839",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #57",
+    "restart_count": 57,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:31:59.766006",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 57,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:31:59.774863",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 4252",
+    "restart_count": 58,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:31:59.775853",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #58",
+    "restart_count": 58,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:32:59.778311",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 58,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:32:59.786832",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28044",
+    "restart_count": 59,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:32:59.787838",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #59",
+    "restart_count": 59,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:33:59.790242",
+    "action": "HOURLY_CHECKPOINT",
+    "details": "Service running normally",
+    "restart_count": 59,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:33:59.792477",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 59,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:33:59.800182",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 26320",
+    "restart_count": 60,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:33:59.801094",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #60",
+    "restart_count": 60,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:34:59.802784",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 60,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:34:59.811235",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 23560",
+    "restart_count": 61,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:34:59.812262",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #61",
+    "restart_count": 61,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:35:59.814017",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 61,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:35:59.822781",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 1948",
+    "restart_count": 62,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:35:59.823828",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #62",
+    "restart_count": 62,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:36:59.825884",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 62,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:36:59.836741",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 18140",
+    "restart_count": 63,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:36:59.837716",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #63",
+    "restart_count": 63,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:37:59.840588",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 63,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:37:59.849789",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 5220",
+    "restart_count": 64,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:37:59.850915",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #64",
+    "restart_count": 64,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:38:59.854184",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 64,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:38:59.862499",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28404",
+    "restart_count": 65,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:38:59.863485",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #65",
+    "restart_count": 65,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:39:59.866643",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 65,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:39:59.876152",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 28204",
+    "restart_count": 66,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:39:59.877313",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #66",
+    "restart_count": 66,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:40:59.879459",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 66,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:40:59.888768",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 4656",
+    "restart_count": 67,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:40:59.889786",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #67",
+    "restart_count": 67,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:41:59.891540",
+    "action": "OFFICE_RESTART_NEEDED",
+    "details": "Office process not running",
+    "restart_count": 67,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:41:59.900744",
+    "action": "OFFICE_STARTED",
+    "details": "Process ID: 26528",
+    "restart_count": 68,
+    "status": "ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:41:59.901870",
+    "action": "OFFICE_RESTARTED",
+    "details": "Restart #68",
+    "restart_count": 68,
     "status": "ACTIVE"
   }
 ]

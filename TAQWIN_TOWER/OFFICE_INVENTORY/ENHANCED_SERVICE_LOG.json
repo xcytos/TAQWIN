@@ -1,0 +1,2697 @@
+[
+  {
+    "timestamp": "2025-07-26T06:42:14.300025",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 9.0,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.447322845458984,
+      "disk_free_gb": 0.6237030029296875,
+      "process_count": 305,
+      "office_process": {},
+      "uptime_minutes": 0.016841583333333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:42:15.351692",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 4.8,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.445468902587891,
+      "disk_free_gb": 0.6237030029296875,
+      "process_count": 305,
+      "office_process": {},
+      "uptime_minutes": 0.034342983333333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:42:16.360880",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 2.8,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.4471435546875,
+      "disk_free_gb": 0.6236991882324219,
+      "process_count": 305,
+      "office_process": {},
+      "uptime_minutes": 0.0511726
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:42:17.775017",
+    "action": "ZOMBIE_CLEANUP",
+    "details": "Terminated orphaned process 3416",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 2.7,
+      "memory_percent": 65.0,
+      "memory_available_gb": 5.511665344238281,
+      "disk_free_gb": 0.6236991882324219,
+      "process_count": 300,
+      "office_process": {},
+      "uptime_minutes": 0.07473861666666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:42:19.570990",
+    "action": "ZOMBIE_CLEANUP",
+    "details": "Terminated orphaned process 19116",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 0.4,
+      "memory_percent": 64.8,
+      "memory_available_gb": 5.5341796875,
+      "disk_free_gb": 0.6236991882324219,
+      "process_count": 297,
+      "office_process": {},
+      "uptime_minutes": 0.10467041666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:44:23.717530",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 3.6,
+      "memory_percent": 61.8,
+      "memory_available_gb": 6.007759094238281,
+      "disk_free_gb": 0.6236457824707031,
+      "process_count": 295,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.173829333333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:44:24.730831",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 1 seconds before restart (failures: 1)",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.2,
+      "memory_percent": 61.8,
+      "memory_available_gb": 6.010341644287109,
+      "disk_free_gb": 0.6236419677734375,
+      "process_count": 295,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1907533666666668
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:44:26.745602",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.0,
+      "memory_percent": 61.8,
+      "memory_available_gb": 6.0082244873046875,
+      "disk_free_gb": 0.6236381530761719,
+      "process_count": 295,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.2243076333333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:44:31.560995",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #1, Consecutive failures: 2",
+    "level": "ERROR",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 0.7,
+      "memory_percent": 61.8,
+      "memory_available_gb": 6.009513854980469,
+      "disk_free_gb": 0.6236381530761719,
+      "process_count": 295,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.3045495333333337
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:46:32.584551",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 5.5,
+      "memory_percent": 65.2,
+      "memory_available_gb": 5.467403411865234,
+      "disk_free_gb": 0.6236381530761719,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.321639833333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:46:33.598368",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 2 seconds before restart (failures: 2)",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 2.3,
+      "memory_percent": 65.2,
+      "memory_available_gb": 5.479209899902344,
+      "disk_free_gb": 0.6236381530761719,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.338504016666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:46:36.611526",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 2.1,
+      "memory_percent": 65.1,
+      "memory_available_gb": 5.492210388183594,
+      "disk_free_gb": 0.6236381530761719,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.388718516666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:46:41.525836",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #2, Consecutive failures: 3",
+    "level": "ERROR",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 0.9,
+      "memory_percent": 65.1,
+      "memory_available_gb": 5.495258331298828,
+      "disk_free_gb": 0.6236381530761719,
+      "process_count": 298,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.470629349999999
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:47:28.552388",
+    "action": "PERFORMANCE_ANALYTICS_GENERATED",
+    "details": "Stability: 70, Trend: stable",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 66.3,
+      "memory_available_gb": 5.296550750732422,
+      "disk_free_gb": 0.6236343383789062,
+      "process_count": 301,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 5.254417783333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:48:44.567209",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 9.0,
+      "memory_percent": 64.1,
+      "memory_available_gb": 5.64459228515625,
+      "disk_free_gb": 0.6236343383789062,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.521401983333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:48:45.584371",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 4 seconds before restart (failures: 3)",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 3.0,
+      "memory_percent": 64.1,
+      "memory_available_gb": 5.653133392333984,
+      "disk_free_gb": 0.6236343383789062,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.5386714
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:48:50.621689",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 3.1,
+      "memory_percent": 64.6,
+      "memory_available_gb": 5.561367034912109,
+      "disk_free_gb": 0.6236343383789062,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.622254483333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:48:55.547202",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #3, Consecutive failures: 4",
+    "level": "ERROR",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 0.8,
+      "memory_percent": 64.3,
+      "memory_available_gb": 5.620887756347656,
+      "disk_free_gb": 0.6236343383789062,
+      "process_count": 297,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.704326133333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:50:56.573314",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 5.8,
+      "memory_percent": 65.7,
+      "memory_available_gb": 5.389316558837891,
+      "disk_free_gb": 0.6236343383789062,
+      "process_count": 298,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.721467950000001
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:50:57.588386",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 8 seconds before restart (failures: 4)",
+    "level": "INFO",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 6.3,
+      "memory_percent": 65.7,
+      "memory_available_gb": 5.39288330078125,
+      "disk_free_gb": 0.6236305236816406,
+      "process_count": 298,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.738404683333332
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:51:06.605410",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 1.8,
+      "memory_percent": 65.5,
+      "memory_available_gb": 5.420223236083984,
+      "disk_free_gb": 0.6236305236816406,
+      "process_count": 298,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.888636883333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:51:11.477153",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #4, Consecutive failures: 5",
+    "level": "ERROR",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 3.9,
+      "memory_percent": 65.6,
+      "memory_available_gb": 5.415843963623047,
+      "disk_free_gb": 0.6236305236816406,
+      "process_count": 298,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.96983135
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:52:43.505647",
+    "action": "PERFORMANCE_ANALYTICS_GENERATED",
+    "details": "Stability: 50, Trend: stable",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 65.5,
+      "memory_available_gb": 5.42254638671875,
+      "disk_free_gb": 0.6236076354980469,
+      "process_count": 295,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 10.503702800000001
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:14.523380",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 1.8,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.362316131591797,
+      "disk_free_gb": 0.6236076354980469,
+      "process_count": 296,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.020585366666667
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:15.535629",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 16 seconds before restart (failures: 5)",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 0.6,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.362205505371094,
+      "disk_free_gb": 0.6236038208007812,
+      "process_count": 296,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.037457033333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:32.549093",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 2.4,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.3634033203125,
+      "disk_free_gb": 0.62359619140625,
+      "process_count": 296,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.321011483333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:37.383316",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #5, Consecutive failures: 6",
+    "level": "ERROR",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 1.3,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.365715026855469,
+      "disk_free_gb": 0.62359619140625,
+      "process_count": 296,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.40158675
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:57.928485",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.3,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.362361907958984,
+      "disk_free_gb": 0.62359619140625,
+      "process_count": 296,
+      "office_process": {},
+      "uptime_minutes": 0.016828766666666665
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:58.981209",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.5,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.360065460205078,
+      "disk_free_gb": 0.62359619140625,
+      "process_count": 296,
+      "office_process": {},
+      "uptime_minutes": 0.03435231666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:53:59.991198",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.1,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.359104156494141,
+      "disk_free_gb": 0.62359619140625,
+      "process_count": 296,
+      "office_process": {},
+      "uptime_minutes": 0.0511808
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:54:02.087282",
+    "action": "ZOMBIE_CLEANUP",
+    "details": "Terminated orphaned process 11588",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 2.5,
+      "memory_percent": 65.9,
+      "memory_available_gb": 5.366893768310547,
+      "disk_free_gb": 0.6235923767089844,
+      "process_count": 294,
+      "office_process": {},
+      "uptime_minutes": 0.08611365
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:56:06.283031",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 3.6,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.436771392822266,
+      "disk_free_gb": 0.6235923767089844,
+      "process_count": 291,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1561058666666666
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:56:07.295926",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 1 seconds before restart (failures: 1)",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 3.8,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.436576843261719,
+      "disk_free_gb": 0.6235923767089844,
+      "process_count": 291,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1729737666666664
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:56:09.308378",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.7,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.442180633544922,
+      "disk_free_gb": 0.6235923767089844,
+      "process_count": 291,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.2065132166666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:56:14.110754",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #1, Consecutive failures: 2",
+    "level": "ERROR",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 4.4,
+      "memory_percent": 65.4,
+      "memory_available_gb": 5.445354461669922,
+      "disk_free_gb": 0.6235923767089844,
+      "process_count": 291,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.286571266666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:56:47.965191",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 66.0,
+      "memory_available_gb": 5.353038787841797,
+      "disk_free_gb": 0.6235885620117188,
+      "process_count": 290,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.850808733333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T06:56:49.987213",
+    "action": "ENHANCED_SERVICE_STOPPED",
+    "details": "Service ran for 2.9 minutes, Final stability score: 80",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 0.7,
+      "memory_percent": 66.0,
+      "memory_available_gb": 5.3532257080078125,
+      "disk_free_gb": 0.6235847473144531,
+      "process_count": 290,
+      "office_process": {},
+      "uptime_minutes": 2.8844419833333332
+    },
+    "custom_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 66.0,
+      "memory_available_gb": 5.353229522705078,
+      "disk_free_gb": 0.6235847473144531,
+      "process_count": 290,
+      "office_process": {},
+      "uptime_minutes": 2.8676564166666667
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:11:07.038392",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.5,
+      "memory_percent": 56.5,
+      "memory_available_gb": 6.84515380859375,
+      "disk_free_gb": 0.6235237121582031,
+      "process_count": 260,
+      "office_process": {},
+      "uptime_minutes": 0.01679696666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:11:08.088540",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 0.5,
+      "memory_percent": 56.5,
+      "memory_available_gb": 6.84307861328125,
+      "disk_free_gb": 0.6235237121582031,
+      "process_count": 260,
+      "office_process": {},
+      "uptime_minutes": 0.03429376666666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:11:09.097683",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 56.5,
+      "memory_available_gb": 6.843372344970703,
+      "disk_free_gb": 0.6235237121582031,
+      "process_count": 260,
+      "office_process": {},
+      "uptime_minutes": 0.051113700000000005
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:13:14.190232",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 10.0,
+      "memory_percent": 82.4,
+      "memory_available_gb": 2.7616806030273438,
+      "disk_free_gb": 0.6235237121582031,
+      "process_count": 259,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1361050833333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:13:15.216511",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 1 seconds before restart (failures: 1)",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 13.0,
+      "memory_percent": 77.7,
+      "memory_available_gb": 3.5048866271972656,
+      "disk_free_gb": 0.6235237121582031,
+      "process_count": 259,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1531411333333335
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:13:17.228227",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 6.9,
+      "memory_percent": 77.8,
+      "memory_available_gb": 3.4973106384277344,
+      "disk_free_gb": 0.6235198974609375,
+      "process_count": 259,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.18667805
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:13:21.926504",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #1, Consecutive failures: 2",
+    "level": "ERROR",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 8.9,
+      "memory_percent": 84.7,
+      "memory_available_gb": 2.4057388305664062,
+      "disk_free_gb": 0.6235198974609375,
+      "process_count": 259,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.265027433333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:14:53.926144",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 16.9,
+      "memory_percent": 86.8,
+      "memory_available_gb": 2.0834693908691406,
+      "disk_free_gb": 0.6235198974609375,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 3.7984537333333335
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:14:55.955779",
+    "action": "ENHANCED_SERVICE_STOPPED",
+    "details": "Service ran for 3.8 minutes, Final stability score: 80",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 9.3,
+      "memory_percent": 78.5,
+      "memory_available_gb": 3.375995635986328,
+      "disk_free_gb": 0.6235198974609375,
+      "process_count": 258,
+      "office_process": {},
+      "uptime_minutes": 3.83210895
+    },
+    "custom_metrics": {
+      "cpu_percent": 12.4,
+      "memory_percent": 75.4,
+      "memory_available_gb": 3.876861572265625,
+      "disk_free_gb": 0.6235198974609375,
+      "process_count": 258,
+      "office_process": {},
+      "uptime_minutes": 3.815302066666667
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:30:02.338967",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 40.6,
+      "memory_available_gb": 9.338848114013672,
+      "disk_free_gb": 0.6232452392578125,
+      "process_count": 259,
+      "office_process": {},
+      "uptime_minutes": 0.016811383333333332
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:30:03.389288",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 2.0,
+      "memory_percent": 40.6,
+      "memory_available_gb": 9.33477783203125,
+      "disk_free_gb": 0.6232452392578125,
+      "process_count": 259,
+      "office_process": {},
+      "uptime_minutes": 0.03430475
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:30:04.398099",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 2.9,
+      "memory_percent": 40.7,
+      "memory_available_gb": 9.33013916015625,
+      "disk_free_gb": 0.6232414245605469,
+      "process_count": 259,
+      "office_process": {},
+      "uptime_minutes": 0.05112406666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:30:15.095638",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 0.7,
+      "memory_percent": 40.6,
+      "memory_available_gb": 9.343193054199219,
+      "disk_free_gb": 0.6232414245605469,
+      "process_count": 258,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 0.22946241666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:30:17.114591",
+    "action": "ENHANCED_SERVICE_STOPPED",
+    "details": "Service ran for 0.2 minutes, Final stability score: 90",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.3,
+      "memory_percent": 40.6,
+      "memory_available_gb": 9.343097686767578,
+      "disk_free_gb": 0.6232414245605469,
+      "process_count": 258,
+      "office_process": {},
+      "uptime_minutes": 0.26304215000000003
+    },
+    "custom_metrics": {
+      "cpu_percent": 1.5,
+      "memory_percent": 40.6,
+      "memory_available_gb": 9.342704772949219,
+      "disk_free_gb": 0.6232414245605469,
+      "process_count": 258,
+      "office_process": {},
+      "uptime_minutes": 0.2462870166666667
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:48:58.284343",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 3.0,
+      "memory_percent": 47.9,
+      "memory_available_gb": 8.186988830566406,
+      "disk_free_gb": 0.6232185363769531,
+      "process_count": 263,
+      "office_process": {},
+      "uptime_minutes": 0.01679273333333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:48:59.334616",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.9,
+      "memory_percent": 48.0,
+      "memory_available_gb": 8.182323455810547,
+      "disk_free_gb": 0.6232147216796875,
+      "process_count": 263,
+      "office_process": {},
+      "uptime_minutes": 0.03429493333333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:49:00.344763",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.7,
+      "memory_percent": 48.8,
+      "memory_available_gb": 8.057693481445312,
+      "disk_free_gb": 0.6232147216796875,
+      "process_count": 263,
+      "office_process": {},
+      "uptime_minutes": 0.05113595
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:49:12.874237",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 3.6,
+      "memory_percent": 49.6,
+      "memory_available_gb": 7.929534912109375,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 0.2600101166666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:49:14.894151",
+    "action": "ENHANCED_SERVICE_STOPPED",
+    "details": "Service ran for 0.3 minutes, Final stability score: 90",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 2.1,
+      "memory_percent": 49.6,
+      "memory_available_gb": 7.931724548339844,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 263,
+      "office_process": {},
+      "uptime_minutes": 0.29362018333333334
+    },
+    "custom_metrics": {
+      "cpu_percent": 1.8,
+      "memory_percent": 49.6,
+      "memory_available_gb": 7.928016662597656,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 263,
+      "office_process": {},
+      "uptime_minutes": 0.2768405
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:49:50.725760",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 9.5,
+      "memory_percent": 49.9,
+      "memory_available_gb": 7.883934020996094,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 262,
+      "office_process": {},
+      "uptime_minutes": 0.016805333333333335
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:49:51.774851",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 1.6,
+      "memory_percent": 49.9,
+      "memory_available_gb": 7.886684417724609,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 262,
+      "office_process": {},
+      "uptime_minutes": 0.0343011
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:49:52.785179",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 2.0,
+      "memory_percent": 49.9,
+      "memory_available_gb": 7.887500762939453,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 262,
+      "office_process": {},
+      "uptime_minutes": 0.051133483333333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:51:57.822878",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.0,
+      "memory_percent": 50.1,
+      "memory_available_gb": 7.8526611328125,
+      "disk_free_gb": 0.6232109069824219,
+      "process_count": 264,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1351348333333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:51:58.834853",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 1 seconds before restart (failures: 1)",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.8,
+      "memory_percent": 50.1,
+      "memory_available_gb": 7.852684020996094,
+      "disk_free_gb": 0.6232070922851562,
+      "process_count": 264,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1520008666666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:52:00.847390",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 1.1,
+      "memory_percent": 50.1,
+      "memory_available_gb": 7.853294372558594,
+      "disk_free_gb": 0.6232070922851562,
+      "process_count": 264,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1855481666666665
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:52:02.509961",
+    "action": "ZOMBIE_CLEANUP",
+    "details": "Terminated orphaned process 13104",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 0.7,
+      "memory_percent": 50.0,
+      "memory_available_gb": 7.862247467041016,
+      "disk_free_gb": 0.6232070922851562,
+      "process_count": 262,
+      "office_process": {},
+      "uptime_minutes": 2.2132101
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:52:06.609976",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #1, Consecutive failures: 2",
+    "level": "ERROR",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 1.8,
+      "memory_percent": 50.1,
+      "memory_available_gb": 7.848560333251953,
+      "disk_free_gb": 0.6232070922851562,
+      "process_count": 264,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.281603083333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:54:07.626758",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 0.8,
+      "memory_percent": 50.8,
+      "memory_available_gb": 7.739742279052734,
+      "disk_free_gb": 0.623199462890625,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.2985319833333335
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:54:08.638857",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 2 seconds before restart (failures: 2)",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 1.4,
+      "memory_percent": 50.8,
+      "memory_available_gb": 7.739635467529297,
+      "disk_free_gb": 0.623199462890625,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.31539775
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:54:11.651530",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 1.4,
+      "memory_percent": 50.8,
+      "memory_available_gb": 7.740123748779297,
+      "disk_free_gb": 0.6231956481933594,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.365606816666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:54:16.353521",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #2, Consecutive failures: 3",
+    "level": "ERROR",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 3.4,
+      "memory_percent": 50.8,
+      "memory_available_gb": 7.743011474609375,
+      "disk_free_gb": 0.6231956481933594,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.444002800000001
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:55:03.381648",
+    "action": "PERFORMANCE_ANALYTICS_GENERATED",
+    "details": "Stability: 70, Trend: stable",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 2.8,
+      "memory_percent": 50.8,
+      "memory_available_gb": 7.73272705078125,
+      "disk_free_gb": 0.6231956481933594,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 5.227769816666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:56:19.400766",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 1.3,
+      "memory_percent": 47.6,
+      "memory_available_gb": 8.246955871582031,
+      "disk_free_gb": 0.6231918334960938,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.4947615
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:56:20.412867",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 4 seconds before restart (failures: 3)",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 1.1,
+      "memory_percent": 47.6,
+      "memory_available_gb": 8.247108459472656,
+      "disk_free_gb": 0.6231918334960938,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.511629816666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:56:25.425308",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 0.7,
+      "memory_percent": 47.7,
+      "memory_available_gb": 8.232688903808594,
+      "disk_free_gb": 0.6231765747070312,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.595177083333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:56:30.090939",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #3, Consecutive failures: 4",
+    "level": "ERROR",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 1.3,
+      "memory_percent": 47.6,
+      "memory_available_gb": 8.23691177368164,
+      "disk_free_gb": 0.6231727600097656,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.672925733333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:58:31.107076",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 15.1,
+      "memory_percent": 84.0,
+      "memory_available_gb": 2.5105743408203125,
+      "disk_free_gb": 0.6231498718261719,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.689998699999999
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:58:32.133157",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 8 seconds before restart (failures: 4)",
+    "level": "INFO",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 7.5,
+      "memory_percent": 84.0,
+      "memory_available_gb": 2.509990692138672,
+      "disk_free_gb": 0.6231498718261719,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.706981716666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:58:41.146778",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 13.7,
+      "memory_percent": 79.8,
+      "memory_available_gb": 3.1770668029785156,
+      "disk_free_gb": 0.6231498718261719,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.857239116666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T07:58:45.892161",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #4, Consecutive failures: 5",
+    "level": "ERROR",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 8.3,
+      "memory_percent": 75.9,
+      "memory_available_gb": 3.7890968322753906,
+      "disk_free_gb": 0.6231498718261719,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.93630375
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:00:17.924369",
+    "action": "PERFORMANCE_ANALYTICS_GENERATED",
+    "details": "Stability: 50, Trend: stable",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 6.9,
+      "memory_percent": 75.4,
+      "memory_available_gb": 3.8642120361328125,
+      "disk_free_gb": 0.6231498718261719,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 10.470174783333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:00:48.943129",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 31.5,
+      "memory_percent": 84.1,
+      "memory_available_gb": 2.5057640075683594,
+      "disk_free_gb": 0.6231460571289062,
+      "process_count": 273,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 10.987217333333332
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:00:49.961123",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 16 seconds before restart (failures: 5)",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 11.2,
+      "memory_percent": 76.5,
+      "memory_available_gb": 3.6936302185058594,
+      "disk_free_gb": 0.6231460571289062,
+      "process_count": 272,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.004157916666665
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:01:06.977886",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 9.9,
+      "memory_percent": 78.9,
+      "memory_available_gb": 3.3200111389160156,
+      "disk_free_gb": 0.6231460571289062,
+      "process_count": 273,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.287782983333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:01:11.819047",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #5, Consecutive failures: 6",
+    "level": "ERROR",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 9.6,
+      "memory_percent": 78.7,
+      "memory_available_gb": 3.356586456298828,
+      "disk_free_gb": 0.6231460571289062,
+      "process_count": 272,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.368440166666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:03:12.837304",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 7.0,
+      "memory_percent": 85.2,
+      "memory_available_gb": 2.3293495178222656,
+      "disk_free_gb": 0.6231460571289062,
+      "process_count": 268,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 13.385456150000001
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:03:13.855479",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 32 seconds before restart (failures: 6)",
+    "level": "INFO",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 16.5,
+      "memory_percent": 81.9,
+      "memory_available_gb": 2.85205078125,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 268,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 13.402399466666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:03:46.872715",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 16.9,
+      "memory_percent": 79.4,
+      "memory_available_gb": 3.2334747314453125,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 270,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 13.952678666666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:03:51.905825",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #6, Consecutive failures: 7",
+    "level": "ERROR",
+    "restart_count": 6,
+    "stability_score": 30,
+    "consecutive_failures": 7,
+    "system_metrics": {
+      "cpu_percent": 7.4,
+      "memory_percent": 81.1,
+      "memory_available_gb": 2.9785232543945312,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 268,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 14.036568533333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:04:21.713036",
+    "action": "ENHANCED_SERVICE_STARTED",
+    "details": "Alan Turing's V3.0 background service initialized",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 18.6,
+      "memory_percent": 78.8,
+      "memory_available_gb": 3.3334884643554688,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 269,
+      "office_process": {},
+      "uptime_minutes": 0.016898950000000003
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:04:22.807865",
+    "action": "GIT_SETUP_INITIALIZED",
+    "details": "Git authentication ready for PAT configuration",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 8.3,
+      "memory_percent": 78.4,
+      "memory_available_gb": 3.3946075439453125,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 269,
+      "office_process": {},
+      "uptime_minutes": 0.0351268
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:04:23.820815",
+    "action": "ENHANCED_STARTUP_SCRIPT_CREATED",
+    "details": "D:\\Ethereal Glow\\python-systems\\start_taqwin_enhanced.bat",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 8.5,
+      "memory_percent": 78.4,
+      "memory_available_gb": 3.397258758544922,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 269,
+      "office_process": {},
+      "uptime_minutes": 0.052015849999999995
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:04:25.829060",
+    "action": "ZOMBIE_CLEANUP",
+    "details": "Terminated orphaned process 6780",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 100,
+    "consecutive_failures": 0,
+    "system_metrics": {
+      "cpu_percent": 7.1,
+      "memory_percent": 78.3,
+      "memory_available_gb": 3.4064559936523438,
+      "disk_free_gb": 0.6231422424316406,
+      "process_count": 267,
+      "office_process": {},
+      "uptime_minutes": 0.08547371666666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:06:30.235979",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 6.9,
+      "memory_percent": 76.9,
+      "memory_available_gb": 3.6395416259765625,
+      "disk_free_gb": 0.623138427734375,
+      "process_count": 267,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.15900325
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:06:31.253331",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 1 seconds before restart (failures: 1)",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 8.3,
+      "memory_percent": 76.9,
+      "memory_available_gb": 3.638866424560547,
+      "disk_free_gb": 0.623138427734375,
+      "process_count": 267,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.1759440666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:06:33.269852",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 0,
+    "stability_score": 90,
+    "consecutive_failures": 1,
+    "system_metrics": {
+      "cpu_percent": 16.4,
+      "memory_percent": 81.6,
+      "memory_available_gb": 2.8899154663085938,
+      "disk_free_gb": 0.623138427734375,
+      "process_count": 267,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.209564416666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:06:38.083977",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #1, Consecutive failures: 2",
+    "level": "ERROR",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 8.1,
+      "memory_percent": 73.0,
+      "memory_available_gb": 4.243587493896484,
+      "disk_free_gb": 0.623138427734375,
+      "process_count": 265,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 2.2897833666666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:08:39.103471",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 8.5,
+      "memory_percent": 72.5,
+      "memory_available_gb": 4.319286346435547,
+      "disk_free_gb": 0.623138427734375,
+      "process_count": 266,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.306744783333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:08:40.117825",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 2 seconds before restart (failures: 2)",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 7.8,
+      "memory_percent": 72.5,
+      "memory_available_gb": 4.318950653076172,
+      "disk_free_gb": 0.6231346130371094,
+      "process_count": 266,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.323650366666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:08:43.132763",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 1,
+    "stability_score": 80,
+    "consecutive_failures": 2,
+    "system_metrics": {
+      "cpu_percent": 13.8,
+      "memory_percent": 77.9,
+      "memory_available_gb": 3.4755859375,
+      "disk_free_gb": 0.6231346130371094,
+      "process_count": 266,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.373957216666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:08:47.945626",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #2, Consecutive failures: 3",
+    "level": "ERROR",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 8.3,
+      "memory_percent": 76.9,
+      "memory_available_gb": 3.637683868408203,
+      "disk_free_gb": 0.6231346130371094,
+      "process_count": 265,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 4.454089683333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:09:34.971650",
+    "action": "PERFORMANCE_ANALYTICS_GENERATED",
+    "details": "Stability: 70, Trend: stable",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 7.7,
+      "memory_percent": 77.4,
+      "memory_available_gb": 3.5477867126464844,
+      "disk_free_gb": 0.6231346130371094,
+      "process_count": 264,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 5.237891583333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:10:50.996290",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 8.1,
+      "memory_percent": 75.2,
+      "memory_available_gb": 3.893566131591797,
+      "disk_free_gb": 0.6231269836425781,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.505006983333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:10:52.014061",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 4 seconds before restart (failures: 3)",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 7.3,
+      "memory_percent": 73.5,
+      "memory_available_gb": 4.160655975341797,
+      "disk_free_gb": 0.6231269836425781,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.521943033333333
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:10:57.030338",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 2,
+    "stability_score": 70,
+    "consecutive_failures": 3,
+    "system_metrics": {
+      "cpu_percent": 7.1,
+      "memory_percent": 72.2,
+      "memory_available_gb": 4.366024017333984,
+      "disk_free_gb": 0.6231231689453125,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.605521816666666
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:11:01.755437",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #3, Consecutive failures: 4",
+    "level": "ERROR",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 9.1,
+      "memory_percent": 72.2,
+      "memory_available_gb": 4.365001678466797,
+      "disk_free_gb": 0.6231231689453125,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 6.684281783333334
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:13:02.774256",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 8.8,
+      "memory_percent": 73.6,
+      "memory_available_gb": 4.153934478759766,
+      "disk_free_gb": 0.6231155395507812,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.701269683333333
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:13:03.789779",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 8 seconds before restart (failures: 4)",
+    "level": "INFO",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 15.8,
+      "memory_percent": 77.9,
+      "memory_available_gb": 3.4799957275390625,
+      "disk_free_gb": 0.6231155395507812,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.7182067
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:13:12.806586",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 3,
+    "stability_score": 60,
+    "consecutive_failures": 4,
+    "system_metrics": {
+      "cpu_percent": 9.5,
+      "memory_percent": 74.6,
+      "memory_available_gb": 3.9926071166992188,
+      "disk_free_gb": 0.6231155395507812,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.868474149999999
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:13:17.528600",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #4, Consecutive failures: 5",
+    "level": "ERROR",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 7.6,
+      "memory_percent": 72.3,
+      "memory_available_gb": 4.364227294921875,
+      "disk_free_gb": 0.6231155395507812,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 8.947163683333335
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:14:49.558399",
+    "action": "PERFORMANCE_ANALYTICS_GENERATED",
+    "details": "Stability: 50, Trend: stable",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 8.6,
+      "memory_percent": 73.3,
+      "memory_available_gb": 4.200115203857422,
+      "disk_free_gb": 0.6231040954589844,
+      "process_count": 261,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 10.481013083333332
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:15:20.579396",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 18.6,
+      "memory_percent": 78.9,
+      "memory_available_gb": 3.3245620727539062,
+      "disk_free_gb": 0.6231040954589844,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 10.998048116666666
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:15:21.597043",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 16 seconds before restart (failures: 5)",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 12.0,
+      "memory_percent": 69.7,
+      "memory_available_gb": 4.761501312255859,
+      "disk_free_gb": 0.6231040954589844,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.014976166666665
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:15:38.612157",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 4,
+    "stability_score": 50,
+    "consecutive_failures": 5,
+    "system_metrics": {
+      "cpu_percent": 7.5,
+      "memory_percent": 73.5,
+      "memory_available_gb": 4.168384552001953,
+      "disk_free_gb": 0.6231040954589844,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.298537549999999
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:15:43.359560",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #5, Consecutive failures: 6",
+    "level": "ERROR",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 8.2,
+      "memory_percent": 73.5,
+      "memory_available_gb": 4.168498992919922,
+      "disk_free_gb": 0.6231040954589844,
+      "process_count": 260,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 11.37767715
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:17:44.380146",
+    "action": "RESTART_NEEDED_ENHANCED",
+    "details": "Health issues: Process not running or terminated",
+    "level": "WARNING",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 4.3,
+      "memory_percent": 39.0,
+      "memory_available_gb": 9.587577819824219,
+      "disk_free_gb": 0.6226463317871094,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 13.394676483333335
+    },
+    "custom_metrics": {
+      "is_running": false,
+      "responsive": false,
+      "memory_healthy": true,
+      "cpu_healthy": true,
+      "restart_needed": true,
+      "diagnostics": [
+        "Process not running or terminated"
+      ]
+    },
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:17:45.394053",
+    "action": "BACKOFF_WAIT",
+    "details": "Waiting 32 seconds before restart (failures: 6)",
+    "level": "INFO",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 2.4,
+      "memory_percent": 39.0,
+      "memory_available_gb": 9.58724594116211,
+      "disk_free_gb": 0.6226425170898438,
+      "process_count": 262,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 13.411575466666667
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:18:18.408985",
+    "action": "GRACEFUL_SHUTDOWN",
+    "details": "Process terminated gracefully",
+    "level": "INFO",
+    "restart_count": 5,
+    "stability_score": 40,
+    "consecutive_failures": 6,
+    "system_metrics": {
+      "cpu_percent": 1.3,
+      "memory_percent": 39.1,
+      "memory_available_gb": 9.573841094970703,
+      "disk_free_gb": 0.6226425170898438,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 13.961825900000001
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  },
+  {
+    "timestamp": "2025-07-26T08:18:23.093602",
+    "action": "OFFICE_RESTART_FAILED_ENHANCED",
+    "details": "Failed restart #6, Consecutive failures: 7",
+    "level": "ERROR",
+    "restart_count": 6,
+    "stability_score": 30,
+    "consecutive_failures": 7,
+    "system_metrics": {
+      "cpu_percent": 1.5,
+      "memory_percent": 39.1,
+      "memory_available_gb": 9.574481964111328,
+      "disk_free_gb": 0.6226425170898438,
+      "process_count": 263,
+      "office_process": {
+        "status": "not_accessible"
+      },
+      "uptime_minutes": 14.039972483333335
+    },
+    "custom_metrics": {},
+    "status": "ENHANCED_ACTIVE"
+  }
+]

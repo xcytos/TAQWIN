@@ -5,5 +5,89 @@
     "restart_count": 4,
     "process_id": 3000,
     "uptime_hours": 0.08335012638888889
+  },
+  {
+    "timestamp": "2025-07-26T05:43:59.161901",
+    "office_running": false,
+    "restart_count": 9,
+    "process_id": 6916,
+    "uptime_hours": 0.166699415
+  },
+  {
+    "timestamp": "2025-07-26T05:48:59.219584",
+    "office_running": false,
+    "restart_count": 14,
+    "process_id": 12608,
+    "uptime_hours": 0.2500487705555556
+  },
+  {
+    "timestamp": "2025-07-26T05:53:59.279694",
+    "office_running": false,
+    "restart_count": 19,
+    "process_id": 12216,
+    "uptime_hours": 0.3333988002777778
+  },
+  {
+    "timestamp": "2025-07-26T05:58:59.338432",
+    "office_running": false,
+    "restart_count": 24,
+    "process_id": 852,
+    "uptime_hours": 0.41674844972222225
+  },
+  {
+    "timestamp": "2025-07-26T06:03:59.398661",
+    "office_running": false,
+    "restart_count": 29,
+    "process_id": 26692,
+    "uptime_hours": 0.5000985127777777
+  },
+  {
+    "timestamp": "2025-07-26T06:08:59.472689",
+    "office_running": false,
+    "restart_count": 34,
+    "process_id": 2992,
+    "uptime_hours": 0.5834524116666667
+  },
+  {
+    "timestamp": "2025-07-26T06:13:59.541714",
+    "office_running": false,
+    "restart_count": 39,
+    "process_id": 16932,
+    "uptime_hours": 0.6668049166666666
+  },
+  {
+    "timestamp": "2025-07-26T06:18:59.602681",
+    "office_running": false,
+    "restart_count": 44,
+    "process_id": 27776,
+    "uptime_hours": 0.7501551863888888
+  },
+  {
+    "timestamp": "2025-07-26T06:23:59.669221",
+    "office_running": false,
+    "restart_count": 49,
+    "process_id": 10472,
+    "uptime_hours": 0.8335070027777778
+  },
+  {
+    "timestamp": "2025-07-26T06:28:59.729199",
+    "office_running": false,
+    "restart_count": 54,
+    "process_id": 27860,
+    "uptime_hours": 0.9168569952777778
+  },
+  {
+    "timestamp": "2025-07-26T06:33:59.791611",
+    "office_running": false,
+    "restart_count": 59,
+    "process_id": 28044,
+    "uptime_hours": 1.0002076638888888
+  },
+  {
+    "timestamp": "2025-07-26T06:38:59.852866",
+    "office_running": false,
+    "restart_count": 64,
+    "process_id": 5220,
+    "uptime_hours": 1.083558015
   }
 ]

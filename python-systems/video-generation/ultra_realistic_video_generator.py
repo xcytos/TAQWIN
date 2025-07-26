@@ -44,41 +44,57 @@ class UltraRealisticAIVideoGenerator:
         
         self.pipeline = None
         
-        # Optimized ultra-realistic prompts (CLIP token limit compliant)
+        # Enhanced ultra-realistic prompts with comprehensive elements (CLIP token limit compliant)
         self.ultra_realistic_prompts = {
             "luxury_product_showcase": {
-                "prompt": "Ultra-detailed luxury organic skincare jar, golden metallic cap, exquisite glass container, perfect reflections, soft studio lighting, shallow depth of field, premium cosmetics display, cinematic photography, warm golden tones",
-                "negative_prompt": "blurry, low quality, distorted, cartoon, anime, unrealistic, fake, poor lighting, amateur, washed out colors, flat lighting, harsh shadows"
+                "prompt": "Professional woman wearing elegant watch holding luxury organic skincare glass jar with golden metallic cap, crystal clear water droplets on glass surface, fine multani mitti powder visible inside transparent container, perfect reflections, soft studio lighting, shallow depth of field, premium cosmetics display, cinematic photography, warm golden tones, manicured hands, realistic skin texture",
             },
             "natural_ingredient_display": {
-                "prompt": "Photorealistic natural organic skincare ingredients, golden turmeric powder in elegant glass vials, botanical extracts with visible texture, luxury spa environment, warm ambient lighting, macro photography, professional product setup, soft shadows, rich color saturation",
-                "negative_prompt": "artificial, synthetic, low quality, blurry, cartoon, unrealistic, poor composition, flat lighting, oversaturated colors, fake textures, amateur"
+                "prompt": "Person's hands with luxury watch pouring golden multani mitti powder from glass container into crystal bowl filled with pure water, botanical extracts floating, visible powder particles dissolving, luxury spa environment with marble surfaces, warm ambient lighting, macro photography detail, professional product setup, soft shadows, rich color saturation, realistic water physics",
             },
             "professional_application_ritual": {
-                "prompt": "Beautiful professional model applying luxury face cream, elegant manicured hands, soft natural lighting, professional skincare routine in spa environment, realistic skin texture, gentle facial expressions, premium beauty atmosphere, shallow depth of field",
-                "negative_prompt": "unrealistic skin, artificial, cartoon, low quality, blurry, amateur, poor lighting, harsh shadows, overprocessed skin, fake textures, unnatural poses"
+                "prompt": "Beautiful professional model wearing designer watch applying luxury multani mitti face mask, elegant manicured hands holding glass applicator, crystal water bowl nearby, soft natural lighting, professional skincare routine in marble spa environment, realistic skin texture, gentle facial expressions, premium beauty atmosphere, powder particles visible on skin, shallow depth of field",
             },
             "skin_transformation_results": {
-                "prompt": "Ultra-detailed healthy glowing skin close-up, radiant complexion with visible texture and natural pores, professional skincare results, soft studio lighting, premium beauty cinematography, realistic skin reflection, confident natural smile, warm golden lighting",
-                "negative_prompt": "artificial, fake, cartoon, unrealistic, poor quality, amateur, overly processed, plastic-looking skin, harsh lighting, unnatural colors"
+                "prompt": "Ultra-detailed healthy glowing skin close-up of person wearing elegant watch, radiant complexion with visible natural pores after multani mitti treatment, glass jar and water bowl in background, professional skincare results, soft studio lighting, premium beauty cinematography, realistic skin reflection, confident natural smile, warm golden lighting, powder residue naturally cleaned",
             },
             "luxury_lifestyle_beauty": {
-                "prompt": "Ultra-realistic luxury skincare lifestyle scene, elegant bathroom setting, premium beauty products on marble surfaces, sophisticated woman with natural beauty, soft morning light through windows, high-end cosmetics, professional commercial photography, rich textures",
-                "negative_prompt": "cheap, low quality, amateur, unrealistic, cartoon, poor lighting, cluttered, artificial colors, flat lighting, fake materials, overprocessed"
+                "prompt": "Ultra-realistic luxury skincare lifestyle scene with sophisticated woman wearing premium watch in elegant bathroom, glass skincare containers on marble surfaces filled with multani mitti powder, crystal water glasses, premium beauty products arrangement, soft morning light through windows, high-end cosmetics, professional commercial photography, rich textures, natural beauty routine",
             },
             "premium_spa_environment": {
-                "prompt": "Professional spa treatment room with ultra-realistic detail, natural stone surfaces, soft bamboo elements, warm ambient lighting, luxury skincare products on wood shelving, soft towels with realistic fabric texture, candles creating atmospheric lighting",
-                "negative_prompt": "artificial, fake, cartoon, unrealistic, poor quality, harsh lighting, plastic materials, oversaturated colors, amateur photography"
+                "prompt": "Professional spa treatment room with person wearing luxury watch, natural stone surfaces, glass containers filled with multani mitti powder, crystal water bowls, soft bamboo elements, warm ambient lighting, luxury skincare products on wood shelving, soft towels with realistic fabric texture, candles creating atmospheric lighting, peaceful wellness atmosphere",
             },
             "before_after_transformation": {
-                "prompt": "Professional before and after skincare transformation photography, realistic skin showing natural improvement, soft studio lighting, professional beauty setup, natural skin tones, gentle facial expressions, warm lighting enhancing natural glow",
-                "negative_prompt": "unrealistic transformation, fake results, cartoon, poor quality, harsh lighting, overprocessed images, artificial skin, amateur photography"
+                "prompt": "Professional before and after skincare transformation photography showing person with elegant watch, realistic skin improvement after multani mitti treatment, glass containers and water bowls visible, soft studio lighting, professional beauty setup, natural skin tones, gentle facial expressions, warm lighting enhancing natural glow, visible skin texture improvement",
             },
             "ethereal_glow_branding": {
-                "prompt": "Ultra-detailed Ethereal Glow brand presentation, luxury gold and cream color palette, elegant typography, premium brand elements with metallic gold accents, soft diffused lighting, high-end cosmetic branding photography, professional product styling",
-                "negative_prompt": "cheap branding, poor typography, harsh lighting, artificial colors, amateur design, low quality, unrealistic materials"
+                "prompt": "Ultra-detailed Ethereal Glow brand presentation with model wearing luxury watch, glass jars filled with golden multani mitti powder, crystal water elements, luxury gold and cream color palette, elegant typography, premium brand elements with metallic gold accents, soft diffused lighting, high-end cosmetic branding photography, professional product styling, complete brand ecosystem",
+            },
+            "multani_mitti_powder_focus": {
+                "prompt": "Extreme macro shot of fine multani mitti powder particles in crystal glass container, person's hand with elegant watch reaching for jar, water droplets on glass surface, golden powder texture detail, luxury spa setting, professional product photography, warm lighting, shallow depth of field, premium organic skincare, natural earth tones",
+            },
+            "water_ritual_ceremony": {
+                "prompt": "Elegant hands with luxury watch mixing multani mitti powder with pure crystal water in glass bowl, swirling motion creating natural paste, water splashes frozen in time, professional spa environment, soft ambient lighting, macro photography capturing water and powder interaction, premium skincare ritual, realistic fluid dynamics",
+            },
+            "glass_container_artistry": {
+                "prompt": "Professional model wearing designer watch arranging multiple glass containers filled with different shades of multani mitti powder, crystal water glasses reflecting light, marble surface, luxury skincare collection display, soft studio lighting, premium brand presentation, elegant hand positioning, realistic glass reflections and refractions",
+            },
+            "complete_skincare_ritual": {
+                "prompt": "Full skincare routine sequence with person wearing luxury watch, glass jars of multani mitti powder, crystal water bowls, application brushes, soft towels, marble bathroom setting, natural morning light, professional beauty photography, realistic skin interaction, premium spa atmosphere, complete wellness experience, golden hour lighting",
             }
         }
+        
+        # Random prompt picker for accelerated testing
+        self.random_prompt_variations = [
+            "professional woman", "elegant model", "sophisticated person", "beautiful individual", "luxury lifestyle model",
+            "designer watch", "elegant timepiece", "luxury watch", "premium wristwatch", "sophisticated timepiece",
+            "crystal glass jar", "premium glass container", "luxury glass vessel", "elegant glass bottle", "sophisticated glass holder",
+            "fine multani mitti powder", "golden clay powder", "organic earth powder", "natural skincare powder", "premium clay particles",
+            "crystal clear water", "pure spring water", "filtered water", "mineral water", "pristine water",
+            "marble surfaces", "stone countertops", "luxury bathroom", "premium spa setting", "elegant environment",
+            "soft studio lighting", "warm golden light", "natural ambient lighting", "professional photography lighting", "cinematic illumination",
+            "shallow depth of field", "bokeh background", "professional focus", "cinematic blur", "artistic depth"
+        ]
         
     def load_pipeline(self):
         """Load AnimateDiff pipeline with enhanced settings for ultra-realism"""

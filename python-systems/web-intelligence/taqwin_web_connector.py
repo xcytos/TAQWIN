@@ -79,7 +79,7 @@ class TAQWINWebConnector:
                 response = self.secure_request(url, timeout=10)
                 if response and response.status_code == 200:
                     self.connection_active = True
-            logging.info(f"[CHECK] Internet connectivity confirmed via {url}")
+                    logging.info(f"[CHECK] Internet connectivity confirmed via {url}")
                     return True
             except Exception as e:
                 logging.warning(f"⚠️ Connection test failed for {url}: {e}")
@@ -122,11 +122,11 @@ class TAQWINWebConnector:
             
             if response.status_code == 200:
                 self.successful_requests += 1
-            logging.info(f"[SUCCESS] Successful request to {domain}")
+                logging.info(f"[SUCCESS] Successful request to {domain}")
                 return response
             else:
                 self.failed_requests += 1
-            logging.warning(f"[WARNING] Request returned status {response.status_code} for {url}")
+                logging.warning(f"[WARNING] Request returned status {response.status_code} for {url}")
                 return response
                 
         except requests.exceptions.Timeout:
