@@ -712,5 +712,68 @@
       "stability_trend": "stable",
       "recommended_action": "Moderate issues - consider process restart"
     }
+  },
+  {
+    "timestamp": "2025-07-27T02:57:55.197976",
+    "service_uptime_hours": 0.26126943444444445,
+    "restart_count": 6,
+    "stability_score": 30,
+    "consecutive_failures": 7,
+    "system_health": {
+      "cpu_usage": 2.4,
+      "memory_usage": 69.3,
+      "disk_free_gb": 0.495391845703125,
+      "process_count": 334
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "degrading",
+      "recommended_action": "Critical instability - investigate resource conflicts"
+    }
+  },
+  {
+    "timestamp": "2025-07-27T03:03:00.007471",
+    "service_uptime_hours": 0.34593873888888893,
+    "restart_count": 8,
+    "stability_score": 10,
+    "consecutive_failures": 9,
+    "system_health": {
+      "cpu_usage": 19.9,
+      "memory_usage": 68.9,
+      "disk_free_gb": 0.4953880310058594,
+      "process_count": 334
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "degrading",
+      "recommended_action": "Critical instability - investigate resource conflicts"
+    }
+  },
+  {
+    "timestamp": "2025-07-27T03:09:18.774981",
+    "service_uptime_hours": 0.4511519358333333,
+    "restart_count": 10,
+    "stability_score": 0,
+    "consecutive_failures": 11,
+    "system_health": {
+      "cpu_usage": 21.1,
+      "memory_usage": 69.7,
+      "disk_free_gb": 0.49538421630859375,
+      "process_count": 331
+    },
+    "office_process_health": {
+      "status": "not_accessible"
+    },
+    "predictions": {
+      "next_restart_probability": 100,
+      "stability_trend": "degrading",
+      "recommended_action": "Critical instability - investigate resource conflicts"
+    }
   }
 ]
